@@ -46,13 +46,12 @@ def commit(book_collection, author_collection, address, flag):
                 author_item = existing_author
 
         if flag:
-            # Obtém os títulos existentes no banco de dados
-            query = "SELECT titulo FROM livros"
+            # Obtém os dados existentes na tabela de livros
+            query = "SELECT autor, titulo FROM livros"
             cursor.execute(query)
             results = cursor.fetchall()
 
-            existing_titles_normalized = [normalize_word(row[0]) for row in results]
-            existing_titles_not_normalized = [row[0] for row in results]
+            existing_books = [(normalize_word(row[0]), normalize_word(row[1])) for row in results]
 
             # Inserir os dados válidos na tabela de livros do banco de dados
             for book in book_collection:
@@ -60,18 +59,18 @@ def commit(book_collection, author_collection, address, flag):
                 title = book['titulo']
                 language = book['idioma']
 
+                normalized_author = normalize_word(author)
                 normalized_title = normalize_word(title)
 
-                if normalized_title not in existing_titles_normalized:
-                    # O título não existe na tabela, realizar a inserção
+                if (normalized_author, normalized_title) not in existing_books:
+                    # O autor e título não existem na tabela, realizar a inserção
                     query = "INSERT INTO livros (autor, titulo, idioma) VALUES (%s, %s, %s)"
                     cursor.execute(query, (author, title, language))
                 else:
                     print(f"Livro '{title}' do autor '{author}' já existe na tabela, pulando a inserção.")
                     # Modificar o título para o valor existente no banco de dados
-                    index = existing_titles_normalized.index(normalized_title)
-                    existing_title = existing_titles_not_normalized[index]
-                    book['titulo'] = existing_title
+                    book['titulo'] = title + f" ({author})"
+
 
         conn.commit()
         print("\nDados inseridos com sucesso.\n")
