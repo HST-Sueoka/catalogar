@@ -22,18 +22,22 @@ def Delete_Author(address):
         query = "DELETE FROM livros WHERE autor = %s"
         cursor.execute(query, (wanted_author,))
 
-        query = "DELETE FROM autores WHERE autor = %s"
-        cursor.execute(query, (wanted_author,))
-
-        conn.commit()
-
-
-
         # rowcount retorna o número de linhas afetadas pelo comando SQL
         if cursor.rowcount > 1:
             print(f"{cursor.rowcount} livros excluídos com sucesso, além do autor.")
-        else:
+        elif cursor.rowcount == 1:
             print(f"{cursor.rowcount} livro excluído com sucesso, além do autor.")
+        else:
+            print("Nenhum livro encontrado do autor.")
+
+
+        query = "DELETE FROM autores WHERE autor = %s"
+        cursor.execute(query, (wanted_author,))
+
+        if cursor.rowcount == 1:
+            print("Autor excluido com sucesso.")
+
+        conn.commit()
 
     except psycopg2.Error as error:
         print("\n\nOcorreu um erro ao conectar ou manipular o banco de dados:", error)

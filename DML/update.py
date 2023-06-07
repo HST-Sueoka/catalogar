@@ -21,7 +21,7 @@ def Update_Author(address):
 
 
 def Update_Book(address):
-    wanted_book_id = input("Digite o ID do livro que deseja excluir: ")
+    wanted_book_id = input("Digite o ID do livro que deseja atualizar: ")
 
     try:
         conn = psycopg2.connect(
