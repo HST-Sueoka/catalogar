@@ -4,7 +4,7 @@ import time
 from support.normalize import normalize_word
 
 
-def commit(book_collection, author_collection, address, flag):
+def commit_scan(book_collection, author_collection, address, flag):
     # Limpar o console
     print("\033c")
     print("\nAnalisando dados coletados\n")

@@ -1,5 +1,6 @@
 from support.database_address import input_address
 from support.scan import Scan_Directory
+from DML.insert import Add_Book, Add_Author
 
 
 print("\033c")
@@ -34,9 +35,11 @@ while choice != 99:
 
     elif choice == 3:
         print("Adicionar Autor")
+        Add_Author(address)
 
     elif choice == 4:
         print("Adicionar Livro")
+        Add_Book(address)
 
     elif choice == 5:
         print("Remover Autor")

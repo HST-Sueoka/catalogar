@@ -60,6 +60,6 @@ def Scan_Directory(address, flag):
     # Adicionar livros ao banco de dados
 
     time.sleep(3)
-    dataBase.commit(book_collection, author_collection, address, flag)
+    dataBase.commit_scan(book_collection, author_collection, address, flag)
 
     return
