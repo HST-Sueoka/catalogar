@@ -1,7 +1,8 @@
-from support.database_address import input_address
-from support.scan import Scan_Directory
-from DML.insert import Add_Book, Add_Author
+from DML.insert import adicionar_autor, adicionar_livro
+from DML.delete import deletar_autor, deletar_livro
+from dataBase.dataBase_address import input_address
 
+from support.scan import escanear_diretorio
 
 print("\033c")
 
@@ -21,47 +22,59 @@ while choice != 99:
     print("[08]  - Corrigir Livro.")
     print("[25]  - Inserir o endereço do banco de dados.")
     print("[99]  - Sair.")
-    choice = int(input("Opção desejada: "))
+    choice = input("Opção desejada: ")
 
     print("\033c")
 
-    if choice == 1:
+    if choice == '1':
         print("Escanear diretório e adicionar autores & livros.")
-        Scan_Directory(address, True)
+        escanear_diretorio(address, True)
 
-    elif choice == 2:
+    elif choice == '2':
         print("Escanear diretório e adicionar somente autores.")
-        Scan_Directory(address, False)
+        escanear_diretorio(address, False)
 
-    elif choice == 3:
+    elif choice == '3':
         print("Adicionar Autor")
-        Add_Author(address)
+        adicionar_autor(address)
 
-    elif choice == 4:
+    elif choice == '4':
         print("Adicionar Livro")
-        Add_Book(address)
+        adicionar_livro(address)
 
-    elif choice == 5:
+    elif choice == '5':
         print("Remover Autor")
+        deletar_autor(address)
 
-    elif choice == 6:
+    elif choice == '6':
         print("Remover Livro")
+        deletar_livro(address)
 
-    elif choice == 7:
+    elif choice == '7':
         print("Corrigir Autor")
 
-    elif choice == 8:
+    elif choice == '8':
         print("Corrigir Livro")
 
-    elif choice == 99:
+    elif choice == '99':
         print("Finalizando Programa")
 
-    elif choice == 25:
+    elif choice == '25':
         print("Inserir o endereço do banco de dados")
         address = input_address()
 
     else:
         print("Opção inexistente!!!")
+
+
+
+
+
+
+
+
+
+
 
 
 '''

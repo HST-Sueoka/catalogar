@@ -1,65 +1,76 @@
 import locale
-from pathlib import Path
+import pathlib
 import time
-from format import format_epub, format_pdf, format_unknown, format_docx, format_txt
-from support import dataBase
+from typing import KeysView
+from dataBase.dataBase import commit_scan
+from support import format
+from support import normalize
+from testes import teste
 
-def Scan_Directory(address, flag):
-    
-    # Limpar o console
-    print("\033c")  
-
-    # Obter diretório para análise
+def escanear_diretorio(address, flag):
+    print("\033c")
     directory = input("Digite o caminho do diretório a ser analisado: ")
+    print("\033c")
 
     # Configurar o locale
     locale.setlocale(locale.LC_ALL, 'pt_BR.UTF-8')
 
-    book_collection = []
-    author_collection = []
-    file_counter = 0
+    colecao_autores = []
+    colecao_autores_normalizados = []
+    colecao_livros_normalizados = []
+    colecao_livros = []
 
-    print("\n\nIniciando Software\n\n")
+    print("Iniciando software.\n")
 
-    for file_path in Path(directory).rglob('*'):
+    contador = 0
+
+    for file_path in pathlib.Path(directory).rglob('*'):
         if not file_path.is_file():
             continue
 
-        name = file_path.name
+        nome_arquivo = file_path.name
 
-        print(f"\nAnalisando o arquivo >>> {name}")
+        print(f"Analisando o arquivo >>> {nome_arquivo}")
 
-        if name.endswith('.epub'):
-            author, title, language = format_epub.process_epub(file_path, name)
+        if nome_arquivo.endswith('.epub'):
+            autor, titulo, idioma = format.process_epub(file_path, nome_arquivo)
 
-        elif name.endswith('.pdf'):
-            author, title, language = format_pdf.process_pdf(file_path, name)
-        
-        elif name.endswith('.docx'):
-            author, title, language = format_docx.process_docx(file_path, name)
+        elif nome_arquivo.endswith('.pdf'):
+            autor, titulo, idioma = format.process_pdf(file_path, nome_arquivo)
 
-        elif name.endswith('.txt'):
-            author, title, language = format_txt.process_txt(file_path, name)
-        
+        elif nome_arquivo.endswith('.docx'):
+            autor, titulo, idioma = format.process_docx(file_path, nome_arquivo)
+
+        elif nome_arquivo.endswith('.txt'):
+            autor, titulo, idioma = format.process_txt(file_path, nome_arquivo)
+
         else:
-            author, title, language = format_unknown.process_unknown(file_path, name)
+            autor, titulo, idioma = format.process_unknown(file_path, nome_arquivo)
 
-        book_collection.append({'autor': author, 'titulo': title, 'idioma': language})
+        autor_normalizado = normalize.normalizar_palavra(autor)
+        titulo_normalizado = normalize.normalizar_palavra(titulo)
 
-        v_author = author
-        if v_author not in author_collection:
-            author_collection.append(v_author)
-        
-        file_counter = file_counter + 1
 
-    # Ordenar a lista
-    book_collection = sorted(book_collection, key=lambda x: locale.strxfrm(x['autor']))
+        if autor_normalizado not in colecao_autores_normalizados:
+            colecao_autores_normalizados.append(autor_normalizado)
+            colecao_autores.append(autor)
+        else:
+            index = colecao_autores_normalizados.index(autor_normalizado)
+            autor = colecao_autores[index]
 
-    print(f'\n\nArquivos escaneados = {file_counter}')
 
-    # Adicionar livros ao banco de dados
+        if [autor_normalizado, titulo_normalizado, idioma] not in colecao_livros_normalizados:
+            autor_original = autor
+            colecao_livros.append([autor_original, titulo, idioma])
+            colecao_livros_normalizados.append([autor_normalizado, titulo_normalizado, idioma])
 
+        contador += 1
+
+    print(f'\n\nArquivos escaneados = {contador}')
     time.sleep(3)
-    dataBase.commit_scan(book_collection, author_collection, address, flag)
+
+    teste.gerar_arquivos_json_scan(colecao_livros, colecao_autores, colecao_autores_normalizados, colecao_livros_normalizados)
+
+    commit_scan(colecao_livros, colecao_autores, colecao_autores_normalizados, colecao_livros_normalizados, address, flag)
 
     return

@@ -17,6 +17,14 @@ def Update_Author(address):
         )
 
 
+    except Exception as Error:
+        print()
+
+
+    finally:
+        print()
+
+
 
 
 

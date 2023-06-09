@@ -3,7 +3,7 @@ import psycopg2
 from DML.modify import Check_Author
 
 
-def Delete_Author(address):
+def deletar_autor(address):
 
     wanted_author = input("Digite o nome do autor que deseja excluir: ")
 
@@ -30,6 +30,7 @@ def Delete_Author(address):
         else:
             print("Nenhum livro encontrado do autor.")
 
+        conn.commit()
 
         query = "DELETE FROM autores WHERE autor = %s"
         cursor.execute(query, (wanted_author,))
@@ -39,7 +40,7 @@ def Delete_Author(address):
 
         conn.commit()
 
-    except psycopg2.Error as error:
+    except Exception as error:
         print("\n\nOcorreu um erro ao conectar ou manipular o banco de dados:", error)
         time.sleep(2)
     finally:
@@ -52,7 +53,7 @@ def Delete_Author(address):
 
 
 
-def Delete_Book(address):
+def deletar_livro(address):
     wanted_book_id = input("Digite o ID do livro que deseja excluir: ")
 
     try:
@@ -77,7 +78,7 @@ def Delete_Book(address):
         else:
             print("Nenhum livro encontrado com o ID fornecido.")
 
-    except psycopg2.Error as error:
+    except Exception as error:
         print("\n\nOcorreu um erro ao conectar ou manipular o banco de dados:", error)
         time.sleep(2)
     finally:

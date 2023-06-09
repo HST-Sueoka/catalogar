@@ -1,11 +1,11 @@
 import re
 import unicodedata
 
-def normalize_word(word):
+def normalizar_palavra(palavra):
     # Remover acentuações
-    word = unicodedata.normalize('NFKD', word).encode('ASCII', 'ignore').decode('utf-8')
+    palavra = unicodedata.normalize('NFKD', palavra).encode('ASCII', 'ignore').decode('utf-8')
 
     # Remover espaços, pontos e transformar em lowercase
-    word = re.sub(r'[\s.]+', '', word).lower()
+    palavra = re.sub(r'[\s.]+', '', palavra).lower()
 
-    return word
+    return palavra

@@ -1,13 +1,11 @@
 import time
 import psycopg2
-from support.normalize import normalize_word
+from support.normalize import normalizar_palavra
 
 
 
 def Check_Author(wanted_author, address):
-    # Limpar o console
-    print("\033c")
-    print("Verificando a existência do autor.\n")
+    print("\nVerificando a existência do autor.\n")
 
     try:
         conn = psycopg2.connect(
@@ -26,9 +24,9 @@ def Check_Author(wanted_author, address):
         cursor.execute(query)
         existing_author = cursor.fetchall()
 
-        existing_author_normalized = [normalize_word(author[0]) for author in existing_author]
+        existing_author_normalized = [normalizar_palavra(author[0]) for author in existing_author]
 
-        normalized_wanted = normalize_word(wanted_author)
+        normalized_wanted = normalizar_palavra(wanted_author)
 
         if normalized_wanted in existing_author_normalized:
             index = existing_author_normalized.index(normalized_wanted)
@@ -37,7 +35,7 @@ def Check_Author(wanted_author, address):
         else:
             flag_author = True
 
-    except psycopg2.Error as error:
+    except Exception as error:
         print("\n\nOcorreu um erro ao conectar ou manipular o banco de dados:", error)
         time.sleep(3)
 
@@ -53,7 +51,6 @@ def Check_Author(wanted_author, address):
 
 
 def Check_Book(wanted_author, wanted_title, wanted_language, address):
-    # Limpar o console
     print("\nVerificando a existência do livro.\n")
 
     try:
@@ -73,11 +70,11 @@ def Check_Book(wanted_author, wanted_title, wanted_language, address):
         cursor.execute(query, (wanted_author,))
         existing_books = cursor.fetchall()
 
-        existing_books_normalized = [(normalize_word(book[0]), normalize_word(book[1]), normalize_word(book[2])) for book in existing_books]
+        existing_books_normalized = [(normalizar_palavra(book[0]), normalizar_palavra(book[1]), normalizar_palavra(book[2])) for book in existing_books]
 
-        normalized_wanted_author = normalize_word(wanted_author)
-        normalized_wanted_title = normalize_word(wanted_title)
-        normalized_wanted_language = normalize_word(wanted_language)
+        normalized_wanted_author = normalizar_palavra(wanted_author)
+        normalized_wanted_title = normalizar_palavra(wanted_title)
+        normalized_wanted_language = normalizar_palavra(wanted_language)
 
         if (normalized_wanted_author, normalized_wanted_title, normalized_wanted_language) in existing_books_normalized:
             index = existing_books_normalized.index((normalized_wanted_author, normalized_wanted_title, normalized_wanted_language))
@@ -89,7 +86,7 @@ def Check_Book(wanted_author, wanted_title, wanted_language, address):
             flag_book = True
             
 
-    except psycopg2.Error as error:
+    except Exception as error:
         print("\n\nOcorreu um erro ao conectar ou manipular o banco de dados:", error)
         time.sleep(3)
 

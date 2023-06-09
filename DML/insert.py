@@ -4,7 +4,7 @@ import psycopg2
 from DML.modify import Check_Author, Check_Book
 
 
-def Add_Author(address):
+def adicionar_autor(address):
 
     wanted_author = input("\nDigite o autor desejado: ")
     wanted_author, flag_author = Check_Author(wanted_author, address)
@@ -44,7 +44,7 @@ def Add_Author(address):
 
 
 
-def Add_Book(address):
+def adicionar_livro(address):
 
     wanted_book = [
         input("\nDigite o autor do livro: "),
