@@ -4,8 +4,8 @@ from support.normalize import normalizar_palavra
 
 
 
-def Check_Author(wanted_author, address):
-    print("\nVerificando a existência do autor.\n")
+def Check_Author(autor_desejado, address):
+    print("Verificando a existência do autor.\n")
 
     try:
         conn = psycopg2.connect(
@@ -22,21 +22,21 @@ def Check_Author(wanted_author, address):
         # Obtém os autores existentes no banco de dados
         query = "SELECT autor FROM autores"
         cursor.execute(query)
-        existing_author = cursor.fetchall()
+        autores_existentes = cursor.fetchall()
 
-        existing_author_normalized = [normalizar_palavra(author[0]) for author in existing_author]
+        autores_existentes_normalized = [normalizar_palavra(author[0]) for author in autores_existentes]
 
-        normalized_wanted = normalizar_palavra(wanted_author)
+        autor_desejado_normalizado = normalizar_palavra(autor_desejado)
 
-        if normalized_wanted in existing_author_normalized:
-            index = existing_author_normalized.index(normalized_wanted)
-            wanted_author = existing_author[index][0]
+        if autor_desejado_normalizado in autores_existentes_normalized:
+            index = autores_existentes_normalized.index(autor_desejado_normalizado)
+            autor_desejado = autores_existentes[index][0]
             flag_author = False
         else:
             flag_author = True
 
     except Exception as error:
-        print("\n\nOcorreu um erro ao conectar ou manipular o banco de dados:", error)
+        print("Ocorreu um erro ao conectar ou manipular o banco de dados:", error)
         time.sleep(3)
 
     finally:
@@ -46,12 +46,12 @@ def Check_Author(wanted_author, address):
         if conn is not None:
             conn.close()
 
-    return wanted_author, flag_author
+    return autor_desejado, flag_author
 
 
 
-def Check_Book(wanted_author, wanted_title, wanted_language, address):
-    print("\nVerificando a existência do livro.\n")
+def Check_Book(autor_desejado, titulo_desejado, idioma_desejado, address):
+    print("Verificando a existência do livro.\n")
 
     try:
         conn = psycopg2.connect(
@@ -67,27 +67,27 @@ def Check_Book(wanted_author, wanted_title, wanted_language, address):
 
         # Obtém os livros existentes no banco de dados
         query = "SELECT autor, titulo, idioma FROM livros Where autor = %s"
-        cursor.execute(query, (wanted_author,))
-        existing_books = cursor.fetchall()
+        cursor.execute(query, (autor_desejado,))
+        livros_existentes = cursor.fetchall()
 
-        existing_books_normalized = [(normalizar_palavra(book[0]), normalizar_palavra(book[1]), normalizar_palavra(book[2])) for book in existing_books]
+        livros_existentes_normalized = [(normalizar_palavra(book[0]), normalizar_palavra(book[1]), normalizar_palavra(book[2])) for book in livros_existentes]
 
-        normalized_wanted_author = normalizar_palavra(wanted_author)
-        normalized_wanted_title = normalizar_palavra(wanted_title)
-        normalized_wanted_language = normalizar_palavra(wanted_language)
-
-        if (normalized_wanted_author, normalized_wanted_title, normalized_wanted_language) in existing_books_normalized:
-            index = existing_books_normalized.index((normalized_wanted_author, normalized_wanted_title, normalized_wanted_language))
-            wanted_author = existing_books[index][0]
-            wanted_title = existing_books[index][1]
-            wanted_language = existing_books[index][2]
+        autor_desejado_normalizado  = normalizar_palavra(autor_desejado)
+        titulo_desejado_normalizado = normalizar_palavra(titulo_desejado)
+        idioma_desejado_normalizado = normalizar_palavra(idioma_desejado) 
+ 
+        if (autor_desejado_normalizado, titulo_desejado_normalizado, idioma_desejado_normalizado) in livros_existentes_normalized:
+            index = livros_existentes_normalized.index((autor_desejado_normalizado, titulo_desejado_normalizado, idioma_desejado_normalizado))
+            autor_desejado = livros_existentes[index][0]
+            titulo_desejado = livros_existentes[index][1]
+            idioma_desejado = livros_existentes[index][2]
             flag_book = False
         else:
             flag_book = True
             
 
     except Exception as error:
-        print("\n\nOcorreu um erro ao conectar ou manipular o banco de dados:", error)
+        print("\nOcorreu um erro ao conectar ou manipular o banco de dados:", error)
         time.sleep(3)
 
     finally:
@@ -97,4 +97,4 @@ def Check_Book(wanted_author, wanted_title, wanted_language, address):
         if conn is not None:
             conn.close()
 
-    return wanted_author, wanted_title, wanted_language, flag_book
+    return autor_desejado, titulo_desejado, idioma_desejado, flag_book

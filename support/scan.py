@@ -1,7 +1,6 @@
 import locale
 import pathlib
 import time
-from typing import KeysView
 from dataBase.dataBase import commit_scan
 from support import format
 from support import normalize
@@ -66,7 +65,7 @@ def escanear_diretorio(address, flag):
 
         contador += 1
 
-    print(f'\n\nArquivos escaneados = {contador}')
+    print(f'\nArquivos escaneados = {contador}')
     time.sleep(3)
 
     teste.gerar_arquivos_json_scan(colecao_livros, colecao_autores, colecao_autores_normalizados, colecao_livros_normalizados)

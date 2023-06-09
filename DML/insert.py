@@ -6,7 +6,7 @@ from DML.modify import Check_Author, Check_Book
 
 def adicionar_autor(address):
 
-    wanted_author = input("\nDigite o autor desejado: ")
+    wanted_author = input("Digite o autor desejado: ")
     wanted_author, flag_author = Check_Author(wanted_author, address)
 
     if flag_author == True:
@@ -28,10 +28,11 @@ def adicionar_autor(address):
 
             print("\nAutor inserido com sucesso.\n")
             time.sleep(3)
-        except psycopg2.Error as error:
 
-            print("\n\nOcorreu um erro ao conectar ou manipular o banco de dados:", error)
+        except psycopg2.Error as error:
+            print("\nOcorreu um erro ao conectar ou manipular o banco de dados:", error)
             time.sleep(2)
+
         finally:
             if cursor is not None:
                 cursor.close()
@@ -39,7 +40,7 @@ def adicionar_autor(address):
             if conn is not None:
                 conn.close()
     else:
-        print("\nAutor existente.")
+        print("Autor existente.")
         time.sleep(2)
 
 
@@ -47,15 +48,25 @@ def adicionar_autor(address):
 def adicionar_livro(address):
 
     wanted_book = [
-        input("\nDigite o autor do livro: "),
+        input("Digite o autor do livro: "),
         input("Digite o título do livro: ")
     ]
 
     idioma_livro = input("Digite o idioma do livro (exemplos - pt, en, es, ru, fr): ")
 
-    while idioma_livro not in ['pt', 'en', 'es', 'fr', 'de', 'it', 'nl', 'ru', 'zh', 'ja', 'ar', 'hi', 'ko', 'tr', 'pl', 'vi', 'sv', 'fi', 'da', 'no', 'he', 'el', 'id', 'th', 'cs', 'hu', 'ro', 'uk', 'fa', 'sr', 'bg', 'sk', 'sl', 'lt', 'lv', 'et', 'hr', 'ca', 'eu']:
+    idiomas_permitidos = [
+        'pt', 'en', 'es', 'fr', 'de', 'it', 'nl', 'ru', 'zh',
+        'ja', 'ar', 'hi', 'ko', 'tr', 'pl', 'vi', 'sv', 'fi',
+        'da', 'no', 'he', 'el', 'id', 'th', 'cs', 'hu', 'ro',
+        'uk', 'fa', 'sr', 'bg', 'sk', 'sl', 'lt', 'lv', 'et',
+        'hr', 'ca', 'eu'
+    ]
+
+
+    while idioma_livro not in idiomas_permitidos:
         print("Idioma inválido. Digite um idioma válido.")
         idioma_livro = input("Digite o idioma do livro (exemplos - pt, en, es, ru, fr): ")
+
 
     wanted_book.append(idioma_livro)
 
@@ -73,7 +84,6 @@ def adicionar_livro(address):
 
         # Criar um cursor para executar as consultas
         cursor = conn.cursor()
-
 
         if flag_author == True:
             query = "INSERT INTO autores (autor) VALUES (%s)"
@@ -93,9 +103,9 @@ def adicionar_livro(address):
     except psycopg2.Error as error:
         print("\n\nOcorreu um erro ao conectar ou manipular o banco de dados:", error)
         time.sleep(2)
+
     finally:
         if cursor is not None:
             cursor.close()
-
         if conn is not None:
             conn.close()

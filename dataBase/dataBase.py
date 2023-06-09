@@ -6,7 +6,7 @@ from support.normalize import normalizar_palavra
 
 def commit_scan(colecao_livros, colecao_autores, colecao_autores_normalizados, colecao_livros_normalizados, address, flag):
     print("\033c")
-    print("\nAnalisando dados coletados\n")
+    print("Analisando dados coletados\n")
 
     try:
         # Estabelecer a conexão com o banco de dados

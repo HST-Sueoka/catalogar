@@ -1,112 +1,6622 @@
 [
     [
-        "Patricia Highsmith",
-        "Em Águas Profundas",
+        "Agatha Christie",
+        "The Secret Adversary",
         "en"
     ],
     [
-        "Patricia Highsmith",
-        "Ripley",
+        "Agatha Christie",
+        "The Secret of Chimneys",
         "en"
     ],
     [
-        "Patricia Highsmith",
-        "Carol",
-        "pt"
-    ],
-    [
-        "Patricia Highsmith",
-        "Inocência Perversa",
-        "pt"
-    ],
-    [
-        "Patricia Highsmith",
-        "O Garoto Que Seguiu Ripley",
-        "pt"
-    ],
-    [
-        "Patricia Highsmith",
-        "O Jogo de Ripley",
-        "pt"
-    ],
-    [
-        "Patricia Highsmith",
-        "O Álibi Perfeito e Outras Histórias",
-        "pt"
-    ],
-    [
-        "Patricia Highsmith",
-        "Os Gatos",
-        "pt"
-    ],
-    [
-        "Patricia Highsmith",
-        "Pacto Sinistro",
-        "pt"
-    ],
-    [
-        "Patricia Highsmith",
-        "Ripley Debaixo D´água",
-        "pt"
-    ],
-    [
-        "Patricia Highsmith",
-        "Ripley Subterrâneo",
-        "pt"
-    ],
-    [
-        "Patricia Highsmith",
-        "Um Certo Suicídio",
-        "pt"
-    ],
-    [
-        "Patricia Highsmith",
-        "Um jogo para os vivos",
-        "pt"
-    ],
-    [
-        "Patricia Highsmith",
-        "Um rosto na noite",
-        "pt"
-    ],
-    [
-        "Primo Levi",
-        "Mil sóis",
+        "Agatha Christie",
+        "The Seven Dials Mystery",
         "en"
     ],
     [
-        "Primo Levi",
-        "É isto um Homem",
-        "pt"
-    ],
-    [
-        "Ray Bradbury",
-        "A Cidade Inteira Dorme e Outros Contos",
+        "Agatha Christie",
+        "The Sittaford Mystery",
         "en"
     ],
     [
-        "Ray Bradbury",
-        "A Cidade Perdida de Marte",
-        "pt"
-    ],
-    [
-        "Ray Bradbury",
-        "O Homem Ilustrado",
-        "pt"
-    ],
-    [
-        "Robert Louis Stevenson",
-        "A ilha do tesouro",
+        "Agatha Christie",
+        "The Under Dog and Other Stories",
         "en"
     ],
     [
-        "Robert Louis Stevenson",
-        "A ilha do tesouro",
+        "Agatha Christie",
+        "The Witness for the Prosecution and Other Stories",
+        "en"
+    ],
+    [
+        "Agatha Christie",
+        "They Came to Baghdad",
+        "en"
+    ],
+    [
+        "Agatha Christie",
+        "They Do it With Mirrors",
+        "en"
+    ],
+    [
+        "Agatha Christie",
+        "Third Girl",
+        "en"
+    ],
+    [
+        "Agatha Christie",
+        "Three Act Tragedy",
+        "en"
+    ],
+    [
+        "Agatha Christie",
+        "Towards Zero",
+        "en"
+    ],
+    [
+        "Agatha Christie",
+        "Tragédia em três atos",
         "pt"
     ],
     [
-        "Robert Louis Stevenson",
-        "O Médico e o Monstro",
+        "Agatha Christie",
+        "Treze à mesa",
         "pt"
+    ],
+    [
+        "Agatha Christie",
+        "Um corpo na biblioteca",
+        "pt"
+    ],
+    [
+        "Agatha Christie",
+        "Um gato entre os pombos",
+        "pt"
+    ],
+    [
+        "Agatha Christie",
+        "Um Pressentimento Funesto",
+        "pt"
+    ],
+    [
+        "Agatha Christie",
+        "Um punhado de centeio",
+        "pt"
+    ],
+    [
+        "Agatha Christie",
+        "Uma Dose mortal",
+        "pt"
+    ],
+    [
+        "Agatha Christie",
+        "Yellow Iris",
+        "en"
+    ],
+    [
+        "Albert Camus",
+        "A Happy Death",
+        "en"
+    ],
+    [
+        "Albert Camus",
+        "A Inteligência e o Cadafalso",
+        "pt"
+    ],
+    [
+        "Albert Camus",
+        "A Morte Feliz",
+        "pt"
+    ],
+    [
+        "Albert Camus",
+        "A Peste",
+        "pt"
+    ],
+    [
+        "Albert Camus",
+        "A Queda",
+        "pt"
+    ],
+    [
+        "Albert Camus",
+        "Diário de Viagem",
+        "pt"
+    ],
+    [
+        "Albert Camus",
+        "Estado de Sítio",
+        "pt"
+    ],
+    [
+        "Albert Camus",
+        "Exile and the Kingdom",
+        "en"
+    ],
+    [
+        "Albert Camus",
+        "O Avesso e o Direito",
+        "pt"
+    ],
+    [
+        "Albert Camus",
+        "O Estrangeiro",
+        "pt"
+    ],
+    [
+        "Albert Camus",
+        "O Exílio e o Reino",
+        "pt"
+    ],
+    [
+        "Albert Camus",
+        "O Homem Revoltado",
+        "pt"
+    ],
+    [
+        "Albert Camus",
+        "O Mito de Sísifo",
+        "pt"
+    ],
+    [
+        "Albert Camus",
+        "Speaking Out",
+        "en"
+    ],
+    [
+        "Albert Camus",
+        "The Myth of Sisyphus",
+        "ro"
+    ],
+    [
+        "Albert Camus",
+        "The Plague",
+        "ro"
+    ],
+    [
+        "Albert Camus",
+        "The Plague",
+        "en"
+    ],
+    [
+        "Albert Camus",
+        "The Rebel",
+        "en"
+    ],
+    [
+        "Albert Camus",
+        "The Stranger",
+        "en"
+    ],
+    [
+        "Alberto Manguel",
+        "Com Borges",
+        "en"
+    ],
+    [
+        "Alberto Manguel",
+        "Contos de amor do século XIX",
+        "pt"
+    ],
+    [
+        "Alberto Manguel",
+        "Contos de horror do século XIX",
+        "pt"
+    ],
+    [
+        "Alberto Manguel",
+        "Encaixotando minha biblioteca",
+        "pt"
+    ],
+    [
+        "Alberto Manguel",
+        "No Bosque do Espelho",
+        "pt"
+    ],
+    [
+        "Alberto Manguel",
+        "O Leitor Como Metáfora",
+        "pt"
+    ],
+    [
+        "Alberto Manguel",
+        "Stevenson sob as palmeiras",
+        "pt"
+    ],
+    [
+        "Alberto Manguel",
+        "Uma História da Leitura",
+        "ca"
+    ],
+    [
+        "Alberto Manguel",
+        "Uma História Natural da Curiosidade",
+        "es"
+    ],
+    [
+        "Aldous Huxley",
+        "A Filosofia Perene",
+        "pt"
+    ],
+    [
+        "Aldous Huxley",
+        "A Ilha",
+        "pt"
+    ],
+    [
+        "Aldous Huxley",
+        "A Situação Humana",
+        "pt"
+    ],
+    [
+        "Aldous Huxley",
+        "Admirável mundo novo",
+        "en"
+    ],
+    [
+        "Aldous Huxley",
+        "After the Fireworks",
+        "en"
+    ],
+    [
+        "Aldous Huxley",
+        "Along the Road",
+        "en"
+    ],
+    [
+        "Aldous Huxley",
+        "As Portas da Percepção & Céu e Inferno",
+        "en"
+    ],
+    [
+        "Aldous Huxley",
+        "Brave New World",
+        "en"
+    ],
+    [
+        "Aldous Huxley",
+        "Contos Escolhidos",
+        "en"
+    ],
+    [
+        "Aldous Huxley",
+        "Contraponto",
+        "pt"
+    ],
+    [
+        "Aldous Huxley",
+        "Eyeless In Gaza",
+        "en"
+    ],
+    [
+        "Aldous Huxley",
+        "Folhas inúteis",
+        "en"
+    ],
+    [
+        "Aldous Huxley",
+        "Island",
+        "en"
+    ],
+    [
+        "Aldous Huxley",
+        "Música na noite & outros ensaios",
+        "pt"
+    ],
+    [
+        "Aldous Huxley",
+        "O Gênio e a Deusa",
+        "pt"
+    ],
+    [
+        "Aldous Huxley",
+        "O Macaco e a Essência",
+        "pt"
+    ],
+    [
+        "Aldous Huxley",
+        "Os Demônios De Loudun",
+        "en"
+    ],
+    [
+        "Aldous Huxley",
+        "Point Counter Point",
+        "en"
+    ],
+    [
+        "Aldous Huxley",
+        "Sem Olhos em Gaza",
+        "en"
+    ],
+    [
+        "Aldous Huxley",
+        "Também o Cisne Morre",
+        "en"
+    ],
+    [
+        "Aldous Huxley",
+        "The Devils of Loudun",
+        "en"
+    ],
+    [
+        "Aldous Huxley",
+        "The Divine Within",
+        "en"
+    ],
+    [
+        "Aldous Huxley",
+        "The Doors of Perception and Heaven and Hell",
+        "en"
+    ],
+    [
+        "Aldous Huxley",
+        "The Perennial Philosophy",
+        "en"
+    ],
+    [
+        "Alex Michaelides",
+        "A Paciente Silenciosa",
+        "en"
+    ],
+    [
+        "Alex Michaelides",
+        "As Musas",
+        "ca"
+    ],
+    [
+        "Alex Michaelides",
+        "The Maidens",
+        "en"
+    ],
+    [
+        "Alex Michaelides",
+        "The Silent Patient",
+        "en"
+    ],
+    [
+        "Alexandre Dumas",
+        "A Dama das Camélias",
+        "pt"
+    ],
+    [
+        "Alexandre Dumas",
+        "A Mulher da Gargantilha de Veludo",
+        "pt"
+    ],
+    [
+        "Alexandre Dumas",
+        "A Túlipa Negra",
+        "pt"
+    ],
+    [
+        "Alexandre Dumas",
+        "As Aventuras de Robin Hood",
+        "pt"
+    ],
+    [
+        "Alexandre Dumas",
+        "Mary Stuart, a Rainha da Escócia",
+        "en"
+    ],
+    [
+        "Alexandre Dumas",
+        "O Conde de Monte Cristo",
+        "en"
+    ],
+    [
+        "Alexandre Dumas",
+        "O Quebra-Nozes",
+        "pt"
+    ],
+    [
+        "Alexandre Dumas",
+        "Os Bórgias",
+        "pt"
+    ],
+    [
+        "Alexandre Dumas",
+        "Os Três Mosqueteiros",
+        "ca"
+    ],
+    [
+        "Alexandre Dumas",
+        "Os Três Mosqueteiros",
+        "en"
+    ],
+    [
+        "Alexandre Dumas",
+        "The Count of Monte Cristo",
+        "en"
+    ],
+    [
+        "Alexandre Dumas",
+        "The Lady of the Camellias",
+        "en"
+    ],
+    [
+        "Alexandre Dumas",
+        "Vinte anos depois",
+        "en"
+    ],
+    [
+        "Alexandre Pushkin",
+        "A dama de espadas",
+        "pt"
+    ],
+    [
+        "Alexandre Pushkin",
+        "A Filha do Capitão",
+        "es"
+    ],
+    [
+        "Ali Smith",
+        "A primeira pessoa",
+        "pt"
+    ],
+    [
+        "Ali Smith",
+        "Como ser as duas coisas",
+        "es"
+    ],
+    [
+        "Ali Smith",
+        "Hotel Mundo",
+        "pt"
+    ],
+    [
+        "Ali Smith",
+        "Por acaso",
+        "pt"
+    ],
+    [
+        "Ali Smith",
+        "Suíte em quatro movimentos",
+        "pt"
+    ],
+    [
+        "Alice Meynell",
+        "Collected Works",
+        "en"
+    ],
+    [
+        "Alice Walker",
+        "The Color Purple Collection",
+        "en"
+    ],
+    [
+        "Almeida Garrett",
+        "Viagens na Minha Terra",
+        "pt"
+    ],
+    [
+        "Alphonsus de Guimaraens",
+        "Melhores poemas",
+        "pt"
+    ],
+    [
+        "Aluísio Azevedo",
+        "O Cortiço",
+        "pt"
+    ],
+    [
+        "Aluísio Azevedo",
+        "Obra Completa",
+        "pt"
+    ],
+    [
+        "Amitav Ghosh",
+        "The Shadow Lines",
+        "en"
+    ],
+    [
+        "Amós Oz",
+        "A caixa-preta",
+        "pt"
+    ],
+    [
+        "Amós Oz",
+        "Cenas da vida na aldeia",
+        "pt"
+    ],
+    [
+        "Amós Oz",
+        "Como curar um fanático",
+        "pt"
+    ],
+    [
+        "Amós Oz",
+        "Conhecer uma mulher",
+        "pt"
+    ],
+    [
+        "Amós Oz",
+        "De Amor e Trevas",
+        "pt"
+    ],
+    [
+        "Amós Oz",
+        "De Repente, Nas Profundezas Do Bosque",
+        "pt"
+    ],
+    [
+        "Amós Oz",
+        "Entre Amigos",
+        "pt"
+    ],
+    [
+        "Amós Oz",
+        "Fima",
+        "pt"
+    ],
+    [
+        "Amós Oz",
+        "Judas",
+        "pt"
+    ],
+    [
+        "Amós Oz",
+        "Mais de uma luz",
+        "pt"
+    ],
+    [
+        "Amós Oz",
+        "Meu Michel",
+        "pt"
+    ],
+    [
+        "Amós Oz",
+        "Não diga noite",
+        "pt"
+    ],
+    [
+        "Amós Oz",
+        "O Mesmo Mar",
+        "pt"
+    ],
+    [
+        "Amós Oz",
+        "O Monte do Mau Conselho",
+        "pt"
+    ],
+    [
+        "Amós Oz",
+        "Os judeus e as palavras",
+        "pt"
+    ],
+    [
+        "Amós Oz",
+        "Pantera no porão",
+        "pt"
+    ],
+    [
+        "Amós Oz",
+        "Sumchi",
+        "ca"
+    ],
+    [
+        "Amós Oz",
+        "Uma Certa Paz",
+        "pt"
+    ],
+    [
+        "Ana Cristina Cesar",
+        "Crítica e tradução",
+        "pt"
+    ],
+    [
+        "Ana Cristina Cesar",
+        "Poética",
+        "pt"
+    ],
+    [
+        "Andre Norton",
+        "Dipple",
+        "en"
+    ],
+    [
+        "Andre Norton",
+        "Five Senses",
+        "en"
+    ],
+    [
+        "Andre Norton",
+        "Garan the Eternal",
+        "en"
+    ],
+    [
+        "Andre Norton",
+        "Gods and Androids",
+        "en"
+    ],
+    [
+        "Andre Norton",
+        "High Sorcery",
+        "en"
+    ],
+    [
+        "Andre Norton",
+        "Iron Butterflies",
+        "en"
+    ],
+    [
+        "Andre Norton",
+        "Merlin's Mirror",
+        "en"
+    ],
+    [
+        "Andre Norton",
+        "Moon Called",
+        "en"
+    ],
+    [
+        "Andre Norton",
+        "Moon Mirror",
+        "en"
+    ],
+    [
+        "Andre Norton",
+        "Murdoc Jern",
+        "en"
+    ],
+    [
+        "Andre Norton",
+        "Prince Commands",
+        "en"
+    ],
+    [
+        "Andre Norton",
+        "Ralestone Luck",
+        "en"
+    ],
+    [
+        "Andre Norton",
+        "Rebel",
+        "en"
+    ],
+    [
+        "Andre Norton",
+        "Scarface",
+        "en"
+    ],
+    [
+        "Andre Norton",
+        "Snow Shadow",
+        "en"
+    ],
+    [
+        "Andre Norton",
+        "Stand to Horse",
+        "en"
+    ],
+    [
+        "Andre Norton",
+        "Tales From High Hallack",
+        "en"
+    ],
+    [
+        "Andre Norton",
+        "Ten Mile Treasure",
+        "en"
+    ],
+    [
+        "Andre Norton",
+        "The Magic Books",
+        "en"
+    ],
+    [
+        "Andre Norton",
+        "Time Traders",
+        "en"
+    ],
+    [
+        "Andre Norton",
+        "Trillium",
+        "en"
+    ],
+    [
+        "Andre Norton",
+        "Van Norreys",
+        "en"
+    ],
+    [
+        "Andre Norton",
+        "Velvet Shadows",
+        "en"
+    ],
+    [
+        "Andre Norton",
+        "Wheel of Stars",
+        "en"
+    ],
+    [
+        "Andre Norton",
+        "Witch World",
+        "en"
+    ],
+    [
+        "Dashiell Hammett",
+        "The Middle Years, Volume 02",
+        "en"
+    ],
+    [
+        "Dashiell Hammett",
+        "The Middle Years, Volume 03",
+        "en"
+    ],
+    [
+        "F. Scott Fitzgerald",
+        "O diamante do tamanho do Ritz e outros contos",
+        "pt"
+    ],
+    [
+        "F. Scott Fitzgerald",
+        "O Grande Gatsby",
+        "pt"
+    ],
+    [
+        "F. Scott Fitzgerald",
+        "O I.O.U.",
+        "pt"
+    ],
+    [
+        "F. Scott Fitzgerald",
+        "O último magnata",
+        "pt"
+    ],
+    [
+        "F. Scott Fitzgerald",
+        "Os belos e malditos",
+        "pt"
+    ],
+    [
+        "F. Scott Fitzgerald",
+        "Pileques",
+        "pt"
+    ],
+    [
+        "F. Scott Fitzgerald",
+        "Suave é a noite",
+        "ca"
+    ],
+    [
+        "Ferguson Findley",
+        "Waterfront",
+        "en"
+    ],
+    [
+        "Fernando Pessoa",
+        "Obra Completa de Fernando Pessoa",
+        "en"
+    ],
+    [
+        "Fernando Pessoa",
+        "Poesia Completa de Alberto Caeiro",
+        "pt"
+    ],
+    [
+        "Fernando Pessoa",
+        "Poesia Completa de Fernando Pessoa",
+        "en"
+    ],
+    [
+        "Fernando Pessoa",
+        "Poesia Completa de Álvaro de Campos",
+        "en"
+    ],
+    [
+        "Ferreira Gullar",
+        "A luta corporal",
+        "ca"
+    ],
+    [
+        "Ferreira Gullar",
+        "Antes do golpe",
+        "pt"
+    ],
+    [
+        "Ferreira Gullar",
+        "Arte contemporânea brasileira",
+        "ca"
+    ],
+    [
+        "Ferreira Gullar",
+        "Autobiografia poética e outros textos",
+        "pt"
+    ],
+    [
+        "Ferreira Gullar",
+        "Melhores Crônicas",
+        "pt"
+    ],
+    [
+        "Ferreira Gullar",
+        "Melhores Poemas",
+        "es"
+    ],
+    [
+        "Ferreira Gullar",
+        "Na vertigem do dia",
+        "pt"
+    ],
+    [
+        "Ferreira Gullar",
+        "O homem como invenção de si mesmo",
+        "pt"
+    ],
+    [
+        "Ferreira Gullar",
+        "Poema sujo",
+        "pt"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "A aldeia de Stepántchikovo e seus habitantes",
+        "pt"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "A Senhoria",
+        "pt"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "Bobók",
+        "pt"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "Box",
+        "ca"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "Crime e Castigo",
+        "pt"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "Crime e Castigo",
+        "en"
+    ],
+    [
+        "Imre Kertész",
+        "The Union Jack",
+        "en"
+    ],
+    [
+        "Inazo Nitobe",
+        "Bushido",
+        "en"
+    ],
+    [
+        "Irmãos Grimm",
+        "Contos de fadas dos Irmãos Grimm",
+        "pt"
+    ],
+    [
+        "Irwin Shaw",
+        "Acceptable Losses",
+        "en"
+    ],
+    [
+        "Irwin Shaw",
+        "Bread Upon the Waters",
+        "en"
+    ],
+    [
+        "Irwin Shaw",
+        "Evening in Byzantium",
+        "en"
+    ],
+    [
+        "Irwin Shaw",
+        "Lucy Crown",
+        "en"
+    ],
+    [
+        "Irwin Shaw",
+        "Nightwork",
+        "en"
+    ],
+    [
+        "Irwin Shaw",
+        "Short Stories",
+        "en"
+    ],
+    [
+        "Irwin Shaw",
+        "The Troubled Air",
+        "en"
+    ],
+    [
+        "Irwin Shaw",
+        "Two Weeks in Another Town",
+        "en"
+    ],
+    [
+        "Isaac Asimov",
+        "As Cavernas de Aço",
+        "pt"
+    ],
+    [
+        "Isaac Asimov",
+        "Box Fundação",
+        "pt"
+    ],
+    [
+        "Isaac Asimov",
+        "Eu, Robô",
+        "en"
+    ],
+    [
+        "Italo Calvino",
+        "As cidades invisíveis",
+        "en"
+    ],
+    [
+        "Italo Calvino",
+        "Assunto Encerrado",
+        "pt"
+    ],
+    [
+        "Italo Calvino",
+        "Coleção de areia",
+        "pt"
+    ],
+    [
+        "Italo Calvino",
+        "Contos Fantásticos do Século XIX",
+        "pt"
+    ],
+    [
+        "Italo Calvino",
+        "Eremita em Paris",
+        "pt"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "Diário do subsolo",
+        "pt"
+    ],
+    [
+        "J. R. R. Tolkien",
+        "The Lord of the Rings",
+        "en"
+    ],
+    [
+        "J. R. R. Tolkien",
+        "The Story of Kullervo",
+        "en"
+    ],
+    [
+        "Jack Higgins",
+        "Day of Judgment",
+        "en"
+    ],
+    [
+        "Jack Higgins",
+        "The Khufra Run",
+        "en"
+    ],
+    [
+        "Jack Higgins",
+        "Toll for the Brave",
+        "en"
+    ],
+    [
+        "Jack Kerouac",
+        "A vida assombrada & outros escritos",
+        "pt"
+    ],
+    [
+        "Jack Kerouac",
+        "Anjos da Desolação",
+        "pt"
+    ],
+    [
+        "Jack Kerouac",
+        "Big Sur",
+        "pt"
+    ],
+    [
+        "Jack Kerouac",
+        "Cenas de Nova York e outras viagens",
+        "pt"
+    ],
+    [
+        "Jack Kerouac",
+        "Diários de Jack Kerouac 1947-1954",
+        "pt"
+    ],
+    [
+        "Jack Kerouac",
+        "Livro de Haicais",
+        "pt"
+    ],
+    [
+        "Jack Kerouac",
+        "Livro dos Sonhos",
+        "pt"
+    ],
+    [
+        "Jack Kerouac",
+        "On The Road",
+        "pt"
+    ],
+    [
+        "Jack Kerouac",
+        "Os Subterrâneos",
+        "pt"
+    ],
+    [
+        "Jack Kerouac",
+        "Os Vagabundos Iluminados",
+        "pt"
+    ],
+    [
+        "Jack Kerouac",
+        "PIC",
+        "pt"
+    ],
+    [
+        "Jack Kerouac",
+        "Satori em Paris",
+        "pt"
+    ],
+    [
+        "Jack Kerouac",
+        "Tristessa",
+        "pt"
+    ],
+    [
+        "Jack Kerouac",
+        "Viajante Solitário",
+        "pt"
+    ],
+    [
+        "Jack Kerouac",
+        "Visões de Gerard",
+        "pt"
+    ],
+    [
+        "Jack London",
+        "A Estrada",
+        "en"
+    ],
+    [
+        "Jack London",
+        "A paixão do socialismo",
+        "pt"
+    ],
+    [
+        "Jack London",
+        "A Praga Escarlate",
+        "pt"
+    ],
+    [
+        "Jack London",
+        "Antes de Adão",
+        "pt"
+    ],
+    [
+        "Jack London",
+        "Caninos Brancos",
+        "pt"
+    ],
+    [
+        "Jack London",
+        "Martin Eden",
+        "pt"
+    ],
+    [
+        "Jack London",
+        "Nocaute",
+        "pt"
+    ],
+    [
+        "Jack London",
+        "O Andarilho das Estrelas",
+        "pt"
+    ],
+    [
+        "Jack London",
+        "O Chamado Selvagem",
+        "pt"
+    ],
+    [
+        "Jack London",
+        "O Lobo do Mar",
+        "pt"
+    ],
+    [
+        "Jack London",
+        "O Tacão de Ferro",
+        "en"
+    ],
+    [
+        "Jack London",
+        "The Call of the Wild",
+        "en"
+    ],
+    [
+        "Jack London",
+        "The Call of the Wild, White Fang, and Other Stories",
+        "en"
+    ],
+    [
+        "Jack London",
+        "White Fang",
+        "en"
+    ],
+    [
+        "James Baldwin",
+        "Giovanni’s Room",
+        "en"
+    ],
+    [
+        "James Baldwin",
+        "Notas de um filho nativo",
+        "pt"
+    ],
+    [
+        "James Baldwin",
+        "O Quarto de Giovanni",
+        "pt"
+    ],
+    [
+        "James Baldwin",
+        "Se a rua Beale falasse",
+        "pt"
+    ],
+    [
+        "James Baldwin",
+        "Terra Estranha",
+        "pt"
+    ],
+    [
+        "James Fenimore Cooper",
+        "O último dos moicanos",
+        "pt"
+    ],
+    [
+        "James Joyce",
+        "Dublinenses",
+        "pt"
+    ],
+    [
+        "James Joyce",
+        "Dubliners",
+        "en"
+    ],
+    [
+        "James Joyce",
+        "Finn's Hotel",
+        "pt"
+    ],
+    [
+        "James Joyce",
+        "Os Mortos",
+        "pt"
+    ],
+    [
+        "James Joyce",
+        "The Dead",
+        "en"
+    ],
+    [
+        "James Joyce",
+        "Ulysses",
+        "en"
+    ],
+    [
+        "James Joyce",
+        "Um retrato do artista quando jovem",
+        "pt"
+    ],
+    [
+        "James M. Cain",
+        "The Complete Crime Stories",
+        "en"
+    ],
+    [
+        "Jan van Eyck",
+        "Complete Works of Jan van Eyck",
+        "en"
+    ],
+    [
+        "Jane Austen",
+        "A Abadia de Northanger",
+        "pt"
+    ],
+    [
+        "Jane Austen",
+        "Amor e amizade",
+        "pt"
+    ],
+    [
+        "Jane Austen",
+        "Box Grandes obras de Jane Austen",
+        "pt"
+    ],
+    [
+        "Jane Austen",
+        "Box Grandes obras de Jane Austen",
+        "en"
+    ],
+    [
+        "Jane Austen",
+        "Coleção Especial Jane Austen",
+        "pt"
+    ],
+    [
+        "Jane Austen",
+        "Emma",
+        "en"
+    ],
+    [
+        "Jane Austen",
+        "Lady Susan",
+        "pt"
+    ],
+    [
+        "Jane Austen",
+        "Lady Susan, Os Watson e Sanditon",
+        "pt"
+    ],
+    [
+        "Jane Austen",
+        "Mansfield Park",
+        "en"
+    ],
+    [
+        "Jane Austen",
+        "Mansfield Park",
+        "pt"
+    ],
+    [
+        "Jane Austen",
+        "Northanger Abbey",
+        "en"
+    ],
+    [
+        "Jane Austen",
+        "Orgulho e Preconceito",
+        "en"
+    ],
+    [
+        "Jane Austen",
+        "Orgulho e Preconceito",
+        "ca"
+    ],
+    [
+        "Jane Austen",
+        "Persuasão",
+        "pt"
+    ],
+    [
+        "Jane Austen",
+        "Pride and Prejudice",
+        "en"
+    ],
+    [
+        "Jane Austen",
+        "Razão e sentimento",
+        "pt"
+    ],
+    [
+        "Jane Austen",
+        "Razão e sentimento",
+        "en"
+    ],
+    [
+        "Jane Austen",
+        "Sense and Sensibility",
+        "en"
+    ],
+    [
+        "Jane Austen",
+        "The Complete Novels",
+        "en"
+    ],
+    [
+        "Jane Austen",
+        "The Letters of Jane Austen",
+        "en"
+    ],
+    [
+        "Janny Wurts",
+        "Riftwar",
+        "en"
+    ],
+    [
+        "Janny Wurts",
+        "Sorcerers Legacy",
+        "en"
+    ],
+    [
+        "Janny Wurts",
+        "To Ride Hell's Chasm",
+        "en"
+    ],
+    [
+        "Javier Marías",
+        "Assim Começa o Mal",
+        "pt"
+    ],
+    [
+        "Javier Marías",
+        "Berta Isla",
+        "pt"
+    ],
+    [
+        "Javier Marías",
+        "Coração Tão Branco",
+        "pt"
+    ],
+    [
+        "Javier Marías",
+        "Os enamoramentos",
+        "pt"
+    ],
+    [
+        "Javier Marías",
+        "Seu Rosto Amanhã",
+        "pt"
+    ],
+    [
+        "Jean Rhys",
+        "The Collected Short Stories",
+        "en"
+    ],
+    [
+        "Jean-Paul Sartre",
+        "A Náusea",
+        "pt"
+    ],
+    [
+        "Jean-Paul Sartre",
+        "O Muro",
+        "pt"
+    ],
+    [
+        "Jean-Paul Sartre",
+        "Os Caminhos da Liberdade",
+        "en"
+    ],
+    [
+        "Jenny Zhang",
+        "Coração Azedo",
+        "pt"
+    ],
+    [
+        "Jeremy Bushnell",
+        "The Weirdness",
+        "en"
+    ],
+    [
+        "Jerome K. Jerome",
+        "Three Men in a Boat",
+        "en"
+    ],
+    [
+        "Joanne Greenberg",
+        "I Never Promised You a Rose Garden",
+        "en"
+    ],
+    [
+        "Joaquim Manoel Macedo",
+        "A luneta magica",
+        "pt"
+    ],
+    [
+        "Joaquim Manoel Macedo",
+        "A moreninha",
+        "pt"
+    ],
+    [
+        "Johann Wolfgang Goeth",
+        "Os Sofrimentos do Jovem Werther",
+        "pt"
+    ],
+    [
+        "Johann Wolfgang von Goethe",
+        "As afinidades eletivas",
+        "pt"
+    ],
+    [
+        "Johann Wolfgang von Goethe",
+        "De minha vida",
+        "pt"
+    ],
+    [
+        "Johann Wolfgang von Goethe",
+        "Obras de Johann Wolfgang von Goethe",
+        "pt"
+    ],
+    [
+        "Johann Wolfgang von Goethe",
+        "Os sofrimentos do jovem Werther",
+        "en"
+    ],
+    [
+        "Johanna Lindsey",
+        "A Pirates Love",
+        "en"
+    ],
+    [
+        "John Ashbery",
+        "A Wave",
+        "en"
+    ],
+    [
+        "John Ashbery",
+        "And the Stars Were Shining",
+        "en"
+    ],
+    [
+        "John Ashbery",
+        "April galleons",
+        "en"
+    ],
+    [
+        "John Ashbery",
+        "As We Know",
+        "en"
+    ],
+    [
+        "John Ashbery",
+        "Can you hear, bird",
+        "en"
+    ],
+    [
+        "John Ashbery",
+        "Girls on the run",
+        "en"
+    ],
+    [
+        "John Ashbery",
+        "Hotel Lautréamont",
+        "en"
+    ],
+    [
+        "John Ashbery",
+        "Rivers and Mountains",
+        "en"
+    ],
+    [
+        "John Fante",
+        "Ask the Dust",
+        "en"
+    ],
+    [
+        "John Gardner",
+        "Jason & Medeia",
+        "en"
+    ],
+    [
+        "John Gardner",
+        "Mickelsson's Ghosts",
+        "en"
+    ],
+    [
+        "John Gardner",
+        "Stillness & Shadows",
+        "en"
+    ],
+    [
+        "John Gardner",
+        "The Sunlight Dialogues",
+        "en"
+    ],
+    [
+        "John Gardner",
+        "The Wreckage of Agathon",
+        "en"
+    ],
+    [
+        "John Keats",
+        "The Complete Poems",
+        "en"
+    ],
+    [
+        "John Masefield",
+        "Collected Works",
+        "en"
+    ],
+    [
+        "John Milton",
+        "Paraíso perdido",
+        "pt"
+    ],
+    [
+        "John Scalzi",
+        "Encarcerados",
+        "pt"
+    ],
+    [
+        "John William Waterhouse",
+        "Complete Paintings of John William Waterhouse",
+        "en"
+    ],
+    [
+        "Jonathan Swift",
+        "Viagens de Gulliver",
+        "pt"
+    ],
+    [
+        "Jorge Amado & José Saramago",
+        "Com o mar por meio",
+        "pt"
+    ],
+    [
+        "Jorge Amado",
+        "A Morte e a Morte de Quincas Berro dÁgua",
+        "pt"
+    ],
+    [
+        "Jorge Amado",
+        "ABC de Castro Alves",
+        "pt"
+    ],
+    [
+        "Jorge Amado",
+        "Cacau",
+        "en"
+    ],
+    [
+        "Jorge Amado",
+        "Capitães da Areia",
+        "en"
+    ],
+    [
+        "Jorge Amado",
+        "Dona flor e seus dois maridos",
+        "pt"
+    ],
+    [
+        "Jorge Amado",
+        "Farda, fardão, camisa de dormir",
+        "pt"
+    ],
+    [
+        "Jorge Amado",
+        "Gabriela, cravo e canela",
+        "en"
+    ],
+    [
+        "Jorge Amado",
+        "Jubiabá",
+        "pt"
+    ],
+    [
+        "Jorge Amado",
+        "Mar Morto",
+        "pt"
+    ],
+    [
+        "Jorge Amado",
+        "Os subterrâneos da liberdade",
+        "pt"
+    ],
+    [
+        "Jorge Amado",
+        "Seara vermelha",
+        "en"
+    ],
+    [
+        "Jorge Amado",
+        "Suor",
+        "pt"
+    ],
+    [
+        "Jorge Amado",
+        "São Jorge dos Ilhéus",
+        "pt"
+    ],
+    [
+        "Jorge Amado",
+        "Tenda dos Milagres",
+        "pt"
+    ],
+    [
+        "Jorge Amado",
+        "Tereza Batista cansada de guerra",
+        "pt"
+    ],
+    [
+        "Jorge Amado",
+        "Terras do sem fim",
+        "pt"
+    ],
+    [
+        "Jorge Amado",
+        "Tieta do agreste",
+        "pt"
+    ],
+    [
+        "Jorge de Lima",
+        "Invenção de Orfeu",
+        "en"
+    ],
+    [
+        "Jorge de Lima",
+        "Poemas Negros",
+        "pt"
+    ],
+    [
+        "Joseph Conrad",
+        "A Linha da Sombra",
+        "pt"
+    ],
+    [
+        "Joseph Conrad",
+        "Coração das Trevas",
+        "pt"
+    ],
+    [
+        "Joseph Conrad",
+        "Freya of the Seven Isles",
+        "en"
+    ],
+    [
+        "Joseph Conrad",
+        "Heart of Darkness",
+        "en"
+    ],
+    [
+        "Joseph Conrad",
+        "Lord Jim",
+        "pt"
+    ],
+    [
+        "Joseph Conrad",
+        "Nostromo",
+        "pt"
+    ],
+    [
+        "Joseph Conrad",
+        "The Duel",
+        "en"
+    ],
+    [
+        "Joseph Hansen",
+        "Dave Brandstetter",
+        "en"
+    ],
+    [
+        "Joseph Heller",
+        "Catch-22",
+        "en"
+    ],
+    [
+        "Joseph Jacobs",
+        "Bruxas, bruxos e os feitiços mais cruéis que se podem imaginar",
+        "pt"
+    ],
+    [
+        "Joseph Jacobs",
+        "Contos de fadas celtas",
+        "en"
+    ],
+    [
+        "Joseph Jacobs",
+        "Contos de fadas europeus",
+        "pt"
+    ],
+    [
+        "Joseph Jacobs",
+        "Contos de fadas indianos",
+        "pt"
+    ],
+    [
+        "Joseph Jacobs",
+        "Contos de fadas ingleses",
+        "pt"
+    ],
+    [
+        "Joseph Jacobs",
+        "Duendes, gigantes e outros seres fantásticos",
+        "pt"
+    ],
+    [
+        "Joseph Jacobs",
+        "Heróis muito espertos",
+        "pt"
+    ],
+    [
+        "Joseph Jacobs",
+        "Mais contos de fadas ingleses",
+        "pt"
+    ],
+    [
+        "Joseph Sheridan Le Fanu",
+        "Carmilla",
+        "en"
+    ],
+    [
+        "Joseph Sheridan Le Fanu",
+        "Carmilla",
+        "pt"
+    ],
+    [
+        "Josh Pachter",
+        "The Misadventures of Nero Wolfe",
+        "en"
+    ],
+    [
+        "José de Alencar",
+        "A Viuvinha",
+        "pt"
+    ],
+    [
+        "José de Alencar",
+        "Cinco Minutos",
+        "pt"
+    ],
+    [
+        "José de Alencar",
+        "Guerra dos Mascates",
+        "pt"
+    ],
+    [
+        "José de Alencar",
+        "Iracema",
+        "pt"
+    ],
+    [
+        "José de Alencar",
+        "Lucíola",
+        "pt"
+    ],
+    [
+        "José de Alencar",
+        "O gaúcho",
+        "pt"
+    ],
+    [
+        "José de Alencar",
+        "O sertanejo",
+        "pt"
+    ],
+    [
+        "José de Alencar",
+        "Romances escolhidos",
+        "pt"
+    ],
+    [
+        "José de Alencar",
+        "Senhora",
+        "en"
+    ],
+    [
+        "José de Alencar",
+        "Til",
+        "en"
+    ],
+    [
+        "José J. Veiga",
+        "A hora dos ruminantes",
+        "pt"
+    ],
+    [
+        "José J. Veiga",
+        "Espelho",
+        "pt"
+    ],
+    [
+        "José J. Veiga",
+        "Melhores Contos",
+        "pt"
+    ],
+    [
+        "José J. Veiga",
+        "Sombras de reis barbudos",
+        "pt"
+    ],
+    [
+        "José Saramago",
+        "A bagagem do viajante",
+        "pt"
+    ],
+    [
+        "José Saramago",
+        "A caverna",
+        "pt"
+    ],
+    [
+        "José Saramago",
+        "A jangada de pedra",
+        "pt"
+    ],
+    [
+        "José Saramago",
+        "A viagem do elefante",
+        "pt"
+    ],
+    [
+        "José Saramago",
+        "Alabardas, alabardas, espingardas, espingardas",
+        "pt"
+    ],
+    [
+        "José Saramago",
+        "As intermitências da morte",
+        "pt"
+    ],
+    [
+        "José Saramago",
+        "As palavras",
+        "pt"
+    ],
+    [
+        "José Saramago",
+        "Cadernos de Lanzarote",
+        "pt"
+    ],
+    [
+        "José Saramago",
+        "Caim",
+        "pt"
+    ],
+    [
+        "José Saramago",
+        "Claraboia",
+        "pt"
+    ],
+    [
+        "José Saramago",
+        "Don Giovanni ou O dissoluto absolvido",
+        "pt"
+    ],
+    [
+        "José Saramago",
+        "Ensaio Sobre a Cegueira",
+        "pt"
+    ],
+    [
+        "José Saramago",
+        "Ensaio sobre a lucidez",
+        "pt"
+    ],
+    [
+        "José Saramago",
+        "História do cerco de Lisboa",
+        "pt"
+    ],
+    [
+        "José Saramago",
+        "Memorial do convento",
+        "pt"
+    ],
+    [
+        "José Saramago",
+        "O ano da morte de Ricardo Reis",
+        "pt"
+    ],
+    [
+        "José Saramago",
+        "O caderno",
+        "pt"
+    ],
+    [
+        "José Saramago",
+        "O Conto da Ilha Desconhecida",
+        "pt"
+    ],
+    [
+        "José Saramago",
+        "O evangelho segundo Jesus Cristo",
+        "pt"
+    ],
+    [
+        "José Saramago",
+        "O homem duplicado",
+        "pt"
+    ],
+    [
+        "José Saramago",
+        "Terra do Pecado",
+        "pt"
+    ],
+    [
+        "José Saramago",
+        "Todos os nomes",
+        "pt"
+    ],
+    [
+        "José Saramago",
+        "Viagem a Portugal",
+        "pt"
+    ],
+    [
+        "João Cabral de Melo Neto",
+        "Melhores poemas",
+        "pt"
+    ],
+    [
+        "João Cabral de Melo Neto",
+        "Poesia Completa",
+        "pt"
+    ],
+    [
+        "João Guimarães Rosa",
+        "A Hora E Vez De Augusto Matraga",
+        "unknown"
+    ],
+    [
+        "João Guimarães Rosa",
+        "Ave, Palavra",
+        "pt"
+    ],
+    [
+        "João Guimarães Rosa",
+        "Estas estórias",
+        "ca"
+    ],
+    [
+        "João Guimarães Rosa",
+        "Grande sertão",
+        "pt"
+    ],
+    [
+        "João Guimarães Rosa",
+        "Magma",
+        "pt"
+    ],
+    [
+        "João Guimarães Rosa",
+        "Manuelzão e Miguilim",
+        "pt"
+    ],
+    [
+        "João Guimarães Rosa",
+        "No Urubuquaquá, no Pinhém",
+        "pt"
+    ],
+    [
+        "João Guimarães Rosa",
+        "Noites do sertão",
+        "pt"
+    ],
+    [
+        "João Guimarães Rosa",
+        "O Burrinho Pedrês",
+        "ca"
+    ],
+    [
+        "João Guimarães Rosa",
+        "O Recado do morro",
+        "pt"
+    ],
+    [
+        "João Guimarães Rosa",
+        "Primeiras estórias",
+        "en"
+    ],
+    [
+        "João Guimarães Rosa",
+        "Sagarana",
+        "pt"
+    ],
+    [
+        "João Guimarães Rosa",
+        "Tutameia",
+        "pt"
+    ],
+    [
+        "João Ubaldo Ribeiro",
+        "A Casa dos Budas Ditosos",
+        "pt"
+    ],
+    [
+        "Jules Verne",
+        "20,000 Leagues Under the Sea",
+        "en"
+    ],
+    [
+        "Jules Verne",
+        "Around the World in Eighty Days",
+        "en"
+    ],
+    [
+        "Jules Verne",
+        "In the Year 2889",
+        "en"
+    ],
+    [
+        "Julio Cortázar",
+        "Alguém que anda por aí",
+        "pt"
+    ],
+    [
+        "Julio Cortázar",
+        "Bestiário",
+        "pt"
+    ],
+    [
+        "Julio Cortázar",
+        "Fora de Hora",
+        "pt"
+    ],
+    [
+        "Julio Cortázar",
+        "O Jogo da Amarelinha",
+        "en"
+    ],
+    [
+        "Julio Cortázar",
+        "Octaedro",
+        "pt"
+    ],
+    [
+        "Julio Cortázar",
+        "Todos os contos",
+        "ca"
+    ],
+    [
+        "Julio Cortázar",
+        "Todos os Fogos o Fogo",
+        "pt"
+    ],
+    [
+        "Júlia Lopes de Almeida",
+        "A falência",
+        "pt"
+    ],
+    [
+        "Júlia Lopes de Almeida",
+        "A Viúva Simões",
+        "pt"
+    ],
+    [
+        "Júlia Lopes de Almeida",
+        "Essencial",
+        "pt"
+    ],
+    [
+        "Júlio Verne",
+        "20 mil léguas submarinas",
+        "en"
+    ],
+    [
+        "Júlio Verne",
+        "A ilha misteriosa",
+        "pt"
+    ],
+    [
+        "Júlio Verne",
+        "A Volta ao Mundo em 80 Dias",
+        "pt"
+    ],
+    [
+        "Júlio Verne",
+        "As extraordinárias viagens de Júlio Verne",
+        "pt"
+    ],
+    [
+        "Júlio Verne",
+        "Box Grandes obras de Júlio Verne",
+        "en"
+    ],
+    [
+        "Júlio Verne",
+        "Cinco Semanas em um Balão",
+        "pt"
+    ],
+    [
+        "Júlio Verne",
+        "Da Terra à Lua",
+        "pt"
+    ],
+    [
+        "Júlio Verne",
+        "Viagem ao centro da Terra",
+        "pt"
+    ],
+    [
+        "Katherine Mansfield",
+        "15 contos escolhidos de Katherine Mansfield",
+        "pt"
+    ],
+    [
+        "Gustave Flaubert",
+        "A educação sentimental",
+        "pt"
+    ],
+    [
+        "Gustave Flaubert",
+        "A Simple Heart",
+        "en"
+    ],
+    [
+        "Gustave Flaubert",
+        "Madame Bovary",
+        "pt"
+    ],
+    [
+        "H. G. Wells",
+        "A Ilha do Dr. Moreau",
+        "en"
+    ],
+    [
+        "H. G. Wells",
+        "A Máquina do Tempo",
+        "pt"
+    ],
+    [
+        "H. G. Wells",
+        "A Máquina do Tempo",
+        "en"
+    ],
+    [
+        "H. G. Wells",
+        "A Short History of the World",
+        "en"
+    ],
+    [
+        "H. G. Wells",
+        "Deuses Humanos",
+        "pt"
+    ],
+    [
+        "H. G. Wells",
+        "Men Like Gods",
+        "en"
+    ],
+    [
+        "H. G. Wells",
+        "O Alimento dos Deuses",
+        "pt"
+    ],
+    [
+        "H. G. Wells",
+        "O Dorminhoco",
+        "pt"
+    ],
+    [
+        "H. G. Wells",
+        "O Homem Invisível",
+        "pt"
+    ],
+    [
+        "H. G. Wells",
+        "O País dos Cegos e Outras Histórias",
+        "en"
+    ],
+    [
+        "H. G. Wells",
+        "The Invisible Man",
+        "en"
+    ],
+    [
+        "H. G. Wells",
+        "The island of Doctor Moreau",
+        "en"
+    ],
+    [
+        "H. G. Wells",
+        "The Time Machine",
+        "en"
+    ],
+    [
+        "H. G. Wells",
+        "The War of the Worlds",
+        "en"
+    ],
+    [
+        "H. G. Wells",
+        "Uma Utopia Moderna",
+        "pt"
+    ],
+    [
+        "H. P. Lovecraft",
+        "A tumba e outras histórias",
+        "pt"
+    ],
+    [
+        "H. P. Lovecraft",
+        "Box H. P. Lovecraft",
+        "pt"
+    ],
+    [
+        "H. P. Lovecraft",
+        "Box Os mitos de Cthulhu",
+        "en"
+    ],
+    [
+        "H. P. Lovecraft",
+        "Nas montanhas da loucura",
+        "pt"
+    ],
+    [
+        "H. P. Lovecraft",
+        "O caso de Charles Dexter Ward",
+        "pt"
+    ],
+    [
+        "H. P. Lovecraft",
+        "O chamado de Cthulhu e outros contos",
+        "pt"
+    ],
+    [
+        "H. P. Lovecraft",
+        "O Horror em Red Hook e outras histórias",
+        "pt"
+    ],
+    [
+        "H. P. Lovecraft",
+        "O medo à espreita e outras histórias",
+        "pt"
+    ],
+    [
+        "H. P. Lovecraft",
+        "Omnibus 01",
+        "en"
+    ],
+    [
+        "H. P. Lovecraft",
+        "The Complete H.P. Lovecraft Collection",
+        "en"
+    ],
+    [
+        "H. P. Lovecraft",
+        "The Festival",
+        "en"
+    ],
+    [
+        "H. P. Lovecraft",
+        "The Temple",
+        "en"
+    ],
+    [
+        "H. P. Lovecraft",
+        "Necronomicon",
+        "en"
+    ],
+    [
+        "Han Kang",
+        "A Vegetariana",
+        "pt"
+    ],
+    [
+        "Han Kang",
+        "Atos humanos",
+        "pt"
+    ],
+    [
+        "Hanif Kureishi",
+        "A última palavra",
+        "pt"
+    ],
+    [
+        "Harold Evans",
+        "Good times, bad times",
+        "en"
+    ],
+    [
+        "Haruki Murakami",
+        "1Q84",
+        "pt"
+    ],
+    [
+        "Haruki Murakami",
+        "Após o anoitecer",
+        "pt"
+    ],
+    [
+        "Haruki Murakami",
+        "Caçando Carneiros",
+        "en"
+    ],
+    [
+        "Haruki Murakami",
+        "Crônica Do Pássaro De Corda",
+        "pt"
+    ],
+    [
+        "Haruki Murakami",
+        "Dance dance dance",
+        "en"
+    ],
+    [
+        "Haruki Murakami",
+        "Do que eu falo quando eu falo de corrida",
+        "pt"
+    ],
+    [
+        "Haruki Murakami",
+        "Homens sem Mulheres",
+        "pt"
+    ],
+    [
+        "Haruki Murakami",
+        "Kafka à beira mar",
+        "en"
+    ],
+    [
+        "Haruki Murakami",
+        "Minha querida sputnik",
+        "pt"
+    ],
+    [
+        "Haruki Murakami",
+        "Música, Só Música",
+        "pt"
+    ],
+    [
+        "Haruki Murakami",
+        "Norwegian Wood",
+        "pt"
+    ],
+    [
+        "Haruki Murakami",
+        "O Assassinato do Comendador",
+        "pt"
+    ],
+    [
+        "Haruki Murakami",
+        "O elefante desaparece",
+        "pt"
+    ],
+    [
+        "Haruki Murakami",
+        "O Impiedoso País das Maravilhas e o Fim do Mundo",
+        "pt"
+    ],
+    [
+        "Haruki Murakami",
+        "O Incolor Tsukuru Tazaki e Seus Anos de Peregrinação",
+        "pt"
+    ],
+    [
+        "Haruki Murakami",
+        "Ouça a canção do vento & Pinball",
+        "pt"
+    ],
+    [
+        "Haruki Murakami",
+        "Romancista como vocação",
+        "pt"
+    ],
+    [
+        "Haruki Murakami",
+        "Sono",
+        "pt"
+    ],
+    [
+        "Haruki Murakami",
+        "Sul da fronteira, oeste do Sol",
+        "pt"
+    ],
+    [
+        "Hazel Gaynor",
+        "Último Natal em Paris",
+        "pt"
+    ],
+    [
+        "Heinrich von Kleist",
+        "Michael Kohlhaas",
+        "en"
+    ],
+    [
+        "Heinrich von Kleist",
+        "The duel",
+        "en"
+    ],
+    [
+        "Helena Morley",
+        "Minha vida de menina",
+        "pt"
+    ],
+    [
+        "Henrik Ibsen",
+        "A Dolls House",
+        "en"
+    ],
+    [
+        "Henry David Thoreau",
+        "Walden ou A vida nos bosques",
+        "pt"
+    ],
+    [
+        "Henry James",
+        "A arte do romance",
+        "pt"
+    ],
+    [
+        "Henry James",
+        "A Fera na Selva",
+        "pt"
+    ],
+    [
+        "Henry James",
+        "A Fera na Selva",
+        "en"
+    ],
+    [
+        "Henry James",
+        "A Herdeira",
+        "pt"
+    ],
+    [
+        "Henry James",
+        "A Madona do Futuro",
+        "pt"
+    ],
+    [
+        "Henry James",
+        "A Vida Privada e Outras Histórias",
+        "pt"
+    ],
+    [
+        "Henry James",
+        "A Volta do Parafuso & Daisy Miller",
+        "pt"
+    ],
+    [
+        "Henry James",
+        "A volta do parafuso",
+        "pt"
+    ],
+    [
+        "Henry James",
+        "Horas italianas",
+        "pt"
+    ],
+    [
+        "Henry James",
+        "Lady Barbarina",
+        "pt"
+    ],
+    [
+        "Henry James",
+        "O Desenho do Tapete",
+        "pt"
+    ],
+    [
+        "Henry James",
+        "Os Embaixadores",
+        "pt"
+    ],
+    [
+        "Henry James",
+        "Pelos Olhos de Maisie",
+        "en"
+    ],
+    [
+        "Henry James",
+        "Retrato de uma senhora",
+        "pt"
+    ],
+    [
+        "Henry James",
+        "The Ambassadors",
+        "en"
+    ],
+    [
+        "Henry James",
+        "The Coxon Fund",
+        "en"
+    ],
+    [
+        "Herman Melville",
+        "Bartleby the Scrivener",
+        "en"
+    ],
+    [
+        "Herman Melville",
+        "Benito Cereno",
+        "en"
+    ],
+    [
+        "Herman Melville",
+        "Moby-Dick or The Whale",
+        "en"
+    ],
+    [
+        "Hermann Hesse",
+        "Debaixo das Rodas",
+        "pt"
+    ],
+    [
+        "Hermann Hesse",
+        "Demian",
+        "pt"
+    ],
+    [
+        "Hermann Hesse",
+        "O Lobo da Estepe",
+        "pt"
+    ],
+    [
+        "Hermann Hesse",
+        "Sidarta",
+        "pt"
+    ],
+    [
+        "Hilda Hilst",
+        "132 Crônicas",
+        "en"
+    ],
+    [
+        "Hilda Hilst",
+        "A obscena senhora D",
+        "en"
+    ],
+    [
+        "Hilda Hilst",
+        "Baladas",
+        "en"
+    ],
+    [
+        "Hilda Hilst",
+        "Cantares",
+        "en"
+    ],
+    [
+        "Hilda Hilst",
+        "Cartas de um sedutor",
+        "pt"
+    ],
+    [
+        "Hilda Hilst",
+        "Com os Meus Olhos de Cão",
+        "en"
+    ],
+    [
+        "Hilda Hilst",
+        "Contos d’escárnio",
+        "es"
+    ],
+    [
+        "Hilda Hilst",
+        "Da poesia",
+        "pt"
+    ],
+    [
+        "Hilda Hilst",
+        "Da prosa",
+        "pt"
+    ],
+    [
+        "Hilda Hilst",
+        "Do Desejo",
+        "en"
+    ],
+    [
+        "Hilda Hilst",
+        "Estar Sendo",
+        "es"
+    ],
+    [
+        "Hilda Hilst",
+        "Fico Besta Quando Me Entendem",
+        "es"
+    ],
+    [
+        "Hilda Hilst",
+        "Júbilo, Memória, Noviciado da Paixão",
+        "en"
+    ],
+    [
+        "Hilda Hilst",
+        "Poemas Malditos, Gozosos e Devotos",
+        "en"
+    ],
+    [
+        "Hilda Hilst",
+        "Pornô Chic",
+        "en"
+    ],
+    [
+        "Hilda Hilst",
+        "Três vezes Hilda",
+        "pt"
+    ],
+    [
+        "Hilda Hilst",
+        "Tu não te moves de ti",
+        "en"
+    ],
+    [
+        "Hiro Arikawa",
+        "Relatos de um gato viajante",
+        "pt"
+    ],
+    [
+        "Holly Black",
+        "A Menina Mais fria de Coldtown",
+        "ca"
+    ],
+    [
+        "Holly Black",
+        "As Crônicas de Spiderwick",
+        "pt"
+    ],
+    [
+        "Holly Black",
+        "As Crônicas de Spiderwick",
+        "en"
+    ],
+    [
+        "Holly Black",
+        "Boneca de Ossos",
+        "pt"
+    ],
+    [
+        "Holly Black",
+        "Box O povo do ar",
+        "pt"
+    ],
+    [
+        "Holly Black",
+        "Contos De Fadas Modernos",
+        "en"
+    ],
+    [
+        "Holly Black",
+        "Contos De Fadas Modernos",
+        "pt"
+    ],
+    [
+        "Holly Black",
+        "Magisterium",
+        "en"
+    ],
+    [
+        "Holly Black",
+        "Magisterium",
+        "pt"
+    ],
+    [
+        "Holly Black",
+        "O Canto Mais Escuro da Floresta",
+        "en"
+    ],
+    [
+        "Holly Black",
+        "Zumbis x Unicórnios",
+        "en"
+    ],
+    [
+        "Homer",
+        "The Odyssey",
+        "en"
+    ],
+    [
+        "Homero",
+        "Ilíada e Odisseia",
+        "en"
+    ],
+    [
+        "Honore De Balzac",
+        "The Girl with the Golden Eyes",
+        "en"
+    ],
+    [
+        "Honore De Balzac",
+        "A Comédia Humana",
+        "pt"
+    ],
+    [
+        "Honore De Balzac",
+        "A Comédia Humana",
+        "en"
+    ],
+    [
+        "Honore De Balzac",
+        "A Duquesa de Langeais",
+        "pt"
+    ],
+    [
+        "Honore De Balzac",
+        "A Menina dos Olhos de Ouro",
+        "pt"
+    ],
+    [
+        "Honore De Balzac",
+        "A Mulher de Trinta Anos",
+        "pt"
+    ],
+    [
+        "Honore De Balzac",
+        "A Obra-Prima Ignorada",
+        "pt"
+    ],
+    [
+        "Honore De Balzac",
+        "A Pele de Onagro",
+        "pt"
+    ],
+    [
+        "Honore De Balzac",
+        "Código dos Homens Honestos",
+        "pt"
+    ],
+    [
+        "Honore De Balzac",
+        "Esplendores e Misérias das Cortesãs",
+        "pt"
+    ],
+    [
+        "Honore De Balzac",
+        "Eugénie Grandet",
+        "pt"
+    ],
+    [
+        "Honore De Balzac",
+        "Ferragus",
+        "pt"
+    ],
+    [
+        "Honore De Balzac",
+        "História dos treze",
+        "pt"
+    ],
+    [
+        "Honore De Balzac",
+        "Ilusões Perdidas",
+        "pt"
+    ],
+    [
+        "Honore De Balzac",
+        "O Pai Goriot",
+        "pt"
+    ],
+    [
+        "Honore De Balzac",
+        "Tratado da vida elegante",
+        "pt"
+    ],
+    [
+        "Howard Phillips Lovecraft",
+        "The Call of Cthulhu",
+        "en"
+    ],
+    [
+        "Hunter S. Thompson",
+        "Medo e delírio em Las Vegas",
+        "pt"
+    ],
+    [
+        "Hunter S. Thompson",
+        "Rum",
+        "pt"
+    ],
+    [
+        "Ian McEwan",
+        "A Balada de Adam Henry",
+        "pt"
+    ],
+    [
+        "Ian McEwan",
+        "A Barata",
+        "pt"
+    ],
+    [
+        "Ian McEwan",
+        "A Criança no Tempo",
+        "pt"
+    ],
+    [
+        "Ian McEwan",
+        "Amor Sem Fim",
+        "pt"
+    ],
+    [
+        "Ian McEwan",
+        "Amsterdam",
+        "pt"
+    ],
+    [
+        "Ian McEwan",
+        "Cães Negros",
+        "pt"
+    ],
+    [
+        "Ian McEwan",
+        "Enclausurado",
+        "pt"
+    ],
+    [
+        "Ian McEwan",
+        "Lições",
+        "ca"
+    ],
+    [
+        "Ian McEwan",
+        "Meu livro violeta",
+        "pt"
+    ],
+    [
+        "Ian McEwan",
+        "Máquinas como eu",
+        "pt"
+    ],
+    [
+        "Ian McEwan",
+        "Na Praia",
+        "pt"
+    ],
+    [
+        "Ian McEwan",
+        "O Inocente",
+        "pt"
+    ],
+    [
+        "Ian McEwan",
+        "O Jardim de Cimento",
+        "pt"
+    ],
+    [
+        "Ian McEwan",
+        "Reparação",
+        "pt"
+    ],
+    [
+        "Ian McEwan",
+        "Serena",
+        "pt"
+    ],
+    [
+        "Ian McEwan",
+        "Solar",
+        "pt"
+    ],
+    [
+        "Ian McEwan",
+        "Sábado",
+        "pt"
+    ],
+    [
+        "Ievguêni I. Zamiatin",
+        "Nós",
+        "pt"
+    ],
+    [
+        "Isaac Asimov",
+        "Fundação e Império",
+        "pt"
+    ],
+    [
+        "Isaac Asimov",
+        "Fundação e Terra",
+        "pt"
+    ],
+    [
+        "Isaac Asimov",
+        "Fundação",
+        "pt"
+    ],
+    [
+        "Isaac Asimov",
+        "Limites da Fundação",
+        "pt"
+    ],
+    [
+        "Isaac Asimov",
+        "O fim da eternidade",
+        "pt"
+    ],
+    [
+        "Isaac Asimov",
+        "O Sol Desvelado",
+        "pt"
+    ],
+    [
+        "Isaac Asimov",
+        "Origens da Fundação",
+        "pt"
+    ],
+    [
+        "Isaac Asimov",
+        "Os próprios deuses",
+        "en"
+    ],
+    [
+        "Isaac Asimov",
+        "Os Robôs da Alvorada",
+        "pt"
+    ],
+    [
+        "Isaac Asimov",
+        "Pedra no céu",
+        "pt"
+    ],
+    [
+        "Isaac Asimov",
+        "Prelúdio à Fundação",
+        "en"
+    ],
+    [
+        "Isaac Asimov",
+        "Segunda Fundação",
+        "pt"
+    ],
+    [
+        "Isaac Asimov",
+        "The Complete Asimov",
+        "en"
+    ],
+    [
+        "Italo Calvino",
+        "A especulação imobiliária(Companhia das Letras)",
+        "pt"
+    ],
+    [
+        "Italo Calvino",
+        "A trilha dos ninhos de aranha",
+        "pt"
+    ],
+    [
+        "Italo Calvino",
+        "Fábulas italianas",
+        "pt"
+    ],
+    [
+        "Italo Calvino",
+        "Marcovaldo ou As estações na cidade",
+        "pt"
+    ],
+    [
+        "Italo Calvino",
+        "Mundo escrito e mundo não escrito",
+        "pt"
+    ],
+    [
+        "Italo Calvino",
+        "O Barão nas Árvores",
+        "vi"
+    ],
+    [
+        "Italo Calvino",
+        "O caminho de San Giovanni",
+        "pt"
+    ],
+    [
+        "Italo Calvino",
+        "O castelo dos destinos cruzados",
+        "pt"
+    ],
+    [
+        "Italo Calvino",
+        "O Cavaleiro Inexistente",
+        "pt"
+    ],
+    [
+        "Italo Calvino",
+        "O dia de um escrutinador",
+        "pt"
+    ],
+    [
+        "Italo Calvino",
+        "O Visconde Partido ao Meio",
+        "pt"
+    ],
+    [
+        "Italo Calvino",
+        "Os amores difíceis",
+        "pt"
+    ],
+    [
+        "Italo Calvino",
+        "Os Nossos Antepassados",
+        "pt"
+    ],
+    [
+        "Italo Calvino",
+        "Palomar",
+        "pt"
+    ],
+    [
+        "Italo Calvino",
+        "Por que Ler os Clássicos",
+        "pt"
+    ],
+    [
+        "Italo Calvino",
+        "Se um viajante numa noite de inverno",
+        "pt"
+    ],
+    [
+        "Italo Calvino",
+        "Seis propostas para o próximo milênio",
+        "pt"
+    ],
+    [
+        "Italo Calvino",
+        "Sob o sol-jaguar",
+        "pt"
+    ],
+    [
+        "Italo Calvino",
+        "Todas as Cosmicômicas",
+        "pt"
+    ],
+    [
+        "Italo Calvino",
+        "Um General na Biblioteca",
+        "pt"
+    ],
+    [
+        "Italo Svevo",
+        "The Nice Old Man and the Pretty Girl",
+        "en"
+    ],
+    [
+        "Ivan Turgenev",
+        "First Love",
+        "en"
+    ],
+    [
+        "Ivan Turguêniev",
+        "A véspera",
+        "pt"
+    ],
+    [
+        "Ivan Turguêniev",
+        "Ninho de Fidalgos",
+        "pt"
+    ],
+    [
+        "Ivan Turguêniev",
+        "O Diário de um Homem Supérfluo",
+        "pt"
+    ],
+    [
+        "Ivan Turguêniev",
+        "Primeiro amor",
+        "pt"
+    ],
+    [
+        "Ivan Turguêniev",
+        "Relíquia Viva",
+        "pt"
+    ],
+    [
+        "Ivan Turguêniev",
+        "Um sonho",
+        "pt"
+    ],
+    [
+        "J. G. Ballard",
+        "Empire Of The Sun",
+        "en"
+    ],
+    [
+        "J. G. Ballard",
+        "The Drowned World",
+        "en"
+    ],
+    [
+        "J. K. Rowling",
+        "Animais Fantásticos & Onde Habitam",
+        "en"
+    ],
+    [
+        "J. K. Rowling",
+        "Animais Fantásticos",
+        "en"
+    ],
+    [
+        "J. K. Rowling",
+        "Harry Potter",
+        "en"
+    ],
+    [
+        "J. K. Rowling",
+        "Harry Potter",
+        "pt"
+    ],
+    [
+        "J. K. Rowling",
+        "Histórias de Hogwarts",
+        "pt"
+    ],
+    [
+        "J. K. Rowling",
+        "Hogwarts",
+        "en"
+    ],
+    [
+        "J. K. Rowling",
+        "O Ickabog",
+        "pt"
+    ],
+    [
+        "J. K. Rowling",
+        "Quadribol Através dos Séculos",
+        "pt"
+    ],
+    [
+        "J. K. Rowling",
+        "The Hogwarts Library Collection",
+        "en"
+    ],
+    [
+        "J. M. Barrie",
+        "Peter Pan",
+        "en"
+    ],
+    [
+        "J. M. Coetzee",
+        "A vida escolar de Jesus",
+        "pt"
+    ],
+    [
+        "J. M. Coetzee",
+        "Cenas da vida na província",
+        "pt"
+    ],
+    [
+        "J. M. Coetzee",
+        "Contos morais",
+        "pt"
+    ],
+    [
+        "J. M. Coetzee",
+        "Desonra",
+        "pt"
+    ],
+    [
+        "J. M. Coetzee",
+        "Elizabeth Costello",
+        "pt"
+    ],
+    [
+        "J. M. Coetzee",
+        "Homem lento",
+        "pt"
+    ],
+    [
+        "J. M. Coetzee",
+        "Mecanismos internos",
+        "pt"
+    ],
+    [
+        "J. M. Coetzee",
+        "O Mestre de Petersburgo",
+        "pt"
+    ],
+    [
+        "J. M. Coetzee",
+        "À espera dos bárbaros",
+        "pt"
+    ],
+    [
+        "J. P. Donleavy",
+        "Um Safado em Dublin",
+        "pt"
+    ],
+    [
+        "J. R. R. Tolkien",
+        "Mr. Bliss",
+        "en"
+    ],
+    [
+        "J. R. R. Tolkien",
+        "Smith of Wootton Major",
+        "en"
+    ],
+    [
+        "J. R. R. Tolkien",
+        "The Adventures of Tom Bombadil",
+        "en"
+    ],
+    [
+        "Jack London",
+        "Chamado da Floresta",
+        "pt"
+    ],
+    [
+        "Clarice Lispector",
+        "A via crucis do corpo",
+        "pt"
+    ],
+    [
+        "Clarice Lispector",
+        "As palavras",
+        "pt"
+    ],
+    [
+        "Clarice Lispector",
+        "Correspondências",
+        "pt"
+    ],
+    [
+        "Clarice Lispector",
+        "Crônicas para jovens",
+        "ca"
+    ],
+    [
+        "Clarice Lispector",
+        "Felicidade Clandestina",
+        "pt"
+    ],
+    [
+        "Clarice Lispector",
+        "Laços de Família",
+        "pt"
+    ],
+    [
+        "Clarice Lispector",
+        "O Lustre",
+        "pt"
+    ],
+    [
+        "Clarice Lispector",
+        "O tempo",
+        "pt"
+    ],
+    [
+        "Clarice Lispector",
+        "Onde estivestes de noite",
+        "pt"
+    ],
+    [
+        "Clarice Lispector",
+        "Outros escritos",
+        "pt"
+    ],
+    [
+        "Clarice Lispector",
+        "Para não esquecer",
+        "pt"
+    ],
+    [
+        "Clarice Lispector",
+        "Perto do coração selvagem",
+        "pt"
+    ],
+    [
+        "Clarice Lispector",
+        "Todas as crônicas",
+        "pt"
+    ],
+    [
+        "Clarice Lispector",
+        "Todos os contos",
+        "en"
+    ],
+    [
+        "Clarice Lispector",
+        "Um sopro de vida",
+        "pt"
+    ],
+    [
+        "Clarice Lispector",
+        "Uma aprendizagem ou livro dos prazeres",
+        "pt"
+    ],
+    [
+        "Clarice Lispector",
+        "Água Viva",
+        "pt"
+    ],
+    [
+        "Clifford D. Simak",
+        "A Choice of Gods",
+        "en"
+    ],
+    [
+        "Clifford D. Simak",
+        "A Heritage of Stars",
+        "en"
+    ],
+    [
+        "Clifford D. Simak",
+        "All Flesh Is Grass",
+        "en"
+    ],
+    [
+        "Clifford D. Simak",
+        "Enchanted Pilgrimage",
+        "en"
+    ],
+    [
+        "Clifford D. Simak",
+        "Mastodonia",
+        "en"
+    ],
+    [
+        "Clifford D. Simak",
+        "Our Children's Children",
+        "en"
+    ],
+    [
+        "Clifford D. Simak",
+        "Out of Their Minds",
+        "en"
+    ],
+    [
+        "Clifford D. Simak",
+        "Project Pope",
+        "en"
+    ],
+    [
+        "Clifford D. Simak",
+        "Shakespeare's Planet",
+        "en"
+    ],
+    [
+        "Clifford D. Simak",
+        "The Complete Short Fiction",
+        "en"
+    ],
+    [
+        "Clifford D. Simak",
+        "The Goblin Reservation",
+        "en"
+    ],
+    [
+        "Clifford D. Simak",
+        "The Werewolf Principle",
+        "en"
+    ],
+    [
+        "Clifford D. Simak",
+        "Time and Again",
+        "en"
+    ],
+    [
+        "Cláudio Manuel da Costa",
+        "Vila Rica",
+        "pt"
+    ],
+    [
+        "Fredric Brown",
+        "Compliments of a Fiend",
+        "en"
+    ],
+    [
+        "Fredric Brown",
+        "Ed and Am Hunter",
+        "en"
+    ],
+    [
+        "Fredric Brown",
+        "Here Comes a Candle",
+        "en"
+    ],
+    [
+        "Fredric Brown",
+        "His Name Was Death",
+        "en"
+    ],
+    [
+        "Fredric Brown",
+        "Madball",
+        "en"
+    ],
+    [
+        "Fredric Brown",
+        "Megapack",
+        "en"
+    ],
+    [
+        "Fredric Brown",
+        "Mostly Murder",
+        "en"
+    ],
+    [
+        "Fredric Brown",
+        "One for the Road",
+        "en"
+    ],
+    [
+        "Fredric Brown",
+        "Space On My Hands",
+        "en"
+    ],
+    [
+        "Fredric Brown",
+        "Star Shine",
+        "en"
+    ],
+    [
+        "Fredric Brown",
+        "The Late Lamented",
+        "en"
+    ],
+    [
+        "Fredric Brown",
+        "The Murderers",
+        "en"
+    ],
+    [
+        "Friedrich Durrenmatt",
+        "O juiz e seu carrasco",
+        "pt"
+    ],
+    [
+        "Fritz Leiber",
+        "Conjure Wife",
+        "en"
+    ],
+    [
+        "Fulke Greville",
+        "Collected Works",
+        "en"
+    ],
+    [
+        "Fyodor Dostoevsky",
+        "Crime and Punishment",
+        "en"
+    ],
+    [
+        "Fyodor Dostoevsky",
+        "The Eternal Husband",
+        "en"
+    ],
+    [
+        "Fyodor Dostoyevsky",
+        "The Brothers Karamazov",
+        "en"
+    ],
+    [
+        "Fyodor Dostoyevsky",
+        "The House of the Dead",
+        "en"
+    ],
+    [
+        "Fyodor Mikhailovich Dostoyevsky",
+        "A Raw Youth",
+        "en"
+    ],
+    [
+        "Fyodor Mikhailovich Dostoyevsky",
+        "Crime and Punishment",
+        "en"
+    ],
+    [
+        "Fyodor Mikhailovich Dostoyevsky",
+        "Notes From The Underground",
+        "en"
+    ],
+    [
+        "Fyodor Mikhailovich Dostoyevsky",
+        "Poor Folk",
+        "en"
+    ],
+    [
+        "Fyodor Mikhailovich Dostoyevsky",
+        "The Brothers Karamazov",
+        "en"
+    ],
+    [
+        "Fyodor Mikhailovich Dostoyevsky",
+        "The Double",
+        "en"
+    ],
+    [
+        "Fyodor Mikhailovich Dostoyevsky",
+        "The Dream of a Ridiculous Man",
+        "en"
+    ],
+    [
+        "Fyodor Mikhailovich Dostoyevsky",
+        "The Gambler",
+        "en"
+    ],
+    [
+        "Fyodor Mikhailovich Dostoyevsky",
+        "The Idiot",
+        "en"
+    ],
+    [
+        "Fyodor Mikhailovich Dostoyevsky",
+        "The Possessed or The Devils",
+        "en"
+    ],
+    [
+        "G. K. Chesterton",
+        "The Defendant",
+        "en"
+    ],
+    [
+        "G. K. Chesterton",
+        "Whats Wrong with the World",
+        "en"
+    ],
+    [
+        "Gabriel García Márquez",
+        "A aventura de Miguel Littín, clandestino no Chile",
+        "pt"
+    ],
+    [
+        "Gabriel García Márquez",
+        "A incrível e triste história da Cândida Erêndira e sua avó desalmada",
+        "pt"
+    ],
+    [
+        "Gabriel García Márquez",
+        "A revoada",
+        "pt"
+    ],
+    [
+        "Gabriel García Márquez",
+        "Cem Anos de Solidão",
+        "pt"
+    ],
+    [
+        "Gabriel García Márquez",
+        "Crônica de Uma Morte Anunciada",
+        "pt"
+    ],
+    [
+        "Gabriel García Márquez",
+        "Diatribe de amor contra um homem sentado",
+        "pt"
+    ],
+    [
+        "Gabriel García Márquez",
+        "Do amor e outros demônios",
+        "pt"
+    ],
+    [
+        "Gabriel García Márquez",
+        "Doze Contos Peregrinos",
+        "pt"
+    ],
+    [
+        "Gabriel García Márquez",
+        "Eu não vim fazer um discurso",
+        "pt"
+    ],
+    [
+        "Gabriel García Márquez",
+        "Memórias de minhas putas tristes",
+        "pt"
+    ],
+    [
+        "Gabriel García Márquez",
+        "Ninguém escreve ao coronel",
+        "pt"
+    ],
+    [
+        "Gabriel García Márquez",
+        "Notícia de um sequestro",
+        "pt"
+    ],
+    [
+        "Gabriel García Márquez",
+        "O Amor nos Tempos do Cólera",
+        "en"
+    ],
+    [
+        "Gabriel García Márquez",
+        "O escândalo do século",
+        "pt"
+    ],
+    [
+        "Gabriel García Márquez",
+        "O General em seu Labirinto",
+        "pt"
+    ],
+    [
+        "Gabriel García Márquez",
+        "O outono do patriarca",
+        "pt"
+    ],
+    [
+        "Gabriel García Márquez",
+        "O veneno da madrugada",
+        "pt"
+    ],
+    [
+        "Gabriel García Márquez",
+        "Obra Jornalística",
+        "pt"
+    ],
+    [
+        "Gabriel García Márquez",
+        "Obra Jornalística",
+        "ca"
+    ],
+    [
+        "Gabriel García Márquez",
+        "Olhos de Cão Azul",
+        "pt"
+    ],
+    [
+        "Gabriel García Márquez",
+        "Os funerais da mamãe grande",
+        "pt"
+    ],
+    [
+        "Gaston Leroux",
+        "Box Clássicos Góticos",
+        "pt"
+    ],
+    [
+        "Gaston Leroux",
+        "O fantasma da ópera",
+        "pt"
+    ],
+    [
+        "Geoffrey Chaucer",
+        "Medieval Poetry Collection",
+        "en"
+    ],
+    [
+        "George Crabbe",
+        "Collected Works",
+        "en"
+    ],
+    [
+        "George Eliot",
+        "Middlemarch",
+        "en"
+    ],
+    [
+        "George Eliot",
+        "Silas Marner",
+        "en"
+    ],
+    [
+        "George Eliot",
+        "The Mill on the Floss",
+        "en"
+    ],
+    [
+        "George Orwell",
+        "1984",
+        "en"
+    ],
+    [
+        "George Orwell",
+        "1984",
+        "ca"
+    ],
+    [
+        "George Orwell",
+        "1984",
+        "pt"
+    ],
+    [
+        "George Orwell",
+        "A Clergyman's Daughter",
+        "en"
+    ],
+    [
+        "George Orwell",
+        "A Fazenda dos Animais",
+        "en"
+    ],
+    [
+        "George Orwell",
+        "A flor da Inglaterra",
+        "pt"
+    ],
+    [
+        "George Orwell",
+        "All Art is Propaganda",
+        "en"
+    ],
+    [
+        "George Orwell",
+        "Animal Farm",
+        "en"
+    ],
+    [
+        "George Orwell",
+        "Between the bullet and the lie",
+        "en"
+    ],
+    [
+        "George Orwell",
+        "Books v. Cigarettes",
+        "en"
+    ],
+    [
+        "George Orwell",
+        "Box George Orwell",
+        "pt"
+    ],
+    [
+        "George Orwell",
+        "Box Obras de George Orwell",
+        "pt"
+    ],
+    [
+        "George Orwell",
+        "Burmese Days",
+        "en"
+    ],
+    [
+        "George Orwell",
+        "Coming Up for Air",
+        "en"
+    ],
+    [
+        "George Orwell",
+        "Como Morrem Os Pobres e Outros Ensaios",
+        "pt"
+    ],
+    [
+        "George Orwell",
+        "Decline of the English Murder",
+        "en"
+    ],
+    [
+        "George Orwell",
+        "Dentro da Baleia e Outros Ensaios",
+        "pt"
+    ],
+    [
+        "George Orwell",
+        "Dias na Birmânia",
+        "pt"
+    ],
+    [
+        "George Orwell",
+        "Down and Out in Paris and London",
+        "en"
+    ],
+    [
+        "George Orwell",
+        "England Your England",
+        "en"
+    ],
+    [
+        "George Orwell",
+        "Essays",
+        "en"
+    ],
+    [
+        "George Orwell",
+        "Facing Unpleasant Facts",
+        "en"
+    ],
+    [
+        "George Orwell",
+        "Homage to Catalonia",
+        "en"
+    ],
+    [
+        "George Orwell",
+        "Homenagem à Catalunha",
+        "pt"
+    ],
+    [
+        "George Orwell",
+        "Keep the Aspidistra Flying",
+        "en"
+    ],
+    [
+        "George Orwell",
+        "Na Pior Em Paris e Londres",
+        "pt"
+    ],
+    [
+        "George Orwell",
+        "Nineteen Eighty-Four",
+        "en"
+    ],
+    [
+        "George Orwell",
+        "Notes on Nationalism",
+        "en"
+    ],
+    [
+        "George Orwell",
+        "O caminho para Wigan Pier",
+        "pt"
+    ],
+    [
+        "George Orwell",
+        "O Que é o Fascismo e Outros Ensaios",
+        "pt"
+    ],
+    [
+        "George Orwell",
+        "Orwell and the Dispossessed",
+        "en"
+    ],
+    [
+        "George Orwell",
+        "Orwell in Spain",
+        "en"
+    ],
+    [
+        "George Orwell",
+        "Orwell on Truth",
+        "en"
+    ],
+    [
+        "George Orwell",
+        "Shooting an Elephant and Other Essays",
+        "en"
+    ],
+    [
+        "George Orwell",
+        "Sobre a verdade",
+        "pt"
+    ],
+    [
+        "George Orwell",
+        "The Collected Non-Fiction",
+        "en"
+    ],
+    [
+        "George Orwell",
+        "The Complete Novels Of George Orwell",
+        "en"
+    ],
+    [
+        "George Orwell",
+        "The lion and the unicorn",
+        "en"
+    ],
+    [
+        "George Orwell",
+        "The Road to Wigan Pier",
+        "en"
+    ],
+    [
+        "George Orwell",
+        "Um pouco de ar, por favor",
+        "en"
+    ],
+    [
+        "George Orwell",
+        "Uma vida em cartas",
+        "pt"
+    ],
+    [
+        "George Orwell",
+        "Why I Write",
+        "en"
+    ],
+    [
+        "George R. Stewart",
+        "Storm",
+        "en"
+    ],
+    [
+        "Georges Bataille",
+        "A experiência interior",
+        "en"
+    ],
+    [
+        "Georges Bataille",
+        "A literatura e o mal",
+        "en"
+    ],
+    [
+        "Georges Bataille",
+        "A parte maldita",
+        "pt"
+    ],
+    [
+        "Georges Bataille",
+        "História do Olho",
+        "en"
+    ],
+    [
+        "Georges Bataille",
+        "O Erotismo",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "A Cabeça de um Homem",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "A dançarina do cabaré",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "A gafieira de dois tostões",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "A Louca de Maigret",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "A neve estava suja",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "A Noite da Encruzilhada",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "Ainda Restam Aveleiras",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "Escrupulos de Maigret",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "Inferno a Bordo",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "Liberty Bar",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "Maigret",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "Maigret e a Mulher do Ladrão",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "Maigret e o cliente de Sábado",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "Maigret e o Finado Sr. Gallet",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "Maigret e o Homem Solitário",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "Maigret e o informante",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "Maigret e o Ladrão Preguiçoso",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "Maigret e o Matador",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "Maigret e o Ministro",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "Maigret e os Colegas Americanos",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "Maigret e os Homens de Bem",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "Maigret em Vichy",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "Maigret Hesita",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "Maigret na Escola",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "Maigret na pensão",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "Maigret no Picratt’s",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "Maigret no tribunal",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "Maigret Sai em Viagem",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "Maigret se Defende",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "Maigret se irrita",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "Memórias de Maigret",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "Meu amigo Maigret",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "Morte na Alta Sociedade",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "O cachorro amarelo",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "O Caso Saint-Fiacre",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "O Cavalariço da Providence",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "O Enforcado de Saint-Pholien",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "O finado Sr. Gallet",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "O Porto das Brumas",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "Os porões do Majestic",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "Pietr, o letão",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "Sombras na Place Des Vosges",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "Um Crime na Holanda",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "Um fracasso de Maigret",
+        "pt"
+    ],
+    [
+        "Georges Simenon",
+        "Uma confidência de Maigret",
+        "pt"
+    ],
+    [
+        "Giacomo Casanova",
+        "The Duel",
+        "en"
+    ],
+    [
+        "Gil Vicente",
+        "Autos e Farsas",
+        "pt"
+    ],
+    [
+        "Gilbert Keith Chesterton",
+        "The Man Who Knew Too Much",
+        "en"
+    ],
+    [
+        "Giovanni Boccaccio",
+        "As dez melhores histórias do Decamerão",
+        "pt"
+    ],
+    [
+        "Giovanni Boccaccio",
+        "Decameron",
+        "pt"
+    ],
+    [
+        "Giovanni Boccaccio",
+        "O Decamerão",
+        "ca"
+    ],
+    [
+        "Gonçalves Dias",
+        "Obra Poética Completa",
+        "en"
+    ],
+    [
+        "Graciliano Ramos",
+        "A Terra Dos Meninos Pelados",
+        "pt"
+    ],
+    [
+        "Graciliano Ramos",
+        "Alexandre e outros heróis",
+        "pt"
+    ],
+    [
+        "Graciliano Ramos",
+        "Angústia",
+        "pt"
+    ],
+    [
+        "Graciliano Ramos",
+        "Caetés",
+        "es"
+    ],
+    [
+        "Graciliano Ramos",
+        "Cangaços",
+        "pt"
+    ],
+    [
+        "Graciliano Ramos",
+        "Garranchos",
+        "en"
+    ],
+    [
+        "Graciliano Ramos",
+        "Histórias de Alexandre",
+        "pt"
+    ],
+    [
+        "Graciliano Ramos",
+        "Infância",
+        "es"
+    ],
+    [
+        "Graciliano Ramos",
+        "Insônia",
+        "pt"
+    ],
+    [
+        "Graciliano Ramos",
+        "Linhas tortas",
+        "pt"
+    ],
+    [
+        "Graciliano Ramos",
+        "Memórias do Cárcere",
+        "pt"
+    ],
+    [
+        "Graciliano Ramos",
+        "S. Bernardo",
+        "pt"
+    ],
+    [
+        "Graciliano Ramos",
+        "Viagem",
+        "pt"
+    ],
+    [
+        "Graciliano Ramos",
+        "Vidas Secas",
+        "pt"
+    ],
+    [
+        "Gregório de Matos",
+        "Musa Praguejadora",
+        "pt"
+    ],
+    [
+        "Gregório de Matos",
+        "Poemas atribuídos",
+        "pt"
+    ],
+    [
+        "Gregório de Matos",
+        "Poemas escolhidos de Gregório de Matos",
+        "pt"
+    ],
+    [
+        "Gregório de Matos",
+        "Triste Bahia",
+        "pt"
+    ],
+    [
+        "Gustave Flaubert",
+        "Madame Bovary",
+        "en"
+    ],
+    [
+        "Gustave Flaubert",
+        "Salambô",
+        "pt"
+    ],
+    [
+        "Gustave Flaubert",
+        "Salammbô",
+        "pt"
+    ],
+    [
+        "Gustave Flaubert",
+        "Um coração singelo",
+        "pt"
+    ],
+    [
+        "Guy de Maupassant",
+        "Contos Fantásticos",
+        "pt"
+    ],
+    [
+        "Guy de Maupassant",
+        "The Horla",
+        "en"
+    ],
+    [
+        "Gyorgy Dragoman",
+        "O Rei Branco",
+        "pt"
+    ],
+    [
+        "H. A. Guerber",
+        "Box",
+        "ca"
+    ],
+    [
+        "H. E. Bates",
+        "Pop Larkin Chronicles",
+        "en"
+    ],
+    [
+        "H. G. Wells",
+        "A guerra dos mundos",
+        "pt"
+    ],
+    [
+        "Clifford D. Simak",
+        "Time Is the Simplest Thing",
+        "en"
+    ],
+    [
+        "Clifford D. Simak",
+        "Way Station",
+        "en"
+    ],
+    [
+        "Colette",
+        "A Ingênua Libertina",
+        "pt"
+    ],
+    [
+        "Colette Soler",
+        "O que Lacan dizia das mulheres",
+        "en"
+    ],
+    [
+        "Colleen McCullough",
+        "The Thorn Birds",
+        "en"
+    ],
+    [
+        "Conceição Evaristo",
+        "Olhos d’água",
+        "pt"
+    ],
+    [
+        "Confúcio",
+        "Os Analectos",
+        "pt"
+    ],
+    [
+        "Cora Coralina",
+        "Meu Livro de Cordel",
+        "pt"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "Dois sonhos",
+        "pt"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "Duas Narrativas Fantásticas",
+        "pt"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "Gente Pobre",
+        "pt"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "Gente Pobre e A Anfitriã",
+        "en"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "Grandes obras de Dostoiévski",
+        "en"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "Humilhados e ofendidos",
+        "en"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "Início e Fim",
+        "pt"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "Memórias do Subsolo",
+        "pt"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "Niétotchka Niezvânova",
+        "pt"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "Noites Brancas",
+        "en"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "Noites Brancas",
+        "pt"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "Notas do Subsolo",
+        "pt"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "O Adolescente",
+        "pt"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "O Crocodilo",
+        "pt"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "O Duplo",
+        "pt"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "O Eterno Marido",
+        "pt"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "O Idiota",
+        "pt"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "O Idiota",
+        "en"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "O jogador",
+        "pt"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "O Jogador",
+        "en"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "O Sonho de um Homem Ridículo",
+        "en"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "Os Demônios",
+        "pt"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "Os Demônios",
+        "ca"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "Os Irmãos Karamázov",
+        "pt"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "Os Irmãos Karamázov",
+        "en"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "Polzunkov",
+        "pt"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "Um Jogador",
+        "pt"
+    ],
+    [
+        "Fiódor Dostoiévski",
+        "Um Pequeno Herói",
+        "pt"
+    ],
+    [
+        "Flann O'Brien",
+        "The Third Policeman",
+        "en"
+    ],
+    [
+        "Flannery O'Connor",
+        "Um homem bom é difícil de encontrar e outras histórias",
+        "pt"
+    ],
+    [
+        "Frances Crane",
+        "13 White Tulips",
+        "en"
+    ],
+    [
+        "Frances Crane",
+        "Black Cypress",
+        "en"
+    ],
+    [
+        "Frances Crane",
+        "Death in Lilac Time",
+        "en"
+    ],
+    [
+        "Frances Crane",
+        "Death-Wish Green",
+        "en"
+    ],
+    [
+        "Frances Crane",
+        "Horror on the Ruby X",
+        "en"
+    ],
+    [
+        "Frances Crane",
+        "Murder on the Purple Water",
+        "en"
+    ],
+    [
+        "Frances Crane",
+        "The Amber Eyes",
+        "en"
+    ],
+    [
+        "Frances Crane",
+        "The Amethyst Spectacles",
+        "en"
+    ],
+    [
+        "Frances Crane",
+        "The Applegreen Cat",
+        "en"
+    ],
+    [
+        "Frances Crane",
+        "The Daffodil Blonde",
+        "en"
+    ],
+    [
+        "Frances Crane",
+        "The Flying Red Horse",
+        "en"
+    ],
+    [
+        "Frances Crane",
+        "The Golden Box",
+        "en"
+    ],
+    [
+        "Frances Crane",
+        "The Pink Umbrella",
+        "en"
+    ],
+    [
+        "Frances Crane",
+        "The Turquoise Shop",
+        "en"
+    ],
+    [
+        "Frances Crane",
+        "The Yellow Violet",
+        "en"
+    ],
+    [
+        "Frances Noyes Hart",
+        "Hide in the Dark",
+        "en"
+    ],
+    [
+        "Frances Noyes Hart",
+        "The Crooked Lane",
+        "en"
+    ],
+    [
+        "Francine Prose",
+        "Para ler como um escritor",
+        "pt"
+    ],
+    [
+        "Francis Scott Fitzgerald",
+        "The Great Gatsby",
+        "en"
+    ],
+    [
+        "Francis Scott Fitzgerald",
+        "This Side of Paradise",
+        "en"
+    ],
+    [
+        "Francis Thompson",
+        "Collected Works",
+        "en"
+    ],
+    [
+        "Frank Herberts",
+        "Dune Saga Collection",
+        "en"
+    ],
+    [
+        "Franz Kafka",
+        "A Metamorfose",
+        "pt"
+    ],
+    [
+        "Franz Kafka",
+        "Carta ao Pai",
+        "pt"
+    ],
+    [
+        "Franz Kafka",
+        "Diários",
+        "pt"
+    ],
+    [
+        "Franz Kafka",
+        "Essencial",
+        "pt"
+    ],
+    [
+        "Franz Kafka",
+        "Na Colônia Penal",
+        "pt"
+    ],
+    [
+        "Franz Kafka",
+        "Narrativas do espólio",
+        "en"
+    ],
+    [
+        "Franz Kafka",
+        "O Castelo",
+        "pt"
+    ],
+    [
+        "Franz Kafka",
+        "O Diários",
+        "pt"
+    ],
+    [
+        "Franz Kafka",
+        "O Processo",
+        "en"
+    ],
+    [
+        "Franz Kafka",
+        "O Processo",
+        "pt"
+    ],
+    [
+        "Franz Kafka",
+        "The Aphorisms of Franz Kafka",
+        "en"
+    ],
+    [
+        "Franz Kafka",
+        "Um artista da fome",
+        "pt"
+    ],
+    [
+        "Franz Kafka",
+        "Um médico rural",
+        "pt"
+    ],
+    [
+        "Katherine Mansfield",
+        "A festa ao ar livre e outras histórias",
+        "pt"
+    ],
+    [
+        "Katie Kitamura",
+        "Uma separação",
+        "pt"
+    ],
+    [
+        "Katja Petrowskaja",
+        "Talvez Esther",
+        "pt"
+    ],
+    [
+        "Katsushika Hokusai",
+        "Collected Works of Katsushika Hokusai",
+        "en"
+    ],
+    [
+        "Kazuo Ishiguro",
+        "As Colinas de Nagasaki",
+        "pt"
+    ],
+    [
+        "Kazuo Ishiguro",
+        "Klara e o Sol",
+        "pt"
+    ],
+    [
+        "Kazuo Ishiguro",
+        "Noturnos",
+        "pt"
+    ],
+    [
+        "Kazuo Ishiguro",
+        "Não Me Abandone Jamais",
+        "pt"
+    ],
+    [
+        "Kazuo Ishiguro",
+        "O Desconsolado",
+        "pt"
+    ],
+    [
+        "Kazuo Ishiguro",
+        "O Gigante Enterrado",
+        "pt"
+    ],
+    [
+        "Kazuo Ishiguro",
+        "Os vestígios do dia",
+        "pt"
+    ],
+    [
+        "Kazuo Ishiguro",
+        "Um artista do mundo flutuante",
+        "pt"
+    ],
+    [
+        "Kenneth Grahame",
+        "O vento nos salgueiros",
+        "pt"
+    ],
+    [
+        "Kenzaburo Oe",
+        "14 contos de Kenzaburo Oe",
+        "pt"
+    ],
+    [
+        "Kenzaburo Oe",
+        "Jovens de um novo tempo, despertai",
+        "pt"
+    ],
+    [
+        "Kenzaburo Oe",
+        "Morte na água",
+        "en"
+    ],
+    [
+        "Kenzaburo Oe",
+        "Uma questão pessoal",
+        "pt"
+    ],
+    [
+        "Kim Young-ha",
+        "Flor Negra",
+        "pt"
+    ],
+    [
+        "Kurt Vonnegut",
+        "A Man Without A Country",
+        "en"
+    ],
+    [
+        "Kurt Vonnegut",
+        "Cat's Cradle",
+        "en"
+    ],
+    [
+        "Kurt Vonnegut",
+        "Deadeye Dick",
+        "en"
+    ],
+    [
+        "Kurt Vonnegut",
+        "Mother Night",
+        "en"
+    ],
+    [
+        "Kurt Vonnegut",
+        "Player piano",
+        "en"
+    ],
+    [
+        "Kurt Vonnegut",
+        "Slaughterhouse-Five",
+        "en"
+    ],
+    [
+        "Lauren James",
+        "A garota mais solitária do universo",
+        "en"
+    ],
+    [
+        "Lauren James",
+        "Em nossa próxima vida",
+        "pt"
+    ],
+    [
+        "Leigh Bardugo",
+        "Siege and Storm",
+        "en"
+    ],
+    [
+        "Len Deighton",
+        "Billion-Dollar Brain",
+        "en"
+    ],
+    [
+        "Len Deighton",
+        "Bomber",
+        "en"
+    ],
+    [
+        "Len Deighton",
+        "Funeral in Berlin",
+        "en"
+    ],
+    [
+        "Len Deighton",
+        "Horse Under Water",
+        "en"
+    ],
+    [
+        "Len Deighton",
+        "The Ipcress File",
+        "en"
+    ],
+    [
+        "Leo Tolstoy",
+        "Anna Karenina",
+        "en"
+    ],
+    [
+        "Leo Tolstoy",
+        "Sevastopol",
+        "en"
+    ],
+    [
+        "Leo Tolstoy",
+        "The Devil",
+        "en"
+    ],
+    [
+        "Leo Tolstoy",
+        "War and Peace",
+        "en"
+    ],
+    [
+        "Leon Tolstói",
+        "A Felicidade Conjugal seguido de O Diabo",
+        "pt"
+    ],
+    [
+        "Leon Tolstói",
+        "Box Grandes obras de Tolstói",
+        "ca"
+    ],
+    [
+        "Leon Tolstói",
+        "Box Guerra e Paz",
+        "en"
+    ],
+    [
+        "Leon Tolstói",
+        "Infância, adolescência e juventude",
+        "pt"
+    ],
+    [
+        "Leon Tolstói",
+        "O Diabo",
+        "pt"
+    ],
+    [
+        "Leon Tolstói",
+        "O Que é Arte",
+        "pt"
+    ],
+    [
+        "Leon Tolstói",
+        "Senhor e servo e Outras Histórias",
+        "pt"
+    ],
+    [
+        "Leon Uris",
+        "Battle Cry",
+        "unknown"
+    ],
+    [
+        "Liev Tolstói",
+        "A Morte de Ivan Ilitch",
+        "pt"
+    ],
+    [
+        "Liev Tolstói",
+        "Anna Kariênina",
+        "pt"
+    ],
+    [
+        "Liev Tolstói",
+        "Contos Completos",
+        "pt"
+    ],
+    [
+        "Liev Tolstói",
+        "Felicidade Conjugal",
+        "pt"
+    ],
+    [
+        "Liev Tolstói",
+        "Guerra e Paz",
+        "pt"
+    ],
+    [
+        "Liev Tolstói",
+        "Os últimos dias",
+        "pt"
+    ],
+    [
+        "Liev Tolstói",
+        "Padre Sérgio",
+        "pt"
+    ],
+    [
+        "Liev Tolstói",
+        "Ressurreição",
+        "ca"
+    ],
+    [
+        "Lima Barreto",
+        "Obra Reunida",
+        "es"
+    ],
+    [
+        "Liu Xiaobo",
+        "Não tenho inimigos, desconheço o ódio",
+        "pt"
+    ],
+    [
+        "Lord Byron",
+        "Selected Poems",
+        "en"
+    ],
+    [
+        "Lord Redesdale",
+        "Tales of Old Japan",
+        "en"
+    ],
+    [
+        "Lore Segal",
+        "Lucinella",
+        "en"
+    ],
+    [
+        "Louisa May Alcott",
+        "Mulherzinhas",
+        "pt"
+    ],
+    [
+        "Louise Imogen Guiney",
+        "Complete Works of Louise Imogen Guiney",
+        "en"
+    ],
+    [
+        "Lourenço Mutarelli",
+        "A Arte de Produzir Efeito Sem Causa",
+        "pt"
+    ],
+    [
+        "Lourenço Mutarelli",
+        "Jesus Kid",
+        "ca"
+    ],
+    [
+        "Lourenço Mutarelli",
+        "Nada me faltará",
+        "pt"
+    ],
+    [
+        "Lourenço Mutarelli",
+        "O cheiro do ralo",
+        "pt"
+    ],
+    [
+        "Lourenço Mutarelli",
+        "O grifo de Abdera",
+        "pt"
+    ],
+    [
+        "Lucia Berlin",
+        "Manual da Faxineira",
+        "pt"
+    ],
+    [
+        "Lucia Berlin",
+        "Noite no paraíso",
+        "ca"
+    ],
+    [
+        "Lucy Maud Montgomery",
+        "A escalada de Emily",
+        "pt"
+    ],
+    [
+        "Lucy Maud Montgomery",
+        "A estrada dourada",
+        "pt"
+    ],
+    [
+        "Lucy Maud Montgomery",
+        "A história de Pat de Silver Bush",
+        "pt"
+    ],
+    [
+        "Lucy Maud Montgomery",
+        "A menina das histórias",
+        "pt"
+    ],
+    [
+        "Lucy Maud Montgomery",
+        "Coleção Anne de Green Gables",
+        "es"
+    ],
+    [
+        "Lucy Maud Montgomery",
+        "Jane de Lantern Hill",
+        "pt"
+    ],
+    [
+        "Lucy Maud Montgomery",
+        "Kilmeny do pomar",
+        "pt"
+    ],
+    [
+        "Lucy Maud Montgomery",
+        "O Caminho Alpino",
+        "pt"
+    ],
+    [
+        "Lucy Maud Montgomery",
+        "O Castelo Azul",
+        "pt"
+    ],
+    [
+        "Lucy Maud Montgomery",
+        "O grande livro dos Blythes",
+        "pt"
+    ],
+    [
+        "Lucy Maud Montgomery",
+        "Os melhores romances de Lucy Maud Montgomery",
+        "es"
+    ],
+    [
+        "Luis Fernando Veríssimo",
+        "A Grande Mulher Nua",
+        "pt"
+    ],
+    [
+        "Luis Fernando Veríssimo",
+        "A mesa voadora",
+        "pt"
+    ],
+    [
+        "Luis Fernando Veríssimo",
+        "As mentiras que as mulheres contam",
+        "en"
+    ],
+    [
+        "Luis Fernando Veríssimo",
+        "Diálogos Impossíveis",
+        "pt"
+    ],
+    [
+        "Luis Fernando Veríssimo",
+        "Ironias do Tempo",
+        "pt"
+    ],
+    [
+        "Luis Fernando Veríssimo",
+        "Os últimos quartetos de Beethoven e outros contos",
+        "en"
+    ],
+    [
+        "Luiz Alfredo Garcia-Roza",
+        "A última mulher",
+        "pt"
+    ],
+    [
+        "Luiz Alfredo Garcia-Roza",
+        "Achados e perdidos",
+        "pt"
+    ],
+    [
+        "Luiz Alfredo Garcia-Roza",
+        "Berenice Procura",
+        "pt"
+    ],
+    [
+        "Luiz Alfredo Garcia-Roza",
+        "Céu De Origamis",
+        "pt"
+    ],
+    [
+        "Luiz Alfredo Garcia-Roza",
+        "Espinosa Sem Saída",
+        "pt"
+    ],
+    [
+        "Luiz Alfredo Garcia-Roza",
+        "Fantasma",
+        "pt"
+    ],
+    [
+        "Luiz Alfredo Garcia-Roza",
+        "Na Multidão",
+        "pt"
+    ],
+    [
+        "Luiz Alfredo Garcia-Roza",
+        "O Silêncio Da Chuva",
+        "pt"
+    ],
+    [
+        "Luiz Alfredo Garcia-Roza",
+        "Perseguido",
+        "pt"
+    ],
+    [
+        "Luiz Alfredo Garcia-Roza",
+        "Um lugar perigoso",
+        "pt"
+    ],
+    [
+        "Luiz Alfredo Garcia-Roza",
+        "Uma janela em Copacabana",
+        "pt"
+    ],
+    [
+        "Luiz Alfredo Garcia-Roza",
+        "Vento Sudoeste",
+        "pt"
+    ],
+    [
+        "Luo Guanzhong",
+        "The Romance of the Three Kingdoms",
+        "en"
+    ],
+    [
+        "Luís de Camões",
+        "Os Lusíadas",
+        "es"
+    ],
+    [
+        "Luís de Camões",
+        "Sonetos de amor",
+        "pt"
+    ],
+    [
+        "Lygia Fagundes Telles",
+        "A Disciplina do Amor",
+        "pt"
+    ],
+    [
+        "Lygia Fagundes Telles",
+        "A Estrutura da Bolha de Sabão e Outras Histórias",
+        "pt"
+    ],
+    [
+        "Lygia Fagundes Telles",
+        "A Noite Escura e mais Eu",
+        "pt"
+    ],
+    [
+        "Lygia Fagundes Telles",
+        "Antes do Baile Verde",
+        "en"
+    ],
+    [
+        "Lygia Fagundes Telles",
+        "As Horas Nuas",
+        "pt"
+    ],
+    [
+        "Lygia Fagundes Telles",
+        "As Meninas",
+        "en"
+    ],
+    [
+        "Lygia Fagundes Telles",
+        "Ciranda de Pedra",
+        "pt"
+    ],
+    [
+        "Lygia Fagundes Telles",
+        "Durante aquele estranho chá",
+        "en"
+    ],
+    [
+        "Lygia Fagundes Telles",
+        "Os contos",
+        "en"
+    ],
+    [
+        "Lygia Fagundes Telles",
+        "Seminário dos Ratos",
+        "pt"
+    ],
+    [
+        "Lygia Fagundes Telles",
+        "Um coração ardente",
+        "pt"
+    ],
+    [
+        "Lygia Fagundes Telles",
+        "Verão no Aquário",
+        "pt"
+    ],
+    [
+        "Machado de Assis",
+        "50 contos de Machado de Assis",
+        "pt"
+    ],
+    [
+        "Machado de Assis",
+        "A mão e a luva",
+        "pt"
+    ],
+    [
+        "Machado de Assis",
+        "Box Todos os Contos de Machado de Assis",
+        "ca"
+    ],
+    [
+        "Machado de Assis",
+        "Casa velha",
+        "pt"
+    ],
+    [
+        "Machado de Assis",
+        "Contos de Amor e Ciúmes",
+        "pt"
+    ],
+    [
+        "Machado de Assis",
+        "Contos de Machado de Assis",
+        "pt"
+    ],
+    [
+        "Machado de Assis",
+        "Crônicas Escolhidas",
+        "pt"
+    ],
+    [
+        "Machado de Assis",
+        "Dom Casmurro",
+        "pt"
+    ],
+    [
+        "Machado de Assis",
+        "Helena",
+        "pt"
+    ],
+    [
+        "Machado de Assis",
+        "Iaiá Garcia",
+        "pt"
+    ],
+    [
+        "Machado de Assis",
+        "Memórias Póstumas de Brás Cubas",
+        "en"
+    ],
+    [
+        "Machado de Assis",
+        "Memórias póstumas de Brás Cubas",
+        "pt"
+    ],
+    [
+        "Marquês de Sade",
+        "Os Crimes do Amor",
+        "pt"
+    ],
+    [
+        "Marquês de Sade",
+        "Os Infortúnios da Virtude",
+        "pt"
+    ],
+    [
+        "Martha Medeiros",
+        "A Claridade lá Fora",
+        "pt"
+    ],
+    [
+        "Martha Medeiros",
+        "A graça da coisa",
+        "pt"
+    ],
+    [
+        "Martha Medeiros",
+        "Comigo no Cinema",
+        "pt"
+    ],
+    [
+        "Martha Medeiros",
+        "Doidas e santas",
+        "pt"
+    ],
+    [
+        "Martha Medeiros",
+        "Feliz por Nada",
+        "pt"
+    ],
+    [
+        "Martha Medeiros",
+        "Noite em Claro",
+        "pt"
+    ],
+    [
+        "Martha Medeiros",
+        "Quem diria que viver ia dar nisso",
+        "pt"
+    ],
+    [
+        "Martha Medeiros",
+        "Topless",
+        "pt"
+    ],
+    [
+        "Mary Kelly",
+        "The Christmas Egg",
+        "en"
+    ],
+    [
+        "Mary Renault",
+        "The Alexander Trilogy",
+        "en"
+    ],
+    [
+        "Mary Renault",
+        "The King Must Die",
+        "en"
+    ],
+    [
+        "Mary Renault",
+        "The Mask of Apollo",
+        "en"
+    ],
+    [
+        "Mary Shelley",
+        "Mathilda",
+        "en"
+    ],
+    [
+        "Maurice Leblanc",
+        "Arsène Lupin",
+        "pt"
+    ],
+    [
+        "Maurice Leblanc",
+        "Arsène Lupin",
+        "ca"
+    ],
+    [
+        "Maurice Leblanc",
+        "Arsène Lupin",
+        "es"
+    ],
+    [
+        "Maurice Leblanc",
+        "Arsène Lupin",
+        "unknown"
+    ],
+    [
+        "May Sarton",
+        "Coming into Eighty",
+        "en"
+    ],
+    [
+        "May Sarton",
+        "Plant Dreaming Deep",
+        "en"
+    ],
+    [
+        "May Sarton",
+        "The house by the sea",
+        "en"
+    ],
+    [
+        "Michael Chabon",
+        "The Yiddish Policemens Union",
+        "en"
+    ],
+    [
+        "Michael Crichton",
+        "Drug of Choice",
+        "en"
+    ],
+    [
+        "Michael Crichton",
+        "Easy Go",
+        "en"
+    ],
+    [
+        "Michael Crichton",
+        "Grave Descend",
+        "en"
+    ],
+    [
+        "Michael Crichton",
+        "Odds On",
+        "en"
+    ],
+    [
+        "Michael Crichton",
+        "Scratch One",
+        "en"
+    ],
+    [
+        "Michael Crichton",
+        "Zero Cool",
+        "en"
+    ],
+    [
+        "Michael Grant",
+        "Gone Series Complete Collection",
+        "en"
+    ],
+    [
+        "Michael Grant",
+        "Latin Literature",
+        "en"
+    ],
+    [
+        "Michael Ondaatje",
+        "O Paciente Inglês",
+        "en"
+    ],
+    [
+        "Máximo Gorki",
+        "A mãe",
+        "pt"
+    ],
+    [
+        "Máximo Gorki",
+        "Contos",
+        "pt"
+    ],
+    [
+        "Machado de Assis",
+        "O Alienista",
+        "en"
+    ],
+    [
+        "Machado de Assis",
+        "O Alienista",
+        "pt"
+    ],
+    [
+        "Machado de Assis",
+        "O jornal e o livro",
+        "pt"
+    ],
+    [
+        "Machado de Assis",
+        "Obras completas",
+        "pt"
+    ],
+    [
+        "Machado de Assis",
+        "Papéis avulsos",
+        "pt"
+    ],
+    [
+        "Machado de Assis",
+        "Ressurreição",
+        "pt"
+    ],
+    [
+        "Machado de Assis",
+        "Seus Trinta Melhores Contos",
+        "pt"
+    ],
+    [
+        "Machado de Assis",
+        "The Alienist",
+        "en"
+    ],
+    [
+        "Machado de Assis",
+        "Todos os romances e contos consagrados de Machado de Assis",
+        "en"
+    ],
+    [
+        "Machado de Assis",
+        "Várias Histórias",
+        "pt"
+    ],
+    [
+        "Magda Szabo",
+        "Abigail",
+        "en"
+    ],
+    [
+        "Mai Jia",
+        "O Criptógrafo",
+        "pt"
+    ],
+    [
+        "Manuel Antônio de Almeida",
+        "Memórias de um Sargento de Milícias",
+        "en"
+    ],
+    [
+        "Manuel Bandeira",
+        "Estrela da manhã",
+        "pt"
+    ],
+    [
+        "Manuel Bandeira",
+        "Itinerário de Pasárgada",
+        "pt"
+    ],
+    [
+        "Manuel Bandeira",
+        "Libertinagem",
+        "pt"
+    ],
+    [
+        "Marcel Proust",
+        "Box Em busca do tempo perdido",
+        "pt"
+    ],
+    [
+        "Marcel Proust",
+        "Box Em busca do tempo perdido",
+        "en"
+    ],
+    [
+        "Marcel Proust",
+        "Jean Santeuil",
+        "en"
+    ],
+    [
+        "Marcel Proust",
+        "Sobre a Leitura & Entrevista com Céleste Albaret",
+        "pt"
+    ],
+    [
+        "Marcel Proust",
+        "The Lemoine Affair",
+        "en"
+    ],
+    [
+        "Marcelino Freire",
+        "Amar é crime",
+        "en"
+    ],
+    [
+        "Marcelino Freire",
+        "Contos Negreiros",
+        "pt"
+    ],
+    [
+        "Marcelo Rubens Paiva",
+        "Ainda estou aqui",
+        "ca"
+    ],
+    [
+        "Marcelo Rubens Paiva",
+        "Crônicas para ler na Escola",
+        "en"
+    ],
+    [
+        "Marcelo Rubens Paiva",
+        "Feliz ano velho",
+        "pt"
+    ],
+    [
+        "Marcelo Rubens Paiva",
+        "Meninos em fúria",
+        "pt"
+    ],
+    [
+        "Marcelo Rubens Paiva",
+        "O Orangotango Marxista",
+        "pt"
+    ],
+    [
+        "Margaret Atwood",
+        "A Noiva Ladra",
+        "pt"
+    ],
+    [
+        "Margaret Atwood",
+        "A odisseia de Penélope",
+        "pt"
+    ],
+    [
+        "Margaret Atwood",
+        "A odisseia de Penélope",
+        "en"
+    ],
+    [
+        "Margaret Atwood",
+        "Colchão de pedra",
+        "pt"
+    ],
+    [
+        "Margaret Atwood",
+        "MaddAddão",
+        "pt"
+    ],
+    [
+        "Margaret Atwood",
+        "O Ano do Dilúvio",
+        "pt"
+    ],
+    [
+        "Margaret Atwood",
+        "O Assassino Cego",
+        "en"
+    ],
+    [
+        "Margaret Atwood",
+        "O Conto da Aia",
+        "pt"
+    ],
+    [
+        "Margaret Atwood",
+        "O coração é o último a morrer",
+        "en"
+    ],
+    [
+        "Margaret Atwood",
+        "O ovo do Barba-Azul e outras histórias",
+        "pt"
+    ],
+    [
+        "Margaret Atwood",
+        "Olho de Gato",
+        "en"
+    ],
+    [
+        "Margaret Atwood",
+        "Oryx e Crake",
+        "en"
+    ],
+    [
+        "Margaret Atwood",
+        "Os Testamentos",
+        "en"
+    ],
+    [
+        "Margaret Atwood",
+        "Payback",
+        "pt"
+    ],
+    [
+        "Margaret Atwood",
+        "Políticas do poder",
+        "en"
+    ],
+    [
+        "Margaret Atwood",
+        "Semente de Bruxa",
+        "ca"
+    ],
+    [
+        "Margaret Atwood",
+        "Vulgo Grace",
+        "pt"
+    ],
+    [
+        "Maria Firmina dos Reis",
+        "Úrsula",
+        "en"
+    ],
+    [
+        "Mario de Andrade",
+        "Pequena História da Música",
+        "pt"
+    ],
+    [
+        "Mario Quintana",
+        "Antologia poética",
+        "en"
+    ],
+    [
+        "Mario Quintana",
+        "Apontamentos de História Sobrenatural",
+        "pt"
+    ],
+    [
+        "Mario Quintana",
+        "Baú de Espantos",
+        "pt"
+    ],
+    [
+        "Mario Quintana",
+        "Caderno H",
+        "en"
+    ],
+    [
+        "Mario Quintana",
+        "Canções seguido de Sapato Florido e A Rua dos Cataventos",
+        "ca"
+    ],
+    [
+        "Mario Quintana",
+        "Esconderijos do Tempo",
+        "en"
+    ],
+    [
+        "Mario Quintana",
+        "Melhores Poemas",
+        "pt"
+    ],
+    [
+        "Mario Quintana",
+        "Porta giratória",
+        "pt"
+    ],
+    [
+        "Mario Quintana",
+        "Sapato Florido",
+        "pt"
+    ],
+    [
+        "Mario Vargas Llosa",
+        "A casa verde",
+        "en"
+    ],
+    [
+        "Mario Vargas Llosa",
+        "A cidade e os cachorros",
+        "pt"
+    ],
+    [
+        "Mario Vargas Llosa",
+        "A Civilização do Espetáculo",
+        "pt"
+    ],
+    [
+        "Mario Vargas Llosa",
+        "A Festa do Bode",
+        "en"
+    ],
+    [
+        "Mario Vargas Llosa",
+        "A Guerra do Fim do Mundo",
+        "pt"
+    ],
+    [
+        "Mario Vargas Llosa",
+        "A orgia perpétua",
+        "en"
+    ],
+    [
+        "Mario Vargas Llosa",
+        "A tentação do impossível",
+        "en"
+    ],
+    [
+        "Mario Vargas Llosa",
+        "Cinco Esquinas",
+        "en"
+    ],
+    [
+        "Mario Vargas Llosa",
+        "Conversa no Catedral",
+        "en"
+    ],
+    [
+        "Mario Vargas Llosa",
+        "Elogio da madrasta",
+        "pt"
+    ],
+    [
+        "Mario Vargas Llosa",
+        "Lituma nos Andes",
+        "pt"
+    ],
+    [
+        "Mario Vargas Llosa",
+        "O chamado da tribo",
+        "pt"
+    ],
+    [
+        "Mario Vargas Llosa",
+        "O Falador",
+        "pt"
+    ],
+    [
+        "Mario Vargas Llosa",
+        "O herói discreto",
+        "pt"
+    ],
+    [
+        "Mario Vargas Llosa",
+        "O Sonho do Celta",
+        "pt"
+    ],
+    [
+        "Mario Vargas Llosa",
+        "Os cadernos de dom Rigoberto",
+        "pt"
+    ],
+    [
+        "Mario Vargas Llosa",
+        "Os Chefes",
+        "pt"
+    ],
+    [
+        "Mario Vargas Llosa",
+        "Pantaleão e as visitadoras",
+        "pt"
+    ],
+    [
+        "Mario Vargas Llosa",
+        "Tempos ásperos",
+        "en"
+    ],
+    [
+        "Mario Vargas Llosa",
+        "Tia Julia e o escrevinhador",
+        "en"
+    ],
+    [
+        "Mario Vargas Llosa",
+        "Travessuras da Menina Má",
+        "pt"
+    ],
+    [
+        "Mark Lawrence",
+        "The Complete Broken Empire",
+        "en"
+    ],
+    [
+        "Mark Twain",
+        "As aventuras de Tom Sawyer",
+        "pt"
+    ],
+    [
+        "Mark Twain",
+        "O Príncipe e o Mendigo",
+        "pt"
+    ],
+    [
+        "Marquês de Sade",
+        "120 dias de Sodoma ou Escola de Libertinagem",
+        "pt"
+    ],
+    [
+        "Marquês de Sade",
+        "A Filosofia na Alcova",
+        "ca"
+    ],
+    [
+        "Marquês de Sade",
+        "Diálogo entre um padre e um moribundo",
+        "pt"
+    ],
+    [
+        "Marquês de Sade",
+        "Justine ou os tormentos da virtude",
+        "pt"
+    ],
+    [
+        "Marquês de Sade",
+        "O corno de si mesmo e outras historietas",
+        "pt"
+    ],
+    [
+        "Marquês de Sade",
+        "Os 120 Dias de Sodoma",
+        "pt"
+    ],
+    [
+        "Marçal Aquino",
+        "Baixo esplendor",
+        "ca"
+    ],
+    [
+        "Marçal Aquino",
+        "Eu Receberia as Piores Notícias dos Seus Lindos Lábios",
+        "pt"
+    ],
+    [
+        "Marçal Aquino",
+        "Famílias terrivelmente felizes",
+        "pt"
+    ],
+    [
+        "Michael Crichton",
+        "The Venom Business",
+        "en"
+    ],
+    [
+        "Michel Houellebecq",
+        "Aniquilação",
+        "pt"
+    ],
+    [
+        "Michel Houellebecq",
+        "O mapa e o território",
+        "en"
+    ],
+    [
+        "Michel Houellebecq",
+        "Partículas Elementares",
+        "pt"
+    ],
+    [
+        "Michel Houellebecq",
+        "Plataforma",
+        "pt"
+    ],
+    [
+        "Michel Houellebecq",
+        "Serotonina",
+        "ca"
+    ],
+    [
+        "Michel Houellebecq",
+        "Submissão",
+        "pt"
+    ],
+    [
+        "Miguel de Cervantes",
+        "A espanhola inglesa",
+        "pt"
+    ],
+    [
+        "Miguel de Cervantes",
+        "Dom Quixote",
+        "pt"
+    ],
+    [
+        "Miguel de Cervantes",
+        "Dom Quixote de la Mancha",
+        "ca"
+    ],
+    [
+        "Miguel de Cervantes",
+        "Don Quixote",
+        "en"
+    ],
+    [
+        "Miguel de Cervantes",
+        "Novelas exemplares",
+        "en"
+    ],
+    [
+        "Miguel de Cervantes",
+        "The Dialogue of the Dogs",
+        "en"
+    ],
+    [
+        "Miguel Ángel Asturias",
+        "Mr. President",
+        "en"
+    ],
+    [
+        "Mikhail Bulgakov",
+        "The Heart Of A Dog",
+        "en"
+    ],
+    [
+        "Mikhail Bulgakov",
+        "The Master and Margarita",
+        "en"
+    ],
+    [
+        "Mikhail Bulgakov",
+        "The White Guard",
+        "en"
+    ],
+    [
+        "Millôr Fernandes",
+        "A Bíblia do Caos",
+        "pt"
+    ],
+    [
+        "Millôr Fernandes",
+        "Hai-kais",
+        "pt"
+    ],
+    [
+        "Millôr Fernandes",
+        "O homem do princípio ao fim",
+        "pt"
+    ],
+    [
+        "Millôr Fernandes",
+        "O Livro Vermelho dos Pensamentos de Millôr",
+        "pt"
+    ],
+    [
+        "Millôr Fernandes",
+        "Poemas",
+        "en"
+    ],
+    [
+        "Milton Hatoum",
+        "A cidade ilhada",
+        "pt"
+    ],
+    [
+        "Milton Hatoum",
+        "Cinzas do Norte",
+        "pt"
+    ],
+    [
+        "Milton Hatoum",
+        "Dois irmãos",
+        "pt"
+    ],
+    [
+        "Milton Hatoum",
+        "O Lugar Mais Sombrio",
+        "pt"
+    ],
+    [
+        "Milton Hatoum",
+        "O Lugar Mais Sombrio",
+        "es"
+    ],
+    [
+        "Milton Hatoum",
+        "Relato de um certo Oriente",
+        "pt"
+    ],
+    [
+        "Milton Hatoum",
+        "Um Solitário à Espreita",
+        "pt"
+    ],
+    [
+        "Milton Hatoum",
+        "Órfãos do Eldorado",
+        "pt"
+    ],
+    [
+        "Min Jin Lee",
+        "Pachinko",
+        "en"
+    ],
+    [
+        "Miyamoto Musashi",
+        "The Complete Musashi",
+        "en"
+    ],
+    [
+        "Monteiro Lobato",
+        "A Onda Verde",
+        "en"
+    ],
+    [
+        "Monteiro Lobato",
+        "América",
+        "en"
+    ],
+    [
+        "Monteiro Lobato",
+        "Barca de Gleyre",
+        "en"
+    ],
+    [
+        "Monteiro Lobato",
+        "Cartas de Amor",
+        "en"
+    ],
+    [
+        "Monteiro Lobato",
+        "Caçadas de Pedrinho",
+        "pt"
+    ],
+    [
+        "Monteiro Lobato",
+        "Cidades Mortas",
+        "en"
+    ],
+    [
+        "Monteiro Lobato",
+        "Contos Completos",
+        "en"
+    ],
+    [
+        "Monteiro Lobato",
+        "Ferro e o voto secreto",
+        "en"
+    ],
+    [
+        "Monteiro Lobato",
+        "Fragmentos, opiniões e miscelânea",
+        "en"
+    ],
+    [
+        "Monteiro Lobato",
+        "Idéias de Jeca Tatu",
+        "ca"
+    ],
+    [
+        "Monteiro Lobato",
+        "Literatura do Minarete",
+        "en"
+    ],
+    [
+        "Monteiro Lobato",
+        "Memórias da Emília",
+        "pt"
+    ],
+    [
+        "Monteiro Lobato",
+        "Mundo da Lua",
+        "en"
+    ],
+    [
+        "Monteiro Lobato",
+        "Negrinha",
+        "en"
+    ],
+    [
+        "Monteiro Lobato",
+        "O escândalo do petróleo e Georgismo e comunismo",
+        "en"
+    ],
+    [
+        "Monteiro Lobato",
+        "O macaco que se fez homem",
+        "ca"
+    ],
+    [
+        "Monteiro Lobato",
+        "O Presidente Negro",
+        "en"
+    ],
+    [
+        "Monteiro Lobato",
+        "O Saci",
+        "en"
+    ],
+    [
+        "Monteiro Lobato",
+        "Prefácios e Entrevistas",
+        "en"
+    ],
+    [
+        "Monteiro Lobato",
+        "Problema Vital, Jeca tatu e outros textos",
+        "en"
+    ],
+    [
+        "Monteiro Lobato",
+        "Urupês",
+        "pt"
+    ],
+    [
+        "Muriel Spark",
+        "The Prime of Miss Jean Brodie",
+        "en"
+    ],
+    [
+        "Mario de Andrade",
+        "50 poemas e um Prefácio interessantíssimo",
+        "pt"
+    ],
+    [
+        "Mario de Andrade",
+        "Amar, verbo intransitivo",
+        "unknown"
+    ],
+    [
+        "Mario de Andrade",
+        "As melodias do boi e outras peças",
+        "en"
+    ],
+    [
+        "Mario de Andrade",
+        "Café",
+        "pt"
+    ],
+    [
+        "Mario de Andrade",
+        "Contos Novos",
+        "en"
+    ],
+    [
+        "Mario de Andrade",
+        "Macunaíma, o herói sem caráter",
+        "en"
+    ],
+    [
+        "Mario de Andrade",
+        "Música, doce música",
+        "pt"
+    ],
+    [
+        "Mario de Andrade",
+        "O baile das quatro artes",
+        "pt"
+    ],
+    [
+        "Mario de Andrade",
+        "Os contos de Belazarte",
+        "pt"
+    ],
+    [
+        "Mario de Andrade",
+        "Os filhos da Candinha",
+        "pt"
+    ],
+    [
+        "Natalia Ginzburg",
+        "A família Manzoni",
+        "pt"
+    ],
+    [
+        "Natalia Ginzburg",
+        "As pequenas virtudes",
+        "pt"
+    ],
+    [
+        "Natalia Ginzburg",
+        "Lexico Familiar",
+        "pt"
+    ],
+    [
+        "Natalia Ginzburg",
+        "Todos os nossos ontens",
+        "en"
+    ],
+    [
+        "Nathaniel Hawthorne",
+        "A casa das sete torres",
+        "pt"
+    ],
+    [
+        "Nathaniel Hawthorne",
+        "A letra escarlate",
+        "pt"
+    ],
+    [
+        "Nathaniel Hawthorne",
+        "Mitos Gregos",
+        "pt"
+    ],
+    [
+        "Nathaniel Hawthorne",
+        "Wakefield",
+        "pt"
+    ],
+    [
+        "Neil Gaiman",
+        "A bela e a adormecida",
+        "pt"
+    ],
+    [
+        "Neil Gaiman",
+        "Box Neil Gaiman",
+        "en"
+    ],
+    [
+        "Neil Gaiman",
+        "Coraline",
+        "en"
+    ],
+    [
+        "Neil Gaiman",
+        "Criaturas estranhas",
+        "pt"
+    ],
+    [
+        "Neil Gaiman",
+        "EntreMundos",
+        "pt"
+    ],
+    [
+        "Neil Gaiman",
+        "EntreMundos",
+        "en"
+    ],
+    [
+        "Neil Gaiman",
+        "Good Omens",
+        "en"
+    ],
+    [
+        "Neil Gaiman",
+        "João e Maria",
+        "en"
+    ],
+    [
+        "Neil Gaiman",
+        "Mitologia Nórdica",
+        "en"
+    ],
+    [
+        "Neil Gaiman",
+        "Norse Mythology",
+        "en"
+    ],
+    [
+        "Neil Gaiman",
+        "O Mistério Da Estrela",
+        "pt"
+    ],
+    [
+        "Neil Gaiman",
+        "O oceano no fim do caminho",
+        "en"
+    ],
+    [
+        "Neil Gaiman",
+        "Seres mágicos e histórias sombrias",
+        "pt"
+    ],
+    [
+        "Nelson Rodrigues",
+        "A Cabra Vadia",
+        "ca"
+    ],
+    [
+        "Nelson Rodrigues",
+        "A Mulher Sem Pecado",
+        "en"
+    ],
+    [
+        "Nelson Rodrigues",
+        "O Reacionário",
+        "en"
+    ],
+    [
+        "Nelson Rodrigues",
+        "O Óbvio Ululante",
+        "en"
+    ],
+    [
+        "Nelson Rodrigues",
+        "Só os profetas enxergam o óbvio",
+        "pt"
+    ],
+    [
+        "Nezami Ganjavi",
+        "Layli and Majnun",
+        "en"
+    ],
+    [
+        "Ngaio Marsh",
+        "Black As He's Painted",
+        "en"
+    ],
+    [
+        "Ngaio Marsh",
+        "Tied Up In Tinsel",
+        "en"
+    ],
+    [
+        "Nicole Krauss",
+        "A memória de nossas memórias",
+        "pt"
+    ],
+    [
+        "Nicole Krauss",
+        "Floresta Escura",
+        "pt"
+    ],
+    [
+        "Nikolai Gogol",
+        "Dead Souls",
+        "en"
+    ],
+    [
+        "Nikolai Gogol",
+        "Diary Of A Madman",
+        "en"
+    ],
+    [
+        "Nikolai Gogol",
+        "How the Two Ivans Quarrelled",
+        "en"
+    ],
+    [
+        "Nikolai Gogol",
+        "O Retrato",
+        "pt"
+    ],
+    [
+        "Nikolai Gogol",
+        "The Mysterious Portrait",
+        "en"
+    ],
+    [
+        "Nikolai Gogol",
+        "The Night Before Christmas",
+        "en"
+    ],
+    [
+        "Nikolai Gogol",
+        "The Nose",
+        "en"
+    ],
+    [
+        "Nikolai Gogol",
+        "A Carruagem",
+        "pt"
+    ],
+    [
+        "Nikolai Gogol",
+        "Almas Mortas",
+        "pt"
+    ],
+    [
+        "Nikolai Gogol",
+        "O Capote",
+        "pt"
+    ],
+    [
+        "Nikolai Gogol",
+        "O Nariz",
+        "en"
+    ],
+    [
+        "Nikolai Gogol",
+        "Taras Bulba",
+        "pt"
+    ],
+    [
+        "Noel Streatfeild",
+        "Ballet Shoes & White Boots",
+        "en"
+    ],
+    [
+        "Norman Mailer",
+        "Marilyn",
+        "pt"
+    ],
+    [
+        "Norman Mailer",
+        "Os Nus e os Mortos",
+        "pt"
+    ],
+    [
+        "Norman Mailer",
+        "Um Sonho Americano",
+        "pt"
+    ],
+    [
+        "Octavia E. Butler",
+        "Filhos de sangue e Outras histórias",
+        "en"
+    ],
+    [
+        "Octavia E. Butler",
+        "Kindred",
+        "pt"
+    ],
+    [
+        "Octavia E. Butler",
+        "Semente da Terra",
+        "pt"
+    ],
+    [
+        "Octavia E. Butler",
+        "Semente da Terra",
+        "en"
+    ],
+    [
+        "Octavia E. Butler",
+        "Xenogênese",
+        "en"
+    ],
+    [
+        "Octavia E. Butler",
+        "Xenogênese",
+        "pt"
+    ],
+    [
+        "Olavo Bilac",
+        "Antologia Poética",
+        "pt"
+    ],
+    [
+        "Olavo Bilac",
+        "Contos para velhos",
+        "pt"
+    ],
+    [
+        "Olavo Bilac",
+        "Melhores Poemas",
+        "pt"
+    ],
+    [
+        "Olga Tokarczuk",
+        "Correntes",
+        "en"
+    ],
+    [
+        "Olga Tokarczuk",
+        "Sobre os ossos dos mortos",
+        "pt"
+    ],
+    [
+        "Oscar Wilde",
+        "A Alma do Homem Sob o Socialismo",
+        "pt"
+    ],
+    [
+        "Oscar Wilde",
+        "A decadência da mentira e outros ensaios",
+        "pt"
+    ],
+    [
+        "Oscar Wilde",
+        "A importância de ser prudente e outras peças",
+        "pt"
+    ],
+    [
+        "Oscar Wilde",
+        "Box Espelho de Oscar Wilde",
+        "pt"
+    ],
+    [
+        "Oscar Wilde",
+        "De Profundis",
+        "pt"
+    ],
+    [
+        "Oscar Wilde",
+        "De Profundis",
+        "en"
+    ],
+    [
+        "Oscar Wilde",
+        "Grandes obras de Oscar Wilde",
+        "pt"
+    ],
+    [
+        "Oscar Wilde",
+        "Histórias de fadas",
+        "pt"
+    ],
+    [
+        "Oscar Wilde",
+        "Histórias para Aprender a Sonhar",
+        "pt"
+    ],
+    [
+        "Oscar Wilde",
+        "O Fantasma de Canterville e Outras Histórias",
+        "pt"
+    ],
+    [
+        "Oscar Wilde",
+        "O retrato de Dorian Gray",
+        "pt"
+    ],
+    [
+        "Oscar Wilde",
+        "Salomé",
+        "en"
+    ],
+    [
+        "Oscar Wilde",
+        "Um marido ideal e outras peças",
+        "en"
+    ],
+    [
+        "Otto Penzler",
+        "O grande livro dos vilões e vigaristas",
+        "en"
+    ],
+    [
+        "Pablo Neruda",
+        "A Barcarola",
+        "ca"
+    ],
+    [
+        "Pablo Neruda",
+        "A Rosa Separada",
+        "it"
+    ],
+    [
+        "Pablo Neruda",
+        "Canto Geral",
+        "pt"
+    ],
+    [
+        "Pablo Neruda",
+        "Cem Sonetos de Amor",
+        "pt"
+    ],
+    [
+        "Pablo Neruda",
+        "O Coração Amarelo",
+        "it"
+    ],
+    [
+        "Pablo Neruda",
+        "Poemas de Pablo Neruda para jovens",
+        "pt"
+    ],
+    [
+        "Padre Antônio Vieira",
+        "Essencial Padre Antônio Vieira",
+        "pt"
+    ],
+    [
+        "Pat Frank",
+        "Alas, Babylon",
+        "en"
+    ],
+    [
+        "Patrick O'Brian",
+        "Aubrey-Maturin",
+        "en"
+    ],
+    [
+        "Patrick O'Brian",
+        "Caesar & Hussein",
+        "en"
     ]
 ]
