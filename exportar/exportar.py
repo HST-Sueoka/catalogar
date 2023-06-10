@@ -25,13 +25,13 @@ def exportar_dados(address, flag):
         cursor = connection.cursor()
 
 
-        query = "SELECT autor from autores order by autor"
+        query = "SELECT * from autores order by autor"
         cursor.execute(query)
         resultado_autores = cursor.fetchall()
 
         connection.commit()
 
-        autores_formatados = [{"autor": nome[0]} for nome in resultado_autores]
+        autores_formatados = [{"id": nome[0], "autor": nome[1]}for nome in resultado_autores]
 
         with open(os.path.join(diretorio_atual, "resultado_autores.json"), "w", encoding="utf-8") as file:
             json.dump(autores_formatados, file, indent=4, ensure_ascii=False)

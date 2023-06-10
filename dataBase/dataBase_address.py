@@ -2,7 +2,10 @@ from difflib import SequenceMatcher
 
 
 def input_address():
+    print("\033c")
+    print("Insirá os dados para a conexão\n")
 
+    print()
     try:
         address = []
         address.append(input("Digite o database: "))
@@ -17,11 +20,6 @@ def input_address():
 
     finally:
         print("\nDados obtidos com sucesso.\n")
+
+        print("\033c")
         return address
-
-
-def similar_name_exists(author, existing_authors):
-    for existing_author in existing_authors:
-        if SequenceMatcher(None, existing_author, author).ratio() >= 0.8:
-            return True
-    return False

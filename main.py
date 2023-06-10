@@ -1,96 +1,44 @@
-from DML.insert import adicionar_autor, adicionar_livro
-from DML.delete import deletar_autor, deletar_livro
-from DML.update import Update_Author, Update_Book
-from dataBase.dataBase_address import input_address
-from exportar.exportar import exportar_dados
 
-from support.scan import escanear_diretorio
+from autenticar.cadastro import cadastrar_usuario
+from autenticar.sobre import sobre_software
+from dataBase.dataBase_address import input_address
+from support.menu import menu
+from autenticar.login import realizar_login
+
+
+address = input_address()
+
+
+print("[01] - Cadastrar usuário")
+print("[02] - Realizar login")
+print("[03] - Sobre")
+
+opcao = input("Escolha uma opção: ")
 
 print("\033c")
 
-choice = 0
+if opcao == '1':
+    print("Cadastro de Usuário")
+    nome = input("Digite o nome: ")
+    email = input("Digite o e-mail: ")
+    senha = input("Digite a senha: ")
+    cadastrar_usuario(nome, email, senha, address)
 
-while choice != 99:
+elif opcao == '2':
+    print("Login")
+    email = input("Digite o e-mail: ")
+    senha = input("Digite a senha: ")
+    flag, id_usuario = realizar_login(email, senha, address)
+    
+    if flag == True:
+        menu(address, id_usuario)
 
-    print("\033c")
-
-    print("[01]  -  Escanear diretório e adicionar somente autores.")
-    print("[02]  -  Escanear diretório e adicionar autores & livros.")
-    print("[03]  -  Adicionar Autor.")
-    print("[04]  -  Adicionar Livro.")
-    print("[05]  -  Remover Autor.")
-    print("[06]  -  Remover Livro.")
-    print("[07]  -  Corrigir Autor.")
-    print("[08]  -  Corrigir Livro.")
-    print("[25]  -  Inserir o endereço do banco de dados.")
-    print("[50]  -  Exportando dados -- Autores.")
-    print("[75]  -  Exportando dados -- Autores e Livros.")
-
-    print("[99]  - Sair.")
-    choice = input("Opção desejada: ")
-
-    print("\033c")
-
-    if choice == '1':
-        print("Escanear diretório e adicionar somente autores.")
-        escanear_diretorio(address, False)
+elif opcao == '3':
+    sobre_software()
 
 
-    elif choice == '2':
-        print("Escanear diretório e adicionar autores & livros.")
-        escanear_diretorio(address, True)
-
-    elif choice == '3':
-        print("Adicionar Autor")
-        adicionar_autor(address)
-
-    elif choice == '4':
-        print("Adicionar Livro")
-        adicionar_livro(address)
-
-    elif choice == '5':
-        print("Remover Autor")
-        deletar_autor(address)
-
-    elif choice == '6':
-        print("Remover Livro")
-        deletar_livro(address)
-
-    elif choice == '7':
-        print("Corrigir Autor")
-        Update_Author(address)
-    elif choice == '8':
-        Update_Book(address)
-        print("Corrigir Livro")
-
-    elif choice == '99':
-        print("Finalizando Programa")
-
-    elif choice == '25':
-        print("Inserir o endereço do banco de dados")
-        address = input_address()
-
-    elif choice == '50':
-        print("Exportando dados -- Autores")
-        exportar_dados(address, False)
-
-    elif choice == '75':
-        print("Exportando dados -- Autores e Livros")
-        exportar_dados(address, True)
-
-    else:
-        print("Opção inexistente!!!")
-
-
-
-
-
-
-
-
-
-
-
+else:
+    print("Opção inválida.")
 
 '''
 
@@ -102,9 +50,41 @@ idioma VARCHAR(25),
 FOREIGN KEY (autor) REFERENCES autores(autor)
 );
 
-CREATE TABLE autores(
-autor VARCHAR(100),
-PRIMARY KEY (autor)
+
+CREATE TABLE autores (
+    id SERIAL PRIMARY KEY,
+    autor VARCHAR(100) UNIQUE
 );
+
+
+
+CREATE SEQUENCE usuarios_id_seq START 1;
+
+CREATE TABLE usuarios (
+    id INT DEFAULT nextval('usuarios_id_seq'::regclass) PRIMARY KEY,
+    nome VARCHAR(255) NOT NULL,
+    email VARCHAR(255) UNIQUE NOT NULL,
+    senha VARCHAR(255) NOT NULL
+);
+
+
+
+CREATE TABLE estante_autores (
+    id_usuario INT,
+    autor_id INT,
+    FOREIGN KEY (id_usuario) REFERENCES usuarios(id),
+    FOREIGN KEY (autor_id) REFERENCES autores(id),
+    PRIMARY KEY (id_usuario, autor_id)
+);
+
+CREATE TABLE estante_livros (
+    id_usuario INT,
+    livro_id INT,
+    FOREIGN KEY (id_usuario) REFERENCES usuarios(id),
+    FOREIGN KEY (livro_id) REFERENCES livros(id),
+    PRIMARY KEY (id_usuario, livro_id)
+);
+
+
 
 '''

@@ -49,9 +49,6 @@ def Update_Author(address):
 
 
 
-
-
-
 def Update_Book(address):
     id_desejado = input("Digite o ID do livro que deseja atualizar: ")
     

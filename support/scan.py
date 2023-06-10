@@ -6,7 +6,7 @@ from support import format
 from support import normalize
 from testes import teste
 
-def escanear_diretorio(address, flag):
+def escanear_diretorio(address, flag, id_usuario):
     print("\033c")
     directory = input("Digite o caminho do diretório a ser analisado: ")
     print("\033c")
@@ -70,6 +70,6 @@ def escanear_diretorio(address, flag):
 
     teste.gerar_arquivos_json_scan(colecao_livros, colecao_autores, colecao_autores_normalizados, colecao_livros_normalizados)
 
-    commit_scan(colecao_livros, colecao_autores, colecao_autores_normalizados, colecao_livros_normalizados, address, flag)
+    commit_scan(colecao_livros, colecao_autores, colecao_livros_normalizados, address, flag, id_usuario)
 
     return
