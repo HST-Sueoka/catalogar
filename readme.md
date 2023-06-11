@@ -48,7 +48,7 @@ Esta tabela estabelece o relacionamento entre usuários e autores na estante.
 | Coluna     | Tipo | Descrição                                               |
 | -----------| ---- | ------------------------------------------------------- |
 | id_usuario | INT  | Chave estrangeira referenciando tb_usuarios(id)          |
-| autor_id   | INT  | Chave estrangeira referenciando tb_autores(id)           |
+| id_autor   | INT  | Chave estrangeira referenciando tb_autores(id)           |
 
 &nbsp;
 
@@ -59,4 +59,4 @@ Esta tabela estabelece o relacionamento entre usuários e livros na estante.
 | Coluna     | Tipo | Descrição                                               |
 | -----------| ---- | ------------------------------------------------------- |
 | id_usuario | INT  | Chave estrangeira referenciando tb_usuarios(id)          |
-| livro_id   | INT  | Chave estrangeira referenciando tb_livros(id)            |
+| id_livro   | INT  | Chave estrangeira referenciando tb_livros(id)            |
