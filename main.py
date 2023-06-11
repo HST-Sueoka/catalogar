@@ -1,90 +1,61 @@
 
-from autenticar.cadastro import cadastrar_usuario
-from autenticar.sobre import sobre_software
-from dataBase.dataBase_address import input_address
-from support.menu import menu
-from autenticar.login import realizar_login
+from autenticar.registro import registro
+from dataBase.dataBase_connection import address_connection, test_connection
 
 
-address = input_address()
+def main():
+    print("\033c")
+    print("Conexão com o Banco de Dados necessário.\n")
+    address = address_connection()
+    flag = test_connection(address)
 
-
-print("[01] - Cadastrar usuário")
-print("[02] - Realizar login")
-print("[03] - Sobre")
-
-opcao = input("Escolha uma opção: ")
-
-print("\033c")
-
-if opcao == '1':
-    print("Cadastro de Usuário")
-    nome = input("Digite o nome: ")
-    email = input("Digite o e-mail: ")
-    senha = input("Digite a senha: ")
-    cadastrar_usuario(nome, email, senha, address)
-
-elif opcao == '2':
-    print("Login")
-    email = input("Digite o e-mail: ")
-    senha = input("Digite a senha: ")
-    flag, id_usuario = realizar_login(email, senha, address)
-    
     if flag == True:
-        menu(address, id_usuario)
+        registro(address)
 
-elif opcao == '3':
-    sobre_software()
+    elif flag == False:
+        print("Aplicação encerrada.")
 
 
-else:
-    print("Opção inválida.")
+if __name__ == "__main__":
+    main()
+
 
 '''
-
-CREATE TABLE livros (
-id SERIAL PRIMARY KEY,
-autor VARCHAR(100),
-titulo VARCHAR(100),
-idioma VARCHAR(25),
-FOREIGN KEY (autor) REFERENCES autores(autor)
-);
-
-
-CREATE TABLE autores (
+CREATE TABLE tb_autores (
     id SERIAL PRIMARY KEY,
     autor VARCHAR(100) UNIQUE
 );
 
+CREATE TABLE tb_livros (
+    id SERIAL PRIMARY KEY,
+    autor VARCHAR(100),
+    titulo VARCHAR(100),
+    idioma VARCHAR(25),
+    FOREIGN KEY (autor) REFERENCES tb_autores(autor)
+);
 
-
-CREATE SEQUENCE usuarios_id_seq START 1;
-
-CREATE TABLE usuarios (
-    id INT DEFAULT nextval('usuarios_id_seq'::regclass) PRIMARY KEY,
+CREATE TABLE tb_usuarios (
+    id SERIAL PRIMARY KEY,
     nome VARCHAR(255) NOT NULL,
     email VARCHAR(255) UNIQUE NOT NULL,
     senha VARCHAR(255) NOT NULL
 );
 
-
-
-CREATE TABLE estante_autores (
+CREATE TABLE tb_estante_autores (
     id_usuario INT,
-    autor_id INT,
-    FOREIGN KEY (id_usuario) REFERENCES usuarios(id),
-    FOREIGN KEY (autor_id) REFERENCES autores(id),
-    PRIMARY KEY (id_usuario, autor_id)
+    id_autor INT,
+    FOREIGN KEY (id_usuario) REFERENCES tb_usuarios(id),
+    FOREIGN KEY (autor_id) REFERENCES tb_autores(id),
+    PRIMARY KEY (id_usuario, id_autor)
 );
 
-CREATE TABLE estante_livros (
+CREATE TABLE tb_estante_livros (
     id_usuario INT,
-    livro_id INT,
-    FOREIGN KEY (id_usuario) REFERENCES usuarios(id),
-    FOREIGN KEY (livro_id) REFERENCES livros(id),
-    PRIMARY KEY (id_usuario, livro_id)
+    id_livro INT,
+    FOREIGN KEY (id_usuario) REFERENCES tb_usuarios(id),
+    FOREIGN KEY (id_livro) REFERENCES tb_livros(id),
+    PRIMARY KEY (id_usuario, id_livro)
 );
-
 
 
 '''

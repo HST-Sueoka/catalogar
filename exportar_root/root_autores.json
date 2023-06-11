@@ -1,0 +1,1794 @@
+[
+    {
+        "id": 76,
+        "autor": "Adam Hall"
+    },
+    {
+        "id": 77,
+        "autor": "Adélia Prado"
+    },
+    {
+        "id": 8,
+        "autor": "Agatha Christie"
+    },
+    {
+        "id": 176,
+        "autor": "Albert Camus"
+    },
+    {
+        "id": 177,
+        "autor": "Alberto Manguel"
+    },
+    {
+        "id": 178,
+        "autor": "Aldous Huxley"
+    },
+    {
+        "id": 443,
+        "autor": "Alejandro Jodorowsky"
+    },
+    {
+        "id": 180,
+        "autor": "Alexandre Dumas"
+    },
+    {
+        "id": 181,
+        "autor": "Alexandre Pushkin"
+    },
+    {
+        "id": 179,
+        "autor": "Alex Michaelides"
+    },
+    {
+        "id": 183,
+        "autor": "Alice Meynell"
+    },
+    {
+        "id": 184,
+        "autor": "Alice Walker"
+    },
+    {
+        "id": 182,
+        "autor": "Ali Smith"
+    },
+    {
+        "id": 185,
+        "autor": "Almeida Garrett"
+    },
+    {
+        "id": 186,
+        "autor": "Alphonsus de Guimaraens"
+    },
+    {
+        "id": 187,
+        "autor": "Aluísio Azevedo"
+    },
+    {
+        "id": 188,
+        "autor": "Amitav Ghosh"
+    },
+    {
+        "id": 189,
+        "autor": "Amós Oz"
+    },
+    {
+        "id": 190,
+        "autor": "Ana Cristina Cesar"
+    },
+    {
+        "id": 10,
+        "autor": "Andre Norton"
+    },
+    {
+        "id": 12,
+        "autor": "Anna Akhmátova"
+    },
+    {
+        "id": 13,
+        "autor": "Anna Lee"
+    },
+    {
+        "id": 78,
+        "autor": "Anne Sexton"
+    },
+    {
+        "id": 11,
+        "autor": "Ann Patchett"
+    },
+    {
+        "id": 79,
+        "autor": "Anthony Burgess"
+    },
+    {
+        "id": 80,
+        "autor": "Anthony Hope"
+    },
+    {
+        "id": 81,
+        "autor": "Anthony Trollope"
+    },
+    {
+        "id": 82,
+        "autor": "Antoine de Saint-Exupéry"
+    },
+    {
+        "id": 83,
+        "autor": "Antoine Laurain"
+    },
+    {
+        "id": 84,
+        "autor": "Anton Chekhov"
+    },
+    {
+        "id": 86,
+        "autor": "Antonin Artaud"
+    },
+    {
+        "id": 87,
+        "autor": "Antônio de Alcântara Machado"
+    },
+    {
+        "id": 88,
+        "autor": "Antônio Prata"
+    },
+    {
+        "id": 85,
+        "autor": "Anton Tchekhov"
+    },
+    {
+        "id": 89,
+        "autor": "Aphra Behn"
+    },
+    {
+        "id": 90,
+        "autor": "Apuleius"
+    },
+    {
+        "id": 91,
+        "autor": "Ariano Suassuna"
+    },
+    {
+        "id": 92,
+        "autor": "Arkádi Strugátski"
+    },
+    {
+        "id": 93,
+        "autor": "Arnaldo Antunes"
+    },
+    {
+        "id": 94,
+        "autor": "Arnold Bennett"
+    },
+    {
+        "id": 96,
+        "autor": "Arthur C. Clarke"
+    },
+    {
+        "id": 97,
+        "autor": "Arthur Conan Doyle"
+    },
+    {
+        "id": 98,
+        "autor": "Arthur Koestler"
+    },
+    {
+        "id": 99,
+        "autor": "Arthur Rimbaud"
+    },
+    {
+        "id": 100,
+        "autor": "Arthur Schopenhauer"
+    },
+    {
+        "id": 95,
+        "autor": "Art Spiegelman"
+    },
+    {
+        "id": 101,
+        "autor": "Augusto dos Anjos"
+    },
+    {
+        "id": 102,
+        "autor": "Basho and the Haikuists"
+    },
+    {
+        "id": 103,
+        "autor": "Baynard Kendrick"
+    },
+    {
+        "id": 104,
+        "autor": "Benjamin Constant"
+    },
+    {
+        "id": 105,
+        "autor": "Bernardo Carvalho"
+    },
+    {
+        "id": 106,
+        "autor": "Bernardo Guimarães"
+    },
+    {
+        "id": 107,
+        "autor": "Bert Hitchens"
+    },
+    {
+        "id": 108,
+        "autor": "Bertrice Small"
+    },
+    {
+        "id": 109,
+        "autor": "Beryl Markham"
+    },
+    {
+        "id": 110,
+        "autor": "Bohumil Hrabal"
+    },
+    {
+        "id": 111,
+        "autor": "Bram Stoker"
+    },
+    {
+        "id": 112,
+        "autor": "Budi Darma"
+    },
+    {
+        "id": 114,
+        "autor": "Caio Fernando Abreu"
+    },
+    {
+        "id": 115,
+        "autor": "Camilo Castelo Branco"
+    },
+    {
+        "id": 116,
+        "autor": "Carlos Drummond de Andrade"
+    },
+    {
+        "id": 117,
+        "autor": "Carolina Maria de Jesus"
+    },
+    {
+        "id": 118,
+        "autor": "Casimiro de Abreu"
+    },
+    {
+        "id": 119,
+        "autor": "Castro Alvez"
+    },
+    {
+        "id": 120,
+        "autor": "Cecília Meireles"
+    },
+    {
+        "id": 121,
+        "autor": "Charles Baudelaire"
+    },
+    {
+        "id": 122,
+        "autor": "Charles Bukowski"
+    },
+    {
+        "id": 123,
+        "autor": "Charles Dickens"
+    },
+    {
+        "id": 124,
+        "autor": "Charles Maturin"
+    },
+    {
+        "id": 125,
+        "autor": "Charles Sorley"
+    },
+    {
+        "id": 126,
+        "autor": "Charlotte Brontë"
+    },
+    {
+        "id": 127,
+        "autor": "Chester Himes"
+    },
+    {
+        "id": 128,
+        "autor": "Chico Buarque de Holanda"
+    },
+    {
+        "id": 130,
+        "autor": "Choderlos de Laclos"
+    },
+    {
+        "id": 129,
+        "autor": "Cho Nam-Joo"
+    },
+    {
+        "id": 131,
+        "autor": "Christian Parisot"
+    },
+    {
+        "id": 132,
+        "autor": "Christina Dalcher"
+    },
+    {
+        "id": 133,
+        "autor": "Christopher Isherwood"
+    },
+    {
+        "id": 134,
+        "autor": "Christopher Morley"
+    },
+    {
+        "id": 135,
+        "autor": "Clarice Lispector"
+    },
+    {
+        "id": 279,
+        "autor": "Cláudio Manuel da Costa"
+    },
+    {
+        "id": 278,
+        "autor": "Clifford D. Simak"
+    },
+    {
+        "id": 308,
+        "autor": "Colette"
+    },
+    {
+        "id": 309,
+        "autor": "Colette Soler"
+    },
+    {
+        "id": 310,
+        "autor": "Colleen McCullough"
+    },
+    {
+        "id": 311,
+        "autor": "Conceição Evaristo"
+    },
+    {
+        "id": 312,
+        "autor": "Confúcio"
+    },
+    {
+        "id": 136,
+        "autor": "Cora Coralina"
+    },
+    {
+        "id": 137,
+        "autor": "Cormac McCarthy"
+    },
+    {
+        "id": 138,
+        "autor": "Cruz e Sousa"
+    },
+    {
+        "id": 113,
+        "autor": "C. S. Lewis"
+    },
+    {
+        "id": 139,
+        "autor": "Dan Abnett"
+    },
+    {
+        "id": 140,
+        "autor": "Daniel Defoe"
+    },
+    {
+        "id": 141,
+        "autor": "Dante Alighieri"
+    },
+    {
+        "id": 142,
+        "autor": "Daphne Du Maurier"
+    },
+    {
+        "id": 143,
+        "autor": "Dashiell Hammett"
+    },
+    {
+        "id": 144,
+        "autor": "Dave Eggers"
+    },
+    {
+        "id": 145,
+        "autor": "David Foster Wallace"
+    },
+    {
+        "id": 146,
+        "autor": "David Goodis"
+    },
+    {
+        "id": 147,
+        "autor": "David Herbert Lawrence"
+    },
+    {
+        "id": 148,
+        "autor": "Deborah Harkness"
+    },
+    {
+        "id": 149,
+        "autor": "Dino Buzzati"
+    },
+    {
+        "id": 440,
+        "autor": "Djuna Barnes"
+    },
+    {
+        "id": 150,
+        "autor": "Don DeLillo"
+    },
+    {
+        "id": 151,
+        "autor": "Donna Tartt"
+    },
+    {
+        "id": 152,
+        "autor": "Doris Lessing"
+    },
+    {
+        "id": 153,
+        "autor": "Douglas Adams"
+    },
+    {
+        "id": 154,
+        "autor": "Dylan Thomas"
+    },
+    {
+        "id": 171,
+        "autor": "Eça de Queirós"
+    },
+    {
+        "id": 170,
+        "autor": "Eça de Queiroz"
+    },
+    {
+        "id": 156,
+        "autor": "Edgar Allan Poe"
+    },
+    {
+        "id": 157,
+        "autor": "Edgar Rice Burroughs"
+    },
+    {
+        "id": 158,
+        "autor": "Edgar Wallace"
+    },
+    {
+        "id": 159,
+        "autor": "Edith Wharton"
+    },
+    {
+        "id": 160,
+        "autor": "Eduardo Galeano"
+    },
+    {
+        "id": 161,
+        "autor": "Edward Young"
+    },
+    {
+        "id": 162,
+        "autor": "Elizabeth Gaskell"
+    },
+    {
+        "id": 155,
+        "autor": "E. M. Forster"
+    },
+    {
+        "id": 175,
+        "autor": "Émile Zola"
+    },
+    {
+        "id": 163,
+        "autor": "Emily Brontë"
+    },
+    {
+        "id": 165,
+        "autor": "Erico Verissimo"
+    },
+    {
+        "id": 164,
+        "autor": "Eric van Lustbader"
+    },
+    {
+        "id": 166,
+        "autor": "Ernest Hemingway"
+    },
+    {
+        "id": 167,
+        "autor": "Ernesto Sabato"
+    },
+    {
+        "id": 168,
+        "autor": "Esopo"
+    },
+    {
+        "id": 169,
+        "autor": "Euclides da Cunha"
+    },
+    {
+        "id": 173,
+        "autor": "Fagundes Varela"
+    },
+    {
+        "id": 174,
+        "autor": "Ferguson Findley"
+    },
+    {
+        "id": 191,
+        "autor": "Fernando Pessoa"
+    },
+    {
+        "id": 192,
+        "autor": "Ferreira Gullar"
+    },
+    {
+        "id": 193,
+        "autor": "Fiódor Dostoiévski"
+    },
+    {
+        "id": 446,
+        "autor": "Fiódor Sologub"
+    },
+    {
+        "id": 313,
+        "autor": "Flannery O'Connor"
+    },
+    {
+        "id": 9,
+        "autor": "Flann O'Brien"
+    },
+    {
+        "id": 314,
+        "autor": "Frances Crane"
+    },
+    {
+        "id": 315,
+        "autor": "Frances Noyes Hart"
+    },
+    {
+        "id": 316,
+        "autor": "Francine Prose"
+    },
+    {
+        "id": 317,
+        "autor": "Francis Scott Fitzgerald"
+    },
+    {
+        "id": 318,
+        "autor": "Francis Thompson"
+    },
+    {
+        "id": 319,
+        "autor": "Frank Herberts"
+    },
+    {
+        "id": 320,
+        "autor": "Franz Kafka"
+    },
+    {
+        "id": 280,
+        "autor": "Fredric Brown"
+    },
+    {
+        "id": 281,
+        "autor": "Friedrich Durrenmatt"
+    },
+    {
+        "id": 282,
+        "autor": "Fritz Leiber"
+    },
+    {
+        "id": 172,
+        "autor": "F. Scott Fitzgerald"
+    },
+    {
+        "id": 283,
+        "autor": "Fulke Greville"
+    },
+    {
+        "id": 284,
+        "autor": "Fyodor Dostoevsky"
+    },
+    {
+        "id": 285,
+        "autor": "Fyodor Dostoyevsky"
+    },
+    {
+        "id": 286,
+        "autor": "Fyodor Mikhailovich Dostoyevsky"
+    },
+    {
+        "id": 288,
+        "autor": "Gabriel García Márquez"
+    },
+    {
+        "id": 289,
+        "autor": "Gaston Leroux"
+    },
+    {
+        "id": 290,
+        "autor": "Geoffrey Chaucer"
+    },
+    {
+        "id": 291,
+        "autor": "George Crabbe"
+    },
+    {
+        "id": 292,
+        "autor": "George Eliot"
+    },
+    {
+        "id": 293,
+        "autor": "George Orwell"
+    },
+    {
+        "id": 294,
+        "autor": "George R. Stewart"
+    },
+    {
+        "id": 295,
+        "autor": "Georges Bataille"
+    },
+    {
+        "id": 296,
+        "autor": "Georges Simenon"
+    },
+    {
+        "id": 297,
+        "autor": "Giacomo Casanova"
+    },
+    {
+        "id": 299,
+        "autor": "Gilbert Keith Chesterton"
+    },
+    {
+        "id": 298,
+        "autor": "Gil Vicente"
+    },
+    {
+        "id": 300,
+        "autor": "Giovanni Boccaccio"
+    },
+    {
+        "id": 287,
+        "autor": "G. K. Chesterton"
+    },
+    {
+        "id": 301,
+        "autor": "Gonçalves Dias"
+    },
+    {
+        "id": 302,
+        "autor": "Graciliano Ramos"
+    },
+    {
+        "id": 303,
+        "autor": "Gregório de Matos"
+    },
+    {
+        "id": 246,
+        "autor": "Gustave Flaubert"
+    },
+    {
+        "id": 304,
+        "autor": "Guy de Maupassant"
+    },
+    {
+        "id": 305,
+        "autor": "Gyorgy Dragoman"
+    },
+    {
+        "id": 306,
+        "autor": "H. A. Guerber"
+    },
+    {
+        "id": 249,
+        "autor": "Hanif Kureishi"
+    },
+    {
+        "id": 248,
+        "autor": "Han Kang"
+    },
+    {
+        "id": 250,
+        "autor": "Harold Evans"
+    },
+    {
+        "id": 251,
+        "autor": "Haruki Murakami"
+    },
+    {
+        "id": 252,
+        "autor": "Hazel Gaynor"
+    },
+    {
+        "id": 307,
+        "autor": "H. E. Bates"
+    },
+    {
+        "id": 253,
+        "autor": "Heinrich von Kleist"
+    },
+    {
+        "id": 254,
+        "autor": "Helena Morley"
+    },
+    {
+        "id": 255,
+        "autor": "Henrik Ibsen"
+    },
+    {
+        "id": 256,
+        "autor": "Henry David Thoreau"
+    },
+    {
+        "id": 257,
+        "autor": "Henry James"
+    },
+    {
+        "id": 258,
+        "autor": "Herman Melville"
+    },
+    {
+        "id": 259,
+        "autor": "Hermann Hesse"
+    },
+    {
+        "id": 247,
+        "autor": "H. G. Wells"
+    },
+    {
+        "id": 260,
+        "autor": "Hilda Hilst"
+    },
+    {
+        "id": 261,
+        "autor": "Hiro Arikawa"
+    },
+    {
+        "id": 262,
+        "autor": "Holly Black"
+    },
+    {
+        "id": 263,
+        "autor": "Homer"
+    },
+    {
+        "id": 264,
+        "autor": "Homero"
+    },
+    {
+        "id": 265,
+        "autor": "Honore De Balzac"
+    },
+    {
+        "id": 266,
+        "autor": "Howard Phillips Lovecraft"
+    },
+    {
+        "id": 1,
+        "autor": "H. P. Lovecraft"
+    },
+    {
+        "id": 267,
+        "autor": "Hunter S. Thompson"
+    },
+    {
+        "id": 268,
+        "autor": "Ian McEwan"
+    },
+    {
+        "id": 269,
+        "autor": "Ievguêni I. Zamiatin"
+    },
+    {
+        "id": 194,
+        "autor": "Imre Kertész"
+    },
+    {
+        "id": 195,
+        "autor": "Inazo Nitobe"
+    },
+    {
+        "id": 196,
+        "autor": "Irmãos Grimm"
+    },
+    {
+        "id": 197,
+        "autor": "Irwin Shaw"
+    },
+    {
+        "id": 198,
+        "autor": "Isaac Asimov"
+    },
+    {
+        "id": 199,
+        "autor": "Italo Calvino"
+    },
+    {
+        "id": 270,
+        "autor": "Italo Svevo"
+    },
+    {
+        "id": 448,
+        "autor": "Ivan Bunin"
+    },
+    {
+        "id": 271,
+        "autor": "Ivan Turgenev"
+    },
+    {
+        "id": 272,
+        "autor": "Ivan Turguêniev"
+    },
+    {
+        "id": 201,
+        "autor": "Jack Higgins"
+    },
+    {
+        "id": 202,
+        "autor": "Jack Kerouac"
+    },
+    {
+        "id": 2,
+        "autor": "Jack London"
+    },
+    {
+        "id": 3,
+        "autor": "James Baldwin"
+    },
+    {
+        "id": 203,
+        "autor": "James Fenimore Cooper"
+    },
+    {
+        "id": 4,
+        "autor": "James Joyce"
+    },
+    {
+        "id": 204,
+        "autor": "James M. Cain"
+    },
+    {
+        "id": 5,
+        "autor": "Jane Austen"
+    },
+    {
+        "id": 206,
+        "autor": "Janny Wurts"
+    },
+    {
+        "id": 205,
+        "autor": "Jan van Eyck"
+    },
+    {
+        "id": 207,
+        "autor": "Javier Marías"
+    },
+    {
+        "id": 209,
+        "autor": "Jean-Paul Sartre"
+    },
+    {
+        "id": 208,
+        "autor": "Jean Rhys"
+    },
+    {
+        "id": 210,
+        "autor": "Jenny Zhang"
+    },
+    {
+        "id": 211,
+        "autor": "Jeremy Bushnell"
+    },
+    {
+        "id": 212,
+        "autor": "Jerome K. Jerome"
+    },
+    {
+        "id": 273,
+        "autor": "J. G. Ballard"
+    },
+    {
+        "id": 274,
+        "autor": "J. K. Rowling"
+    },
+    {
+        "id": 275,
+        "autor": "J. M. Barrie"
+    },
+    {
+        "id": 276,
+        "autor": "J. M. Coetzee"
+    },
+    {
+        "id": 213,
+        "autor": "Joanne Greenberg"
+    },
+    {
+        "id": 238,
+        "autor": "João Cabral de Melo Neto"
+    },
+    {
+        "id": 239,
+        "autor": "João Guimarães Rosa"
+    },
+    {
+        "id": 240,
+        "autor": "João Ubaldo Ribeiro"
+    },
+    {
+        "id": 214,
+        "autor": "Joaquim Manoel Macedo"
+    },
+    {
+        "id": 217,
+        "autor": "Johanna Lindsey"
+    },
+    {
+        "id": 215,
+        "autor": "Johann Wolfgang Goeth"
+    },
+    {
+        "id": 216,
+        "autor": "Johann Wolfgang von Goethe"
+    },
+    {
+        "id": 218,
+        "autor": "John Ashbery"
+    },
+    {
+        "id": 407,
+        "autor": "John Fante"
+    },
+    {
+        "id": 219,
+        "autor": "John Gardner"
+    },
+    {
+        "id": 220,
+        "autor": "John Keats"
+    },
+    {
+        "id": 221,
+        "autor": "John Masefield"
+    },
+    {
+        "id": 222,
+        "autor": "John Milton"
+    },
+    {
+        "id": 223,
+        "autor": "John Scalzi"
+    },
+    {
+        "id": 441,
+        "autor": "John Williams"
+    },
+    {
+        "id": 224,
+        "autor": "John William Waterhouse"
+    },
+    {
+        "id": 225,
+        "autor": "Jonathan Swift"
+    },
+    {
+        "id": 227,
+        "autor": "Jorge Amado"
+    },
+    {
+        "id": 226,
+        "autor": "Jorge Amado & José Saramago"
+    },
+    {
+        "id": 228,
+        "autor": "Jorge de Lima"
+    },
+    {
+        "id": 235,
+        "autor": "José de Alencar"
+    },
+    {
+        "id": 236,
+        "autor": "José J. Veiga"
+    },
+    {
+        "id": 229,
+        "autor": "Joseph Conrad"
+    },
+    {
+        "id": 230,
+        "autor": "Joseph Hansen"
+    },
+    {
+        "id": 231,
+        "autor": "Joseph Heller"
+    },
+    {
+        "id": 232,
+        "autor": "Joseph Jacobs"
+    },
+    {
+        "id": 233,
+        "autor": "Joseph Sheridan Le Fanu"
+    },
+    {
+        "id": 237,
+        "autor": "José Saramago"
+    },
+    {
+        "id": 234,
+        "autor": "Josh Pachter"
+    },
+    {
+        "id": 277,
+        "autor": "J. P. Donleavy"
+    },
+    {
+        "id": 200,
+        "autor": "J. R. R. Tolkien"
+    },
+    {
+        "id": 444,
+        "autor": "Juan Rulfo"
+    },
+    {
+        "id": 241,
+        "autor": "Jules Verne"
+    },
+    {
+        "id": 243,
+        "autor": "Júlia Lopes de Almeida"
+    },
+    {
+        "id": 242,
+        "autor": "Julio Cortázar"
+    },
+    {
+        "id": 244,
+        "autor": "Júlio Verne"
+    },
+    {
+        "id": 245,
+        "autor": "Katherine Mansfield"
+    },
+    {
+        "id": 321,
+        "autor": "Katie Kitamura"
+    },
+    {
+        "id": 322,
+        "autor": "Katja Petrowskaja"
+    },
+    {
+        "id": 323,
+        "autor": "Katsushika Hokusai"
+    },
+    {
+        "id": 324,
+        "autor": "Kazuo Ishiguro"
+    },
+    {
+        "id": 325,
+        "autor": "Kenneth Grahame"
+    },
+    {
+        "id": 326,
+        "autor": "Kenzaburo Oe"
+    },
+    {
+        "id": 327,
+        "autor": "Kim Young-ha"
+    },
+    {
+        "id": 328,
+        "autor": "Kurt Vonnegut"
+    },
+    {
+        "id": 329,
+        "autor": "Lauren James"
+    },
+    {
+        "id": 330,
+        "autor": "Leigh Bardugo"
+    },
+    {
+        "id": 331,
+        "autor": "Len Deighton"
+    },
+    {
+        "id": 333,
+        "autor": "Leon Tolstói"
+    },
+    {
+        "id": 334,
+        "autor": "Leon Uris"
+    },
+    {
+        "id": 332,
+        "autor": "Leo Tolstoy"
+    },
+    {
+        "id": 335,
+        "autor": "Liev Tolstói"
+    },
+    {
+        "id": 336,
+        "autor": "Lima Barreto"
+    },
+    {
+        "id": 337,
+        "autor": "Liu Xiaobo"
+    },
+    {
+        "id": 338,
+        "autor": "Lord Byron"
+    },
+    {
+        "id": 339,
+        "autor": "Lord Redesdale"
+    },
+    {
+        "id": 340,
+        "autor": "Lore Segal"
+    },
+    {
+        "id": 341,
+        "autor": "Louisa May Alcott"
+    },
+    {
+        "id": 342,
+        "autor": "Louise Imogen Guiney"
+    },
+    {
+        "id": 343,
+        "autor": "Lourenço Mutarelli"
+    },
+    {
+        "id": 344,
+        "autor": "Lucia Berlin"
+    },
+    {
+        "id": 345,
+        "autor": "Lucy Maud Montgomery"
+    },
+    {
+        "id": 349,
+        "autor": "Luís de Camões"
+    },
+    {
+        "id": 346,
+        "autor": "Luis Fernando Veríssimo"
+    },
+    {
+        "id": 347,
+        "autor": "Luiz Alfredo Garcia-Roza"
+    },
+    {
+        "id": 348,
+        "autor": "Luo Guanzhong"
+    },
+    {
+        "id": 350,
+        "autor": "Lygia Fagundes Telles"
+    },
+    {
+        "id": 351,
+        "autor": "Machado de Assis"
+    },
+    {
+        "id": 364,
+        "autor": "Magda Szabo"
+    },
+    {
+        "id": 365,
+        "autor": "Mai Jia"
+    },
+    {
+        "id": 366,
+        "autor": "Manuel Antônio de Almeida"
+    },
+    {
+        "id": 367,
+        "autor": "Manuel Bandeira"
+    },
+    {
+        "id": 378,
+        "autor": "Marçal Aquino"
+    },
+    {
+        "id": 369,
+        "autor": "Marcelino Freire"
+    },
+    {
+        "id": 370,
+        "autor": "Marcelo Rubens Paiva"
+    },
+    {
+        "id": 368,
+        "autor": "Marcel Proust"
+    },
+    {
+        "id": 371,
+        "autor": "Margaret Atwood"
+    },
+    {
+        "id": 445,
+        "autor": "Margarita Karapanou"
+    },
+    {
+        "id": 372,
+        "autor": "Maria Firmina dos Reis"
+    },
+    {
+        "id": 373,
+        "autor": "Mario de Andrade"
+    },
+    {
+        "id": 374,
+        "autor": "Mario Quintana"
+    },
+    {
+        "id": 375,
+        "autor": "Mario Vargas Llosa"
+    },
+    {
+        "id": 376,
+        "autor": "Mark Lawrence"
+    },
+    {
+        "id": 377,
+        "autor": "Mark Twain"
+    },
+    {
+        "id": 352,
+        "autor": "Marquês de Sade"
+    },
+    {
+        "id": 353,
+        "autor": "Martha Medeiros"
+    },
+    {
+        "id": 354,
+        "autor": "Mary Kelly"
+    },
+    {
+        "id": 355,
+        "autor": "Mary Renault"
+    },
+    {
+        "id": 356,
+        "autor": "Mary Shelley"
+    },
+    {
+        "id": 357,
+        "autor": "Maurice Leblanc"
+    },
+    {
+        "id": 363,
+        "autor": "Máximo Gorki"
+    },
+    {
+        "id": 358,
+        "autor": "May Sarton"
+    },
+    {
+        "id": 359,
+        "autor": "Michael Chabon"
+    },
+    {
+        "id": 360,
+        "autor": "Michael Crichton"
+    },
+    {
+        "id": 361,
+        "autor": "Michael Grant"
+    },
+    {
+        "id": 362,
+        "autor": "Michael Ondaatje"
+    },
+    {
+        "id": 379,
+        "autor": "Michel Houellebecq"
+    },
+    {
+        "id": 381,
+        "autor": "Miguel Ángel Asturias"
+    },
+    {
+        "id": 380,
+        "autor": "Miguel de Cervantes"
+    },
+    {
+        "id": 382,
+        "autor": "Mikhail Bulgakov"
+    },
+    {
+        "id": 383,
+        "autor": "Millôr Fernandes"
+    },
+    {
+        "id": 384,
+        "autor": "Milton Hatoum"
+    },
+    {
+        "id": 385,
+        "autor": "Min Jin Lee"
+    },
+    {
+        "id": 386,
+        "autor": "Miyamoto Musashi"
+    },
+    {
+        "id": 387,
+        "autor": "Monteiro Lobato"
+    },
+    {
+        "id": 388,
+        "autor": "Muriel Spark"
+    },
+    {
+        "id": 389,
+        "autor": "Natalia Ginzburg"
+    },
+    {
+        "id": 390,
+        "autor": "Nathaniel Hawthorne"
+    },
+    {
+        "id": 391,
+        "autor": "Neil Gaiman"
+    },
+    {
+        "id": 392,
+        "autor": "Nelson Rodrigues"
+    },
+    {
+        "id": 393,
+        "autor": "Nezami Ganjavi"
+    },
+    {
+        "id": 394,
+        "autor": "Ngaio Marsh"
+    },
+    {
+        "id": 395,
+        "autor": "Nicole Krauss"
+    },
+    {
+        "id": 396,
+        "autor": "Nikolai Gogol"
+    },
+    {
+        "id": 397,
+        "autor": "Noel Streatfeild"
+    },
+    {
+        "id": 398,
+        "autor": "Norman Mailer"
+    },
+    {
+        "id": 399,
+        "autor": "Octavia E. Butler"
+    },
+    {
+        "id": 400,
+        "autor": "Olavo Bilac"
+    },
+    {
+        "id": 401,
+        "autor": "Olga Tokarczuk"
+    },
+    {
+        "id": 442,
+        "autor": "Orhan Pamuk"
+    },
+    {
+        "id": 402,
+        "autor": "Oscar Wilde"
+    },
+    {
+        "id": 403,
+        "autor": "Otto Penzler"
+    },
+    {
+        "id": 404,
+        "autor": "Pablo Neruda"
+    },
+    {
+        "id": 405,
+        "autor": "Padre Antônio Vieira"
+    },
+    {
+        "id": 406,
+        "autor": "Pat Frank"
+    },
+    {
+        "id": 6,
+        "autor": "Patricia Highsmith"
+    },
+    {
+        "id": 7,
+        "autor": "Patrick O'Brian"
+    },
+    {
+        "id": 410,
+        "autor": "Paula Fox"
+    },
+    {
+        "id": 408,
+        "autor": "Paul Bowles"
+    },
+    {
+        "id": 409,
+        "autor": "Paul Fleischman"
+    },
+    {
+        "id": 411,
+        "autor": "Paulo Coelho"
+    },
+    {
+        "id": 412,
+        "autor": "Paulo Leminski"
+    },
+    {
+        "id": 413,
+        "autor": "Peter Buwalda"
+    },
+    {
+        "id": 414,
+        "autor": "Petronius"
+    },
+    {
+        "id": 415,
+        "autor": "Petrowskaja Katja"
+    },
+    {
+        "id": 416,
+        "autor": "Philip K. Dick"
+    },
+    {
+        "id": 417,
+        "autor": "Philip Pullman"
+    },
+    {
+        "id": 418,
+        "autor": "Philip Roth"
+    },
+    {
+        "id": 419,
+        "autor": "Piers Anthony"
+    },
+    {
+        "id": 420,
+        "autor": "Primo Levi"
+    },
+    {
+        "id": 421,
+        "autor": "Prosper Mérimée"
+    },
+    {
+        "id": 422,
+        "autor": "Rainer Maria Rilke"
+    },
+    {
+        "id": 423,
+        "autor": "Raphael Draccon"
+    },
+    {
+        "id": 424,
+        "autor": "Ray Bradbury"
+    },
+    {
+        "id": 425,
+        "autor": "Raymond Chandler"
+    },
+    {
+        "id": 426,
+        "autor": "Raymond E. Feist"
+    },
+    {
+        "id": 427,
+        "autor": "Richard Crashaw"
+    },
+    {
+        "id": 428,
+        "autor": "Rick Riordan"
+    },
+    {
+        "id": 429,
+        "autor": "Robert A. Heinlein"
+    },
+    {
+        "id": 430,
+        "autor": "Robert Darnton"
+    },
+    {
+        "id": 431,
+        "autor": "Robert E. Howard"
+    },
+    {
+        "id": 432,
+        "autor": "Robert Jordan"
+    },
+    {
+        "id": 433,
+        "autor": "Robert Louis Stevenson"
+    },
+    {
+        "id": 434,
+        "autor": "Robert Musil"
+    },
+    {
+        "id": 435,
+        "autor": "Roberto Arlt"
+    },
+    {
+        "id": 436,
+        "autor": "Roberto Bolaño"
+    },
+    {
+        "id": 437,
+        "autor": "Robin McKinley"
+    },
+    {
+        "id": 438,
+        "autor": "Romain Gary"
+    },
+    {
+        "id": 439,
+        "autor": "Ronald Malfi"
+    },
+    {
+        "id": 14,
+        "autor": "Rubem Fonseca"
+    },
+    {
+        "id": 15,
+        "autor": "Rudyard Kipling"
+    },
+    {
+        "id": 16,
+        "autor": "Rupi Kaur"
+    },
+    {
+        "id": 17,
+        "autor": "Saadi Shirazi"
+    },
+    {
+        "id": 18,
+        "autor": "Sarah J. Maas"
+    },
+    {
+        "id": 19,
+        "autor": "Shea Ernshaw"
+    },
+    {
+        "id": 20,
+        "autor": "Sholem Aleichem"
+    },
+    {
+        "id": 21,
+        "autor": "Sidney Sheldon"
+    },
+    {
+        "id": 22,
+        "autor": "Silvina Ocampo"
+    },
+    {
+        "id": 23,
+        "autor": "Simon Beckett"
+    },
+    {
+        "id": 24,
+        "autor": "Sir Thomas Malory"
+    },
+    {
+        "id": 31,
+        "autor": "Sófocles"
+    },
+    {
+        "id": 25,
+        "autor": "Stanislaw Lem"
+    },
+    {
+        "id": 26,
+        "autor": "Stefan Zweig"
+    },
+    {
+        "id": 27,
+        "autor": "Stendhal"
+    },
+    {
+        "id": 28,
+        "autor": "Steven Erikson"
+    },
+    {
+        "id": 29,
+        "autor": "Svetlana Aleksiévitch"
+    },
+    {
+        "id": 30,
+        "autor": "Sylvia Plath"
+    },
+    {
+        "id": 32,
+        "autor": "Terry Eagleton"
+    },
+    {
+        "id": 34,
+        "autor": "Thea von Harbou"
+    },
+    {
+        "id": 33,
+        "autor": "The Brothers Grimm"
+    },
+    {
+        "id": 35,
+        "autor": "Thomas Hardy"
+    },
+    {
+        "id": 36,
+        "autor": "Thomas Mann"
+    },
+    {
+        "id": 37,
+        "autor": "Thomas More"
+    },
+    {
+        "id": 38,
+        "autor": "Thomas Otway"
+    },
+    {
+        "id": 39,
+        "autor": "Thornton Wilder"
+    },
+    {
+        "id": 40,
+        "autor": "Toni Morrison"
+    },
+    {
+        "id": 41,
+        "autor": "Truman Capote"
+    },
+    {
+        "id": 42,
+        "autor": "Upendranath Ashk"
+    },
+    {
+        "id": 43,
+        "autor": "Upton Sinclair"
+    },
+    {
+        "id": 44,
+        "autor": "Ursula K. Le Guin"
+    },
+    {
+        "id": 46,
+        "autor": "Van Gogh"
+    },
+    {
+        "id": 57,
+        "autor": "Vários autores"
+    },
+    {
+        "id": 47,
+        "autor": "Various"
+    },
+    {
+        "id": 45,
+        "autor": "V. E. Schwab"
+    },
+    {
+        "id": 48,
+        "autor": "Victor Hugo"
+    },
+    {
+        "id": 49,
+        "autor": "Victoria Aveyard"
+    },
+    {
+        "id": 50,
+        "autor": "Vincent Starrett"
+    },
+    {
+        "id": 51,
+        "autor": "Vinicius de Moraes"
+    },
+    {
+        "id": 52,
+        "autor": "Virginia Woolf"
+    },
+    {
+        "id": 53,
+        "autor": "Visconde de Taunay"
+    },
+    {
+        "id": 54,
+        "autor": "Vladimir Bartol"
+    },
+    {
+        "id": 447,
+        "autor": "Vladimir Giliaróvski"
+    },
+    {
+        "id": 55,
+        "autor": "Vladimir Nabokov"
+    },
+    {
+        "id": 56,
+        "autor": "Voltaire"
+    },
+    {
+        "id": 59,
+        "autor": "Walter M. Miller Jr."
+    },
+    {
+        "id": 60,
+        "autor": "Wilkie Collins"
+    },
+    {
+        "id": 61,
+        "autor": "William Blake"
+    },
+    {
+        "id": 62,
+        "autor": "William Ernest Henley"
+    },
+    {
+        "id": 63,
+        "autor": "William Faulkner"
+    },
+    {
+        "id": 64,
+        "autor": "William Gibson"
+    },
+    {
+        "id": 65,
+        "autor": "William Golding"
+    },
+    {
+        "id": 66,
+        "autor": "William Hope Hodgson"
+    },
+    {
+        "id": 67,
+        "autor": "William S. Burroughs"
+    },
+    {
+        "id": 68,
+        "autor": "William Shakespeare"
+    },
+    {
+        "id": 58,
+        "autor": "W. M. Thackeray"
+    },
+    {
+        "id": 69,
+        "autor": "Wu Cheng'en"
+    },
+    {
+        "id": 70,
+        "autor": "Yan Ge"
+    },
+    {
+        "id": 71,
+        "autor": "Yasunari Kawabata"
+    },
+    {
+        "id": 72,
+        "autor": "Yei Ozaki Theodora"
+    },
+    {
+        "id": 73,
+        "autor": "Yiyun Li"
+    },
+    {
+        "id": 74,
+        "autor": "Yukio Mishima"
+    },
+    {
+        "id": 75,
+        "autor": "Yusuf Idris"
+    }
+]

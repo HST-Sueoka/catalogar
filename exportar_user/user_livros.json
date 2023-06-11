@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1510,
+        "autor": "Georges Simenon",
+        "titulo": "A dançarina do cabaré",
+        "idioma": "pt"
+    },
+    {
+        "id": 1513,
+        "autor": "Georges Simenon",
+        "titulo": "A neve estava suja",
+        "idioma": "pt"
+    },
+    {
+        "id": 1551,
+        "autor": "Georges Simenon",
+        "titulo": "Um Crime na Holanda",
+        "idioma": "pt"
+    },
+    {
+        "id": 1604,
+        "autor": "Fiódor Dostoiévski",
+        "titulo": "Memórias do Subsolo",
+        "idioma": "pt"
+    },
+    {
+        "id": 1795,
+        "autor": "Mary Renault",
+        "titulo": "The King Must Die",
+        "idioma": "en"
+    },
+    {
+        "id": 1922,
+        "autor": "Mikhail Bulgakov",
+        "titulo": "The White Guard",
+        "idioma": "en"
+    },
+    {
+        "id": 2104,
+        "autor": "Philip K. Dick",
+        "titulo": "O Tempo Desconjuntado",
+        "idioma": "pt"
+    },
+    {
+        "id": 2131,
+        "autor": "Philip Roth",
+        "titulo": "O Seio",
+        "idioma": "pt"
+    }
+]

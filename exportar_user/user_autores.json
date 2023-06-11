@@ -1,0 +1,54 @@
+[
+    {
+        "id": 2,
+        "autor": "Jack London"
+    },
+    {
+        "id": 7,
+        "autor": "Patrick O'Brian"
+    },
+    {
+        "id": 71,
+        "autor": "Yasunari Kawabata"
+    },
+    {
+        "id": 193,
+        "autor": "Fiódor Dostoiévski"
+    },
+    {
+        "id": 296,
+        "autor": "Georges Simenon"
+    },
+    {
+        "id": 355,
+        "autor": "Mary Renault"
+    },
+    {
+        "id": 374,
+        "autor": "Mario Quintana"
+    },
+    {
+        "id": 382,
+        "autor": "Mikhail Bulgakov"
+    },
+    {
+        "id": 383,
+        "autor": "Millôr Fernandes"
+    },
+    {
+        "id": 391,
+        "autor": "Neil Gaiman"
+    },
+    {
+        "id": 396,
+        "autor": "Nikolai Gogol"
+    },
+    {
+        "id": 416,
+        "autor": "Philip K. Dick"
+    },
+    {
+        "id": 418,
+        "autor": "Philip Roth"
+    }
+]
